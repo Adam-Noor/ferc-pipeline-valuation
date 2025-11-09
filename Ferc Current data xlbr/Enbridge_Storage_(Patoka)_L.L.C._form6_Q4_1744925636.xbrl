@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by HData Compliance. Copyright 2025, Unique Code e55162c2-5a81-4f3e-b4c7-646ef35bec2c, Generated on 2025-04-17 at 17:33-->
+<xbrli:xbrl xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:utr="http://www.xbrl.org/2009/utr" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ferc="http://ferc.gov/form/2024-04-01/ferc">
+  <link:schemaRef xlink:type="simple" xlink:href="https://eCollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd" />
+  <xbrli:context id="HH6F430EA68AFC29D1DD829B0DDD45FFF4">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHF7CE68E257CA8D85E9415386900D34E3">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2023-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH5B442406C3FBDF3D5B39CECC2FEAAE07">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHF8CDFDA5AB08AD4CDA355B7DB9E625ED">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2022-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHA81882CDF6D768C0C4DE656BAF9D25EC">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:CrudeOilMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHDC873243604B8F71729F3EE643444185">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:GeographicAxis">ferc:InterstateTransportationMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHAC03A414BDFFD683B612F3A67ED99CAF">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleCompaniesControlledByRespondentAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHCE7F889F708413F1D1D0FE95C0ABE695">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAppropriatedRetainedIncomeAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH48EB0D46C675149326E2BB9DA699C8E9">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleInvestInComStocksOfAffiliatedCoCoControlledDirectlyByRespOtherThanThroughTitleToSecuritiesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHB5D8F4EA2742D6E3B17A91A8706868EF">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleLongTermDebtAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH2BEEF53CA87FB5B3C8691C5830F9D30E">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleMilesOfPipelineOperatedAtEndOfYearAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHFBED9222606B4B415FF6A0747A0587DC">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleDirectorsAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH6473A5CB61EE0216A12F3C2F7EDED7EF">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleStatementOfAccumulatedOtherComprehensiveIncomeAndHedgingActivitiesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH50836E7DB45ED4F5E8A5E98C264E8BE1">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleInvestmentsInAffiliatedCompaniesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHB24A474CDE40E4DB9CA3962384B19FC7">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleInvestmentsInCommonStocksOfAffiliatedCompaniesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH40F4F675066403B3A93DB853DB874501">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleUndividedJointInterestPropertyAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH5DE230F6E1DF3BAC5F88F4138308EA25">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAccruedDepreciationUndividedJointInterestPropertyAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH731B917638FC2362CCC8A749D950F9F6">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAmortizationBaseAndReserveAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH79838534547AC69F95E9C7B62CDD665B">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleOtherDeferredChargesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH7932CCD03D8A2FA0F2DC3B2DC46279D7">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleCapitalStockAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHAA8D5DFE051F09CA4F4052627EF801D2">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleCapitalStockChangesDuringTheYearAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH646D3BA05906E1FB85B249BC7E121109">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleInterestAndDividendIncomeAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH9BD5EC9CD29321522894193ECFFAE93E">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>SchedulePaymentsForServicesRenderedByOtherThanEmployeesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH74A13EAE9BD0FBD2714D0BBF6FA93D17">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleStatisticsOfOperationsOwnedByRespondentButOperatedByOthersAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH725707E59197C0DD6170EA3368E437FA">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH250FFCB71087D4609E2B6B35DA18E654">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:CrudeOilMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH77D3AE35010AC404E0B36BC58BEB1CC3">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:CrudeOilDeliveryMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH3E54193CB48FF38E6BE46E092B1A9E8D">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>HH5613e3a3-e88e-4b84-b19f-a0153ae8a895</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHDE2E08FCAD4048DF0FE8359727068C6A">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>HH5613e3a3-e88e-4b84-b19f-a0153ae8a895</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH24C0C6ED3F76800734B72122E5A0EEE9">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:CompaniesControlledByRespondentAxis">
+          <ferc:CompaniesControlledByRespondentDomain>HHe7d524ed-50bd-4cdf-964b-7764d13881f8</ferc:CompaniesControlledByRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH645FEC8C707652DCBD920F5FE6169B54">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>HH663b0ed3-04c5-4bfd-a244-ef9b1884b8eb</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHF9656928A4CF820B014AC0C022B14467">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>HH4b7eb519-d077-4238-8537-90bbb31e50f5</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHE51087194DF6C563D7FC56847B5C0ED5">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>HHd5c4ad28-db45-4483-a002-b060e1bfc68b</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH84279801730B07BA469B5B5F8DDBC73A">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>HH009dc207-2ffb-4d68-9061-17de1aba3502</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH62EE4D6F2F4348D4E650A47150CDEC3D">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:DirectorAxis">
+          <ferc:DirectorDomain>HHde81f9c2-ea14-4702-9476-3a40f5d8cd69</ferc:DirectorDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHFF2035A992A580747347BDA2C8C3E72F">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>HHd244d2f8-4645-4f24-9f97-c2b486daa547</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHEE7D5D0A854E6331A2F3CC3C70BC9D50">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>HHd244d2f8-4645-4f24-9f97-c2b486daa547</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH8083AEB6DD359D424562441CE6B7AB14">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ReceivablesFromAffiliatedCompaniesAxis">
+          <ferc:ReceivablesFromAffiliatedCompaniesDomain>HH73b8bbe1-55cb-406c-b7e8-096ce20a212f</ferc:ReceivablesFromAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH1940B6CC51D4F6333BF119FA509D933B">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ReceivablesFromAffiliatedCompaniesAxis">
+          <ferc:ReceivablesFromAffiliatedCompaniesDomain>HH73b8bbe1-55cb-406c-b7e8-096ce20a212f</ferc:ReceivablesFromAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHC9F1EBE5F3196BC5A7FFB57B82371DD2">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>HH50049e40-9eb4-4a66-9e59-e337beaae32e</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHDE3BE9E828A064AF4C69593428A0ABFF">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>HH50049e40-9eb4-4a66-9e59-e337beaae32e</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH32EBADF7F658F4998C1BF83FB0592F38">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PayablesToAffiliatedCompaniesAxis">
+          <ferc:PayablesToAffiliatedCompaniesDomain>HH1c588f01-7874-4437-8db7-75b0623fa787</ferc:PayablesToAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH241F1C28EA2278284166BB50FDFE8905">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PayablesToAffiliatedCompaniesAxis">
+          <ferc:PayablesToAffiliatedCompaniesDomain>HH1c588f01-7874-4437-8db7-75b0623fa787</ferc:PayablesToAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH68DCBA8E7862089D94EF107707454E03">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PayablesToAffiliatedCompaniesAxis">
+          <ferc:PayablesToAffiliatedCompaniesDomain>HH5f08cd75-e45c-49f3-b95f-c9de5fac38b7</ferc:PayablesToAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH09DEE1BE2B83D4B70F7819B2DBDD8F70">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PayablesToAffiliatedCompaniesAxis">
+          <ferc:PayablesToAffiliatedCompaniesDomain>HH5f08cd75-e45c-49f3-b95f-c9de5fac38b7</ferc:PayablesToAffiliatedCompaniesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH307ACC2EB18A6D7A50279F875E06A90E">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PipelineTaxesAxis">
+          <ferc:PipelineTaxesDomain>HHc90ce0a8-8400-4f3b-8f4b-9ff87d078d7d</ferc:PipelineTaxesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH36A783CC92C21B382E986600CD1A783C">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>HH730621a0-42b6-409d-93a0-db8fdc39d984</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHFB4C8E5790F8D3D51F7613FD89547164">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PaymentsForServicesRenderedByOtherThanEmployeesAxis">
+          <ferc:PaymentsForServicesRenderedByOtherThanEmployeesDomain>HH80db7f5e-d1b4-427a-8f43-9f3dc6209caf</ferc:PaymentsForServicesRenderedByOtherThanEmployeesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHB85A31114D2CED725D07A7663544D00A">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:CrudeOilMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>HH80792ffb-cc33-4f16-ae6d-c92eff54e5b0</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH98FE280211E42E9CD0BE1812288525D3">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:GeographicAxis">ferc:InterstateTransportationMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HH1BCC0CC8DA3E42A5BE8BA32C415001DD">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>b0a95ed1376dfa8d39e9b9b30859d09e</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHE7AD288E427F92843F1F6FA815D552FD">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAnalysisOfFederalIncomeAndOtherTaxesDeferredAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="HHBC51E56B3A0B5B1452ABC1BCABB97D47">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C001328</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>HH80792ffb-cc33-4f16-ae6d-c92eff54e5b0</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id="HHferc_us_Pure">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="HHferc_us_Currency">
+    <xbrli:measure>iso4217:USD</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="HHferc_us_Barrels">
+    <xbrli:measure>utr:bbl</xbrli:measure>
+  </xbrli:unit>
+  <ferc:FormType id="HHF7EC89F6B6814CD2CC1C6928B801FC93" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">6</ferc:FormType>
+  <ferc:IndicatorStockholdersReportSubmittedOrNotPrepared id="HH338A37446FF58C0756F3AE1CD8A44F64" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Not Prepared</ferc:IndicatorStockholdersReportSubmittedOrNotPrepared>
+  <ferc:StatementAboutImportantChangesDuringTheQuarterYearTextBlock id="HHFF9F4E3640A578CDF5DE55A091A9A0F9" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">&lt;div&gt;&lt;div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style="margin: 0pt; padding-left: 0pt;" type="1"&gt;
+&lt;li style="margin-left: 140pt; padding-left: 4pt; font-family: 'Times New Roman'; font-size: 12pt;"&gt;None.&lt;/li&gt;
+&lt;li style="margin-left: 140pt; padding-left: 4pt; font-family: 'Times New Roman'; font-size: 12pt;"&gt;None.&lt;/li&gt;
+&lt;li style="margin-left: 140pt; padding-left: 4pt; font-family: 'Times New Roman'; font-size: 12pt;"&gt;None.&lt;/li&gt;
+&lt;li style="margin-left: 140pt; padding-left: 4pt; font-family: 'Times New Roman'; font-size: 12pt;"&gt;None.&lt;/li&gt;
+&lt;li style="margin-left: 140pt; padding-left: 4pt; font-family: 'Times New Roman'; font-size: 12pt;"&gt;Not applicable.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</ferc:StatementAboutImportantChangesDuringTheQuarterYearTextBlock>
+  <ferc:DisclosureOfAccountingForTheRespondentSPensionsAndPostretirementBenefitsTextBlock id="HHF8BB3A9A670D2645273296C015F63526" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4"></ferc:DisclosureOfAccountingForTheRespondentSPensionsAndPostretirementBenefitsTextBlock>
+  <ferc:DisclosureOfSignificantChangesInOperationsDuringTheYearTextBlock id="HH9B6DE7359654CD51EF2A1E85159D3800" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4"></ferc:DisclosureOfSignificantChangesInOperationsDuringTheYearTextBlock>
+  <ferc:DisclosureOfDetailsOnAccountingForIncomeTaxesTextBlock id="HHA0DCC38EA11403A96F5600BF710C5197" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4"></ferc:DisclosureOfDetailsOnAccountingForIncomeTaxesTextBlock>
+  <ferc:CompanyIdentifier id="HHF0B6C5A33D1162349A8B0E1DF4C7C02D" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">C001328</ferc:CompanyIdentifier>
+  <ferc:ReportYearPeriod id="HH6439FA2135BC4FC31DA52CEDA67ED097" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">2024/Q4</ferc:ReportYearPeriod>
+  <ferc:ReportYear id="HH660FC444EE17A785BFF22BCDC6434313" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">2024</ferc:ReportYear>
+  <ferc:ReportPeriod id="HHBD1AFC97EAE2BF213BAE5A53CD7CEAC7" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Q4</ferc:ReportPeriod>
+  <ferc:ReportDate id="HH8FD963CECD5B15C379755C94FECA9889" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">2025-04-17</ferc:ReportDate>
+  <ferc:NotesToFinancialStatementsTextBlock id="HHFB845F6A13C048AB10E053139FD9FDD6" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">&lt;div&gt;&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 18pt; text-align: justify; font-size: 12pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</ferc:NotesToFinancialStatementsTextBlock>
+  <ferc:DisclosureOfImportantNotesRegardingFinancialStatementsTextBlock id="HHCA5ED8FA45B245705E52E9F0E61FB5CB" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">&lt;div&gt;&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 18pt; text-align: justify; font-size: 12pt;"&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;1.&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;COMPANY&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;ORGANIZATION&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;AND&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;NATURE&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;OF&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-size: 10pt; font-weight: bold;"&gt;OPERATIONS&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Nature of Business&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;Enbridge Storage (Patoka), Inc. (the &amp;#8220;Company&amp;#8221;) is a Delaware corporation and a wholly owned subsidiary of Enbridge (U.S.) Inc. (&amp;#8220;Enbridge&amp;#8221;).&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;The Company is engaged in the storage of crude oil and liquid petroleum which &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;is located in&lt;/span&gt;&lt;span style="font-family: Arial;"&gt; Patoka, Illinois and also receives terminal revenue based regulated shipments.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 13.5pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Regulation&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company's crude oil and liquid petroleum transportation activities are subject to regulation by the Federal Energy Regulatory Commission (&amp;#8220;FERC&amp;#8221;) and various state authorities.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Regulatory bodies exercise statutory authority over matters such as rates and underlying accounting practices, and ratemaking agreements with customers&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO5';"&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 7pt;"&gt;&lt;span style="font-family: Arial; display: none;"&gt;AbaxXBRL_Def:{"IdConcepto":"ferc_DisclosureOfImportantNotesRegardingFinancialStatementsTextBlock"}&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 18pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;2.&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Basis of Presentation and Use of Estimates&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The financial statements of the Company are prepared in accordance with accounting requirements of the Federal Energy Regulatory Commission, as set forth in the applicable Uniform System of Accounts and published accounting releases ("FERC USA"), which is a comprehensive basis of accounting other than accounting principles generally accepted in the United States of America ("US GAAP"). &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and the disclosure of contingent assets and liabilities.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Management regularly evaluates these estimates, utilizing historical experience, consultation with experts and other methods considered reasonable in the circumstances.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Nevertheless, actual results may differ significantly from these estimates.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Any effects on the financial statements resulting from revisions to these estimates are recorded in the period in which the facts that give rise to the revision become known.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Revenue Recognition&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company derives revenues from interstate transportation of crude oil and liquid petroleum under tariffs regulated by the FERC. The Company recognizes revenue upon delivery of products to its customers, when pricing is determinable, and collectability is reasonably assured.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;The Company generally does not own the crude oil and liquid petroleum that it transports or stores, and therefore, does not assume significant direct commodity price risk&lt;/span&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Allowance for Doubtful Accounts&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company establishes provisions for losses on accounts receivable if it determines that it will not collect all or part of the outstanding balance.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Collectability is reviewed regularly, and an allowance is established or adjusted, as necessary, using the specific identification method.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Oil Measurement Gains and Losses&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: justify;"&gt;&lt;span style="font-size: 10pt; font-family: Arial, sans-serif;"&gt;Oil measurement gains and losses occur as part of the normal operating conditions associated with the Company's pipelines. The three types of oil measurement losses include:&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: justify;"&gt;&lt;span style="font-size: 10pt; font-family: Arial, sans-serif;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Symbol;"&gt;&amp;#183;&lt;span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"&gt; &amp;#160; &lt;/span&gt;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Arial, sans-serif;"&gt;physical, which occur through evaporation, shrinkage, differences in measurement between receipt and delivery locations and other operational incidents;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: justify;"&gt;&lt;span style="font-size: 10pt; font-family: Tahoma, sans-serif;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Symbol;"&gt;&amp;#183;&lt;span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"&gt;&amp;#160; &amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Arial, sans-serif;"&gt;degradation, which result from mixing at the interface between higher quality light crude oil and lower quality heavy crude oil in pipelines; and&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: justify;"&gt;&lt;span style="font-size: 10pt; font-family: Arial, sans-serif;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Symbol;"&gt;&amp;#183;&lt;span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"&gt; &amp;#160;&amp;#160; &lt;/span&gt;&lt;/span&gt;&lt;span style="text-indent: -0.25in; font-size: 10pt; font-family: Arial, sans-serif;"&gt;revaluation, which are a function of crude oil prices and the level of the carrier's inventory.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: justify;"&gt;&lt;span style="font-size: 10pt; font-family: Arial, sans-serif;"&gt;&amp;#160;&lt;/span&gt;&lt;span style="font-size: 10pt; font-family: Arial, sans-serif;"&gt;Difficulties are inherent in quantifying oil measurement gains and losses because physical measurements of volumes are not practical, as products continuously move through the pipelines and virtually all the Company&amp;#8217;s pipelines are located underground.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Capitalization Policies, Depreciation Methods and Impairment of Property, Plant and Equipment&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company capitalizes expenditures related to property, plant and equipment, subject to a minimum rule, that have a useful life greater than one year for (1) assets purchased or constructed; (2) existing assets that are replaced, improved, or the useful lives have been extended; or (3) all land, regardless of cost.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Acquisitions of new assets, additions, replacements and improvements (other than land) costing less than the minimum rule, in addition to maintenance and repair costs, are expensed as incurred.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;During construction, the Company capitalizes direct costs, such as labor and materials, and other costs, such as direct overhead and interest at its weighted average cost of debt.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company records property, plant and equipment at its original cost, which is depreciated on a straight-line basis over the lesser of its estimated useful life or the estimated remaining life of the crude oil reserves in the basins the assets serve.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Upon disposition of property, plant and equipment, the cost &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;less&lt;/span&gt;&lt;span style="font-family: Arial;"&gt; net proceeds is typically charged to accumulated depreciation and no gain or loss on disposal is recognized.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company evaluates the recoverability of its property, plant and equipment when events or circumstances such as economic obsolescence, the business climate, legal and other factors indicate it may not recover the carrying amount of the assets.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;The Company evaluates the asset for recoverability by estimating the undiscounted future cash flows expected to be derived from operating the asset.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;The Company recognizes an impairment loss when the carrying amount of the asset exceeds its fair value as determined by quoted market prices in active markets or present value techniques if quotes are unavailable.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Income Taxes&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;We are not subject to federal income taxes. Our taxable income or loss is included as part of the taxable income for our single member limited liability company owner.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Commitments, Contingencies and Environmental Liabilities&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company expenses or capitalizes, as appropriate, expenditures for ongoing compliance with environmental regulations that relate to past or current operations.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Amounts for remediation of existing environmental contamination caused by past operations, which do not benefit future periods by preventing or eliminating future contamination, are expensed. Liabilities are recorded when environmental assessments indicate that remediation efforts are probable, and the costs can be reasonably estimated.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;These estimates are subject to revision in future periods based on actual costs or new information and are included on the Statements of Financial Position in other current and long-term liabilities at their undiscounted amounts.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company recognizes liabilities for other contingencies when, after fully analyzing the available information, it determines it is either probable that an asset has been impaired or that a liability has been incurred and the amount of impairment or loss can be reasonably estimated.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;When a range of probable loss can be estimated, the Company accrues the most likely amount, or if no amount is more likely than another, the minimum of the range of probable loss.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;The Company typically expenses legal costs associated with loss contingencies as such costs are incurred.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;3. RELATED PARTY TRANSACTIONS&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;Administrative and Workforce Related Services&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;Affiliate companies provide management and administrative, operations and workforce related services to the Company.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Enbridge does not record any profit or margin for the services charged to the Company.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;4. ENVIRONMENTAL LIABILITIES&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company is subject to federal and state laws and regulations relating to the protection of the environment.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;span style="font-family: Arial;"&gt;Environmental risk is inherent to liquid pipeline operations and the Company could, at times, be subject to environmental cleanup and enforcement actions. The Company manages this environmental risk through appropriate environmental policies and practices to minimize any impact.&lt;/span&gt;&lt;span style="font-family: Arial; -aw-import: spaces;"&gt;&amp;#160; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company is not aware of any events of non-compliance with respect to environmental matters that would have a material effect on its financial position, results of operations or cash flows.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;5. COMMITMENTS AND CONTINGENCIES&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;Oil in Custody&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial;"&gt;The Company stores crude oil and liquid petroleum owned by its customers for a fee. Virtually all the volume of liquid hydrocarbons in the Company&amp;#8217;s tanks at any one time is owned by the Company&amp;#8217;s customers. Under terms of the Company&amp;#8217;s tariffs, losses of crude oil not resulting from direct negligence of the Company may be apportioned among its customers. In addition, the Company maintains property insurance coverage with respect to crude oil and liquid petroleum in the Company&amp;#8217;s custody.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify; font-size: 10pt;"&gt;&lt;span style="font-family: Arial; font-weight: bold;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO6';"&gt;
+&lt;p style="margin-top: 12pt; margin-bottom: 3pt; page-break-after: avoid; font-size: 10pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 7pt;"&gt;&lt;span style="font-family: Arial; display: none;"&gt;AbaxXBRL_Def:{"IdConcepto":"ferc_DisclosureOfSignificantCommitmentsOrContingentAssetsOrLiabilitiesTextBlock"}&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO7';"&gt;
+&lt;p style="margin-top: 12pt; margin-bottom: 3pt; page-break-after: avoid; font-size: 10pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 7pt;"&gt;&lt;span style="font-family: Arial; display: none;"&gt;AbaxXBRL_Def:{"IdConcepto":"ferc_DisclosureOfAccountingForTheRespondentSPensionsAndPostretirementBenefitsTextBlock"}&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO8';"&gt;&amp;#160;&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO9';"&gt;&amp;#160;&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 8pt;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="-aw-sdt-content: placeholder; -aw-sdt-tag: 'ABAX_XBRL_HECHO10';"&gt;
+&lt;p style="margin-top: 12pt; margin-bottom: 3pt; page-break-after: avoid; font-size: 10pt;"&gt;&amp;#160;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 7pt;"&gt;&lt;span style="font-family: Arial; display: none;"&gt;AbaxXBRL_Def:{"IdConcepto":"ferc_DisclosureOfSignificantRateOrOtherRegulatoryMattersTextBlock"}&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 8pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 12pt;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&amp;#160;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</ferc:DisclosureOfImportantNotesRegardingFinancialStatementsTextBlock>
+  <ferc:DisclosureOfSignificantCommitmentsOrContingentAssetsOrLiabilitiesTextBlock id="HHE3435BEE8D99B1EAE3E25F0CB688A474" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4"></ferc:DisclosureOfSignificantCommitmentsOrContingentAssetsOrLiabilitiesTextBlock>
+  <ferc:DisclosureOfSignificantRateOrOtherRegulatoryMattersTextBlock id="HHDDA657A075463DDF9B45E45AB954A4B4" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4"></ferc:DisclosureOfSignificantRateOrOtherRegulatoryMattersTextBlock>
+  <ferc:Cash id="HHCF1DF92B2BAF11B6EC4FF7A048012546" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1164927</ferc:Cash>
+  <ferc:OilInventory id="HH9B61E76D992A45FF738FDE6CA0BE182C" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1309617</ferc:OilInventory>
+  <ferc:CurrentAssets id="HHF100E47CE5D4C95FF235FA0DFEC928A8" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2782805</ferc:CurrentAssets>
+  <ferc:AccruedDepreciationCarrierProperty id="HH36237E141B9CDB3E2215CC2258F3587B" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierProperty>
+  <ferc:Assets id="HH9089A6C3BA8B3D8F22BD804C0EFF16E7" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2782805</ferc:Assets>
+  <ferc:AccountsPayable id="HHBF8F2FA26A99E5281A599230F7D2CBA9" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">6218</ferc:AccountsPayable>
+  <ferc:OtherCurrentLiabilities id="HHEA906FE4C96EABFC7FDEA91E09D7A452" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">25247</ferc:OtherCurrentLiabilities>
+  <ferc:CurrentLiabilities id="HH8962C043B91A0C69F0AB1A9A90540A97" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">4977579</ferc:CurrentLiabilities>
+  <ferc:Liabilities id="HH925FDA896CC4C0233E4D3FBB8DC1DEBB" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">4977579</ferc:Liabilities>
+  <ferc:AdditionalPaidInCapital id="HH654AC917AD2EB9AE76F0D74003086786" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">-1593550</ferc:AdditionalPaidInCapital>
+  <ferc:StockholdersEquity id="HH3BE46E966CB973E44D80FFA6FE55146E" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">-2194774</ferc:StockholdersEquity>
+  <ferc:LiabilitiesAndStockholdersEquity id="HH584A00C132BC99C8834927A8B312CB4D" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2782805</ferc:LiabilitiesAndStockholdersEquity>
+  <ferc:UnappropriatedRetainedIncome id="HH0A8A7340ED01AEBE7925D5B26D5D186B" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">-601224</ferc:UnappropriatedRetainedIncome>
+  <ferc:RightOfWayTrunkLinesCarrierProperty id="HH06F17F26D9509A001C88C41F770FD46D" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1001</ferc:RightOfWayTrunkLinesCarrierProperty>
+  <ferc:BuildingsTrunkLinesCarrierProperty id="HHE4EBD5B579B6EEB4FB40FEE7BDBBA840" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">20188</ferc:BuildingsTrunkLinesCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesCarrierProperty id="HHACCAEAE7D080CF689C79CF07F6838DEF" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">631</ferc:PumpingEquipmentTrunkLinesCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesCarrierProperty id="HHCFFBF4F2AFC330F5A69D00986538238A" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1639046</ferc:OtherStationEquipmentTrunkLinesCarrierProperty>
+  <ferc:CarrierPropertyTrunkLines id="HHD37310757D5529A0CEA63F8922A24887" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierPropertyTrunkLines>
+  <ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty id="HH71B21D037AC462BDBCB58144DD97D9E3" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">109537</ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty id="HH649F9298FFA4DF20AB87F1ADE8F14CCB" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">594120</ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty id="HH0C0670D531DD1DC365C919F6012724D7" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">20188</ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HH5A212DC333523CBDE75E5BB9644A5809" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">631</ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty id="HH6750FD590B848571803B41D25F5F432C" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">33224</ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLines id="HH54FCE0567E29C4F154FB81F0BAF0EC09" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierPropertyTrunkLines>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty id="HHB5A355991544ED1751BD206A42C2AE79" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:OriginalCostIncludedInRateBase id="HH1E761FD31E45E0BD93F812E0AFE4A471" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">3823499</ferc:OriginalCostIncludedInRateBase>
+  <ferc:AccumulatedNetDeferredEarningsIncludedInRateBase id="HH6A6F53920C3E6146A6D61A7EE5F35EBA" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">518953</ferc:AccumulatedNetDeferredEarningsIncludedInRateBase>
+  <ferc:DebtComponentReturnOnRateBase id="HHB67365A3873A214092689EDDB94879D2" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">106091</ferc:DebtComponentReturnOnRateBase>
+  <ferc:IncomeTaxAllowance id="HHBAF676DF096116CF141914BE6622954A" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">115506</ferc:IncomeTaxAllowance>
+  <ferc:CompositeTaxRate id="HH9047C8CF46DFAC241F1A8F08F731F57B" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="2" unitRef="HHferc_us_Pure">0.2851</ferc:CompositeTaxRate>
+  <ferc:OperatingRevenues id="HH62C6C27BF58561E49701B1A20B561B0A" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:OperatingRevenues>
+  <ferc:MiscellaneousIncomeCharges id="HH39FE724F3093ED80623D6685D2DEB220" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">1894</ferc:MiscellaneousIncomeCharges>
+  <ferc:OtherIncomeAndDeductions id="HHC815FFF444C86DFF15BEA23F0E2AE3C6" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-4868664</ferc:OtherIncomeAndDeductions>
+  <ferc:NetCarrierOperatingIncome id="HHDE12DC66A0EBEA45133946DA5E69FA0C" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-256522</ferc:NetCarrierOperatingIncome>
+  <ferc:IncomeNetFromNoncarrierProperty id="HH53858BAAB28946DD2E03AF7A9BDD9C25" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-868302</ferc:IncomeNetFromNoncarrierProperty>
+  <ferc:OrdinaryIncomeBeforeFederalIncomeTaxes id="HH81F4FE9E40407C2FF597A22FD45C737E" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:OrdinaryIncomeBeforeFederalIncomeTaxes>
+  <ferc:IncomeLossBeforeExtraordinaryItems id="HH7CC1B6B4D601310CC736C0688B0C8947" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:IncomeLossBeforeExtraordinaryItems>
+  <ferc:NetIncomeLoss id="HHB0A5E8E3E02CE745169A6EE1A1D7FEDB" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:NetIncomeLoss>
+  <ferc:ReceivablesFromAffiliatedCompanies id="HHB71863DCA136D8A4E39036A7C316C731" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">284562</ferc:ReceivablesFromAffiliatedCompanies>
+  <ferc:AccountsReceivable id="HH2A908889677355D404C58D2FE2F7BB91" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">23699</ferc:AccountsReceivable>
+  <ferc:CarrierProperty id="HH1AD022680CDA510E0E494A2A749A3B45" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierProperty>
+  <ferc:NoncarrierProperty id="HHD448B143DBB9FED5C7228F1C4850B0B8" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">6372644</ferc:NoncarrierProperty>
+  <ferc:AccruedDepreciationNoncarrierProperty id="HH7B817DB92914D3AC198604626F9E84FB" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">6372644</ferc:AccruedDepreciationNoncarrierProperty>
+  <ferc:PayablesToAffiliatedCompanies id="HH27DCA7E5EB0AEFA50E66A4CDEA9A43B6" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">4930057</ferc:PayablesToAffiliatedCompanies>
+  <ferc:TaxesPayable id="HH104FD74423D9394B421085CD744F42F0" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">16057</ferc:TaxesPayable>
+  <ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany id="HHD723C74EF4294337F97E7F8D8DA35622" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">-601224</ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany>
+  <ferc:CashAndCashEquivalents id="HH58ECD3317313DE86F5390606AED6044A" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1164927</ferc:CashAndCashEquivalents>
+  <ferc:LinePipeTrunkLinesCarrierProperty id="HH784412427050B25BFB6ADA7797422AE2" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">74477</ferc:LinePipeTrunkLinesCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesCarrierProperty id="HHEF89854511654BA48B2E54F6EB13C735" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">109537</ferc:LinePipeFittingsTrunkLinesCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesCarrierProperty id="HHBF9B9A8BC7DCF8260F4B1FC2570DA3AB" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">594120</ferc:PipelineConstructionTrunkLinesCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesCarrierProperty id="HHCFAABE6143C3AEE1B16770080285CC05" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">33224</ferc:CommunicationSystemsTrunkLinesCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty id="HHD4771A8F27B79F80C63940F41BFE6051" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">23311</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestProperty id="HH5F9D8F3DF6FD7F8D2401E508F99E0848" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty id="HHB8B1A5AD21FCFA20D83D2EDA0ADD2999" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1001</ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty id="HH7F73AFCFFEA4C722442985F696D2E2CD" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">74477</ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HH424B25C04CEA8E57A6E42DEFE8FF69BF" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">1639046</ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HH7FF9B6D2AF8A847FB99A8B629C297108" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">23311</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:TrendedOriginalCostRateBase id="HH746B69847083046BCF107508FB8B357B" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">4342452</ferc:TrendedOriginalCostRateBase>
+  <ferc:EquityComponentReturnOnRateBase id="HH7CAF90196CE05F8B38C46A050AD2C330" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">238927</ferc:EquityComponentReturnOnRateBase>
+  <ferc:ReturnOnRateBase id="HH70084777337CC0A463471976901D6134" contextRef="HHF7CE68E257CA8D85E9415386900D34E3" decimals="0" unitRef="HHferc_us_Currency">345018</ferc:ReturnOnRateBase>
+  <ferc:OperatingExpenses id="HHB64BDB07441CF843C83B11CDDF6364D4" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">279192</ferc:OperatingExpenses>
+  <ferc:UnusualOrInfrequentItemsDebit id="HHD5B73790422A2BD13BCA683F155173BC" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">3998468</ferc:UnusualOrInfrequentItemsDebit>
+  <ferc:IncomeLossFromContinuingOperations id="HH65D038828E4F603888F21A67A827FAAA" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:IncomeLossFromContinuingOperations>
+  <ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome id="HH5357F136F01BB07BC2CA49F0BBCC5700" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome>
+  <ferc:AdditionsToUnappropriatedRetainedIncome id="HH6B9173EC35420871B08DE979AB3F2C2D" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:AdditionsToUnappropriatedRetainedIncome>
+  <ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome id="HH678F28A46F5F9E516D959719C983D4FE" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-5125186</ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome>
+  <ferc:CashOutflowsForPlant id="HH031FF8E8158493DCDE9623F49DFC202B" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">496391</ferc:CashOutflowsForPlant>
+  <ferc:CashFlowsProvidedFromUsedInInvestmentActivities id="HHCF26C1EC31D35DF6CF515BA4FFFDFA44" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-496391</ferc:CashFlowsProvidedFromUsedInInvestmentActivities>
+  <ferc:NetIncreaseDecreaseInCashAndCashEquivalents id="HHA3E4DCC7028103792C11171DE0F83D5C" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">1031098</ferc:NetIncreaseDecreaseInCashAndCashEquivalents>
+  <ferc:DeliveryRevenues id="HHE7EB5B892C9601F3448802493E049F80" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:DeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="HHCCC337E197B688F24167CED1EAAE6070" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:AfudcDepreciationExpense id="HH727ABB03D150629AEF00D9955CA532EA" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">52343</ferc:AfudcDepreciationExpense>
+  <ferc:CostOfService id="HH0AE0AB48EC65784DEE0D7489FF3C5B05" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">690852</ferc:CostOfService>
+  <ferc:InterstateOperatingRevenues id="HHF8CF3D0E0573B40950AB1C2CB3DCF606" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:InterstateOperatingRevenues>
+  <ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate id="HH3F769D210E1F226402847BAC1BAFFD2C" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Pure">73806</ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate>
+  <ferc:CashAndCashEquivalents id="HH17321ECD7598D7CA6A27057090832628" contextRef="HHF8CDFDA5AB08AD4CDA355B7DB9E625ED" decimals="0" unitRef="HHferc_us_Currency">133829</ferc:CashAndCashEquivalents>
+  <ferc:DepreciationAndDepletion id="HH0F910E1E3C4497ACD961A7E07B449BF1" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">460567</ferc:DepreciationAndDepletion>
+  <ferc:NetIncreaseDecreaseInReceivablesOperatingActivities id="HH629CA6CB551909CA4F92812C6DC15853" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">-1394201</ferc:NetIncreaseDecreaseInReceivablesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInInventoryOperatingActivities id="HH74F84A8EA3A34D3646121D8719DF9DB2" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">357370</ferc:NetIncreaseDecreaseInInventoryOperatingActivities>
+  <ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities id="HHD22CB5BDAD9D03244E5A82FB9DA28772" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">1156808</ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities>
+  <ferc:NetCashProvidedByUsedInOperatingActivities id="HHF1D562047576DEA1DB2276C8005C3F95" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">1527489</ferc:NetCashProvidedByUsedInOperatingActivities>
+  <ferc:GrossAdditionsToCarrierPropertyInvestmentActivities id="HH096A30E0045DCF0A23A78016B21276DB" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">496391</ferc:GrossAdditionsToCarrierPropertyInvestmentActivities>
+  <ferc:DeliveryRevenues id="HHD4048FFF3137A578D52F105D1009B952" contextRef="HHA81882CDF6D768C0C4DE656BAF9D25EC" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:DeliveryRevenues>
+  <ferc:OperatingRevenues id="HH001CE5873B0D161A93E16E0FADD1321E" contextRef="HHA81882CDF6D768C0C4DE656BAF9D25EC" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:OperatingRevenues>
+  <ferc:DeliveryRevenues id="HHD3D423FDD1D0F03AA7E4633A1DCDC39E" contextRef="HHDC873243604B8F71729F3EE643444185" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:DeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="HH6DF226D94F6664DB1C80BECA4884DF02" contextRef="HHDC873243604B8F71729F3EE643444185" decimals="0" unitRef="HHferc_us_Currency">22670</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:OperatingAndMaintenanceExpenses id="HH631C1F27A2AB7945CFE09F637A5F3ECE" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">92105</ferc:OperatingAndMaintenanceExpenses>
+  <ferc:DepreciationExpense id="HH4893BA3C7DA9628C82103F71FB81B824" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">70532</ferc:DepreciationExpense>
+  <ferc:AmortizationOfDeferredEarnings id="HHB53029040213AE5F3FC74134FC1F59AB" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Currency">15348</ferc:AmortizationOfDeferredEarnings>
+  <ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn id="HHE2BBD3A2B8F5028FD3867E0056115941" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="4" unitRef="HHferc_us_Pure">0.4896</ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn>
+  <ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn id="HH32A24A07886E7AF7450BD060DD7A3433" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="4" unitRef="HHferc_us_Pure">0.5104</ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn>
+  <ferc:CostOfLongTermDebtCapitalRateOfReturn id="HHE6D01FCA51287685B1110A4FF6ECBF35" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="4" unitRef="HHferc_us_Pure">0.0499</ferc:CostOfLongTermDebtCapitalRateOfReturn>
+  <ferc:RealCostOfStockholdersEquityRateOfReturn id="HH1552FEBCD15F4A7CDA66918547FDDEDA" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="4" unitRef="HHferc_us_Pure">0.1078</ferc:RealCostOfStockholdersEquityRateOfReturn>
+  <ferc:WeightedAverageCostOfCapitalRateOfReturn id="HH2F649C5CEDA92024ED254CB43C5C8DFB" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="4" unitRef="HHferc_us_Pure">0.0795</ferc:WeightedAverageCostOfCapitalRateOfReturn>
+  <ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate id="HH31FCE1992F922CA6EAF55C1BF30E61AF" contextRef="HH5B442406C3FBDF3D5B39CECC2FEAAE07" decimals="0" unitRef="HHferc_us_Barrels">412854</ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate>
+  <ferc:UnappropriatedRetainedIncome id="HHF2FA995564FFDD67853DBDB2C791875F" contextRef="HHF8CDFDA5AB08AD4CDA355B7DB9E625ED" decimals="0" unitRef="HHferc_us_Currency">4523962</ferc:UnappropriatedRetainedIncome>
+  <ferc:NameOfContactPerson id="HH55A4B66641BFCB42708054BE097DA9B8" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Alan McCoy</ferc:NameOfContactPerson>
+  <ferc:AddressOfContactPerson id="HHAEEF5EA9A413B5DDA4C3545AE4B908D4" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">200, 425 - 1st Street SW Calgary | Alberta | Canada | T2P 3L8</ferc:AddressOfContactPerson>
+  <ferc:SubmissionType id="HH416DEE6F32C3D46393B3FE7704DDAAD1" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">O</ferc:SubmissionType>
+  <ferc:TitleOfContactPerson id="HHCA9811A65439D7F2FF60CBA4418AC966" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Manager Accounting</ferc:TitleOfContactPerson>
+  <ferc:TelephoneOfContactPerson id="HHEC074A42BEE9EA793F357DC9C28704F7" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">+1 403-231-5937</ferc:TelephoneOfContactPerson>
+  <ferc:AttestationName id="HHFF6F669FDF86BC2F3884035CAB347780" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Stephen J. Neyland</ferc:AttestationName>
+  <ferc:AttestationTitle id="HH05702BA51B82D17315CCBF4B189AAD81" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Vice President - Finance</ferc:AttestationTitle>
+  <ferc:CorporateOfficerCertificationSignature id="HH820658AE64E7FD1752852BBBD21B18CF" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Stephen J. Neyland</ferc:CorporateOfficerCertificationSignature>
+  <ferc:Remarks id="HHAC8E75B53675A483E63A3B364C9B6FEF" contextRef="HHAC03A414BDFFD683B612F3A67ED99CAF">N/A</ferc:Remarks>
+  <ferc:Remarks id="HHFE7734564CA6F90C87090E3E6DF18060" contextRef="HHCE7F889F708413F1D1D0FE95C0ABE695">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH10DF7AE6DE74A0D68B56F8089475CC3C" contextRef="HH48EB0D46C675149326E2BB9DA699C8E9">N/A</ferc:Remarks>
+  <ferc:Remarks id="HHEBA2395D2963FD16968F729E4234CE41" contextRef="HHB5D8F4EA2742D6E3B17A91A8706868EF">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH4B080C1D26DB51A063192E5EC29BBC67" contextRef="HH2BEEF53CA87FB5B3C8691C5830F9D30E">N/A</ferc:Remarks>
+  <ferc:Remarks id="HHBF49B749F77BFD920CBE759E56742458" contextRef="HHFBED9222606B4B415FF6A0747A0587DC">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH92816EB54C14FEF055B7D729562A99C3" contextRef="HH6473A5CB61EE0216A12F3C2F7EDED7EF">N/A</ferc:Remarks>
+  <ferc:Remarks id="HHD11859CACA0A73E5F5F1A7B71702876C" contextRef="HH50836E7DB45ED4F5E8A5E98C264E8BE1">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH1D35E3C4324AED227593DC1311603AB8" contextRef="HHB24A474CDE40E4DB9CA3962384B19FC7">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH78D9CB24FD25B2C6FF49F5F66578F8F0" contextRef="HH40F4F675066403B3A93DB853DB874501">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH40B938755214CFEF9ABE103BD1FC07F4" contextRef="HH5DE230F6E1DF3BAC5F88F4138308EA25">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH3D454758A119DC5E2B6387337A6949F8" contextRef="HH731B917638FC2362CCC8A749D950F9F6">N/A</ferc:Remarks>
+  <ferc:Remarks id="HHD52B89CA8FC2D99BE39A71BBA4EBF404" contextRef="HH79838534547AC69F95E9C7B62CDD665B">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH666523400E7FAC5C282BAF969ECAB296" contextRef="HH7932CCD03D8A2FA0F2DC3B2DC46279D7">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH379FB7405BCB4B5D8BEA0F2B6EF2F2A0" contextRef="HHAA8D5DFE051F09CA4F4052627EF801D2">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH1C6AB31E2EE4C4FD5CFB520D3A4CD4CF" contextRef="HH646D3BA05906E1FB85B249BC7E121109">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH7E17AFF2A7B5CB66AFC6FC132E16597B" contextRef="HH9BD5EC9CD29321522894193ECFFAE93E">N/A</ferc:Remarks>
+  <ferc:Remarks id="HH1B383CFC8DC57D0705A3FC5EFEA5E539" contextRef="HH74A13EAE9BD0FBD2714D0BBF6FA93D17">N/A</ferc:Remarks>
+  <ferc:IncorporationDate id="HH43C86F3DFE32A5290D9397C81A16581C" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">2004-02-17</ferc:IncorporationDate>
+  <ferc:NameOfPipelineCompanyMakingReport id="HH2ABC25777DDA6CC2EDF8951C39690A2E" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Enbridge Storage (Patoka) LLC</ferc:NameOfPipelineCompanyMakingReport>
+  <ferc:SpecialLawRespondentIncorporatedUnder id="HH7373C74EFF7E1D2DBE05F05C4D1EBE4B" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Delaware</ferc:SpecialLawRespondentIncorporatedUnder>
+  <ferc:NamesOfConstituentAndMergedCompanies id="HH55AC1F54E9CEF215DC2613BCD37011DB" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">None</ferc:NamesOfConstituentAndMergedCompanies>
+  <ferc:DateAndAuthorityForEachConsolidationAndForEachMergerEffected id="HHF36DB833DE6F150D6BA6F160AB8B474C" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">None</ferc:DateAndAuthorityForEachConsolidationAndForEachMergerEffected>
+  <ferc:NameOfOriginalCorporation id="HH8636431A717F266EF335181BEE5A0127" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">N/A</ferc:NameOfOriginalCorporation>
+  <ferc:IndicationRespondentConductedBusinessInDifferentNames id="HH4AC35EF8B0C33F91C6870C1BECE1160C" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">N/A</ferc:IndicationRespondentConductedBusinessInDifferentNames>
+  <ferc:AccountsReceivable id="HH6B709241FED36A1412C9FF564AC88073" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">52908</ferc:AccountsReceivable>
+  <ferc:Prepayments id="HHF79B4EF8E5A02786058E691093F34D17" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">809</ferc:Prepayments>
+  <ferc:AccruedDepreciationCarrierProperty id="HH9618D86A6A21D872C639AAC0EA3D0AC1" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierProperty>
+  <ferc:NoncarrierProperty id="HHA0C0B3EA36DCE9CF13CD66312A5686CA" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">6372644</ferc:NoncarrierProperty>
+  <ferc:Assets id="HHE8D110091239B0964F5D2B1D68ABAE74" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1956096</ferc:Assets>
+  <ferc:PayablesToAffiliatedCompanies id="HHFA0FD55A9DD64A72AC7E1AEE34805F4E" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">4216177</ferc:PayablesToAffiliatedCompanies>
+  <ferc:AccountsPayable id="HH029713891319063B415B204134BC676B" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">27542</ferc:AccountsPayable>
+  <ferc:CurrentLiabilities id="HHB3A60D2C7BB3BEE2247DDF6FF74F57C3" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">4248739</ferc:CurrentLiabilities>
+  <ferc:StockholdersEquity id="HH9D5D6ACD47BB0F4110E6E2C2248473A0" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">-2292643</ferc:StockholdersEquity>
+  <ferc:LiabilitiesAndStockholdersEquity id="HHD6C7E21FF02F1FF804805DA417FF6662" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1956096</ferc:LiabilitiesAndStockholdersEquity>
+  <ferc:Cash id="HH0E5B8B68A0E70352742D11691F726EFC" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">204690</ferc:Cash>
+  <ferc:ReceivablesFromAffiliatedCompanies id="HH0F0D1A5C42C0C052E3C53C70B900B947" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">5780</ferc:ReceivablesFromAffiliatedCompanies>
+  <ferc:OilInventory id="HH9B483405EB121860CB954D0932D39714" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1691909</ferc:OilInventory>
+  <ferc:CurrentAssets id="HH4CD6A1E0D98205C27FE3FCC38CD35088" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1956096</ferc:CurrentAssets>
+  <ferc:CarrierProperty id="HH10010EC0785F8975D50369505313F013" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierProperty>
+  <ferc:AccruedDepreciationNoncarrierProperty id="HH49DE67B481A0BA802675D69A4B1454C3" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">6372644</ferc:AccruedDepreciationNoncarrierProperty>
+  <ferc:OtherCurrentLiabilities id="HH8B76F9A481101EBC3D282E5C792FF8D3" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">5020</ferc:OtherCurrentLiabilities>
+  <ferc:Liabilities id="HHEE591BE401E969C717B93E729EE09F2F" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">4248739</ferc:Liabilities>
+  <ferc:AdditionalPaidInCapital id="HHF7ED37BA40C0C7333B6249893E4FA4B0" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">-1593550</ferc:AdditionalPaidInCapital>
+  <ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany id="HHF7D4D85307F1FD875A241432A3AC88E9" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">-699093</ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany>
+  <ferc:OperatingRevenues id="HH8749C34C725A6670FAAE1E987EF5793F" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:OperatingRevenues>
+  <ferc:OperatingExpenses id="HH2B42AACD11C05FFC826CD75419371DF0" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">24437</ferc:OperatingExpenses>
+  <ferc:NetCarrierOperatingIncome id="HHE3524192B02C0BF6B20177EE7BCEA387" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-12028</ferc:NetCarrierOperatingIncome>
+  <ferc:OtherIncomeAndDeductions id="HH310D768FD2A81022F7611CE52D1F1383" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-85841</ferc:OtherIncomeAndDeductions>
+  <ferc:IncomeNetFromNoncarrierProperty id="HHDC3C3F2AC9FC092BA8ACAB8EF5428F50" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-85841</ferc:IncomeNetFromNoncarrierProperty>
+  <ferc:OrdinaryIncomeBeforeFederalIncomeTaxes id="HH30A1E51A4916C651C0BE5F73AA54B8B5" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:OrdinaryIncomeBeforeFederalIncomeTaxes>
+  <ferc:IncomeLossFromContinuingOperations id="HH3EB752A6AB42F1A33C0F6C86AA70114A" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:IncomeLossFromContinuingOperations>
+  <ferc:IncomeLossBeforeExtraordinaryItems id="HHDE489FAC06A0D63EDEAE5C395CD29355" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:IncomeLossBeforeExtraordinaryItems>
+  <ferc:NetIncomeLoss id="HH655E3E4725C6FD010B20A793FA987CC4" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:NetIncomeLoss>
+  <ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome id="HH5A4BD08947142F44ADB814A5D8D4F24D" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome>
+  <ferc:AdditionsToUnappropriatedRetainedIncome id="HH43CE4292CF5E9CA8A63F6EE7979D4E17" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:AdditionsToUnappropriatedRetainedIncome>
+  <ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome id="HHBBB65261C9657AC1653F0EBBEE70F925" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-97869</ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome>
+  <ferc:UnappropriatedRetainedIncome id="HHDC89F11CD12FCA659FC4DB0EE4D1C370" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">-699093</ferc:UnappropriatedRetainedIncome>
+  <ferc:NetCashProvidedByUsedInOperatingActivities id="HH556B5F58FA62633E8E031B4A7063EE68" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-960237</ferc:NetCashProvidedByUsedInOperatingActivities>
+  <ferc:CashAndCashEquivalents id="HH2FC1B4CCD69A87484BF4006CC5C0C142" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">204690</ferc:CashAndCashEquivalents>
+  <ferc:NetIncreaseDecreaseInReceivablesOperatingActivities id="HH40762DB95CEE951BC9AAAA44F2745C77" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-249573</ferc:NetIncreaseDecreaseInReceivablesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInInventoryOperatingActivities id="HH44CF16030BDBE657339AF4AF532B0C37" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">382292</ferc:NetIncreaseDecreaseInInventoryOperatingActivities>
+  <ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities id="HH27CEC926A9FB5BBA8C18DCB03D73B52D" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-728840</ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInCashAndCashEquivalents id="HH94FD80B7C9D8A4E539B6651E904253E6" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">-960237</ferc:NetIncreaseDecreaseInCashAndCashEquivalents>
+  <ferc:RightOfWayTrunkLinesCarrierProperty id="HHE28557C22DB789301F4B37E3A31E428C" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1001</ferc:RightOfWayTrunkLinesCarrierProperty>
+  <ferc:LinePipeTrunkLinesCarrierProperty id="HH9EB026CD9110BC9BFA0DB9889C36E96E" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">74477</ferc:LinePipeTrunkLinesCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesCarrierProperty id="HH68BC49837B75BE21A66BBE61F9DC2A70" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">109537</ferc:LinePipeFittingsTrunkLinesCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty id="HHC6B54B8939D7651D82A12F663DE488C8" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">23311</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty>
+  <ferc:CarrierPropertyTrunkLines id="HH982F128A44035CE631056718296BFF24" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierPropertyTrunkLines>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestProperty id="HH2BD163301F5AE58E86D0039D13DFC686" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:CarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:PipelineConstructionTrunkLinesCarrierProperty id="HHAED8DC85E370337EFD1164384831DB24" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">594120</ferc:PipelineConstructionTrunkLinesCarrierProperty>
+  <ferc:BuildingsTrunkLinesCarrierProperty id="HH99FCBC1A9AFA142774D552DA0BDAD65E" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">20188</ferc:BuildingsTrunkLinesCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesCarrierProperty id="HH8DDF8C9F5E6D596AE8F14C86B07E0E89" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">631</ferc:PumpingEquipmentTrunkLinesCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesCarrierProperty id="HHC6E3385B9078886DB000AA57A39FABA6" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1639046</ferc:OtherStationEquipmentTrunkLinesCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesCarrierProperty id="HHC9301A3E96ABC470CF0D530856BE2ADD" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">33224</ferc:CommunicationSystemsTrunkLinesCarrierProperty>
+  <ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty id="HHD29A36A4930EBF38DA89698638EBE24E" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1001</ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty id="HH2B45FDF06BC06427CA41EE8FC7CE4DBE" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">594120</ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HH3769AA5B1AEAED5C6AD29697A9D931D1" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">1639046</ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty id="HHB808BC0422901C01E0FECB24AEAC007A" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">33224</ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HH0AA95BBE70E1402E218AB78B877E07D3" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">23311</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty id="HH6CCB63D6293CD38878E4B06FB90690CB" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty id="HH6558658DA80AF03F29644029B87DD313" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">74477</ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty id="HHA7F3D7F2F626E3009F8570B9D6269588" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">109537</ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty id="HH675FBE327227D1B150F9EF3CDF14BDEE" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">20188</ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="HHB6987ED92DC4820D2394D7B6A93441B9" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">631</ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLines id="HHF97EB1F61412AFD0C5CCBF5C31C23A08" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">2495535</ferc:AccruedDepreciationCarrierPropertyTrunkLines>
+  <ferc:DeliveryRevenues id="HH977E2D0EE0018048797A57448DD70372" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:DeliveryRevenues>
+  <ferc:DeliveryRevenues id="HH06486523055B38447051B276037C0067" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:DeliveryRevenues>
+  <ferc:OperatingRevenues id="HHDFCBEC6F32B184647AA548AB29FBB769" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:OperatingRevenues>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="HH592B4199EDA4D7DA8810984B9BC6EBF4" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">125</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:PipelineTaxesGeneralExpense id="HHD0AFC540BBF3ED58EAB0FD7EC9663272" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">334</ferc:PipelineTaxesGeneralExpense>
+  <ferc:OperatingExpenses id="HHD0DBD395B18831656DA8EE6A5BC15C7D" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">24437</ferc:OperatingExpenses>
+  <ferc:OutsideServicesOperationsAndMaintenance id="HHDC87BD523F854A1D89606508BFBBFDB4" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">22310</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="HH8E4119AE0F7ABAF376F44C10D6890190" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">804</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OperationsAndMaintenanceExpensesOil id="HHC14E17DD08415ED2F524D00DE388FDAE" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">23239</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:OutsideServicesGeneralExpense id="HH7C30573911E281375D22850B431EA1D1" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">483</ferc:OutsideServicesGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="HH0EC5AC0D43342B3B2E9FA835E54B4C10" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">381</ferc:InsuranceGeneralExpense>
+  <ferc:GeneralExpensesOil id="HHF2C059E77A5BB0598CADABCE03E2DD52" contextRef="HH77D3AE35010AC404E0B36BC58BEB1CC3" decimals="0" unitRef="HHferc_us_Currency">1198</ferc:GeneralExpensesOil>
+  <ferc:StateLocalAndOtherPipelineTaxExpense id="HHC7C73E9D264CF3D354D642E4A6012B51" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">334</ferc:StateLocalAndOtherPipelineTaxExpense>
+  <ferc:PipelineTaxesGeneralExpense id="HH5360740912A1E022ABDF0F7631BC3B52" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">334</ferc:PipelineTaxesGeneralExpense>
+  <ferc:NoncarrierPropertyRevenue id="HH60A1F4DCFDBC5D8021056B488B8929A1" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">515651</ferc:NoncarrierPropertyRevenue>
+  <ferc:NoncarrierPropertyExpense id="HH38D31D8097D281908028696E114BBE90" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">601492</ferc:NoncarrierPropertyExpense>
+  <ferc:RespondentLegalName id="HH306218B8980ACEBDBD43BA5757909609" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">Enbridge Storage (Patoka) LLC</ferc:RespondentLegalName>
+  <ferc:AddressOfPrincipalOfficeAtEndOfPeriod id="HH50398303470D1634E801990AA3BDD720" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">915 North Eldridge Parkway, Suite 1100, Houston, Texas 77079</ferc:AddressOfPrincipalOfficeAtEndOfPeriod>
+  <ferc:NameOfCompanyControllingRespondent id="HH7745CAE1E7283205697C85FB8A8600E9" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D">Enbridge Inc.</ferc:NameOfCompanyControllingRespondent>
+  <ferc:IntermediateName id="HHE26B841983E352DE6782605C176EF3DC" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D">Enbridge (U.S.) Inc.</ferc:IntermediateName>
+  <ferc:VotingStockOfRespondentOwnedByOthersPercentage id="HH734CDD2663570C6965ED65DFB8D6A534" contextRef="HHDE2E08FCAD4048DF0FE8359727068C6A" decimals="0" unitRef="HHferc_us_Pure">1</ferc:VotingStockOfRespondentOwnedByOthersPercentage>
+  <ferc:NameOfCompanyControlledByRespondent id="HH489220F6861AF720781900FD7E6ED572" contextRef="HH24C0C6ED3F76800734B72122E5A0EEE9">N/A</ferc:NameOfCompanyControlledByRespondent>
+  <ferc:OfficerTitle id="HH762F85C4D776D76D7C12CEC92EB17AED" contextRef="HH645FEC8C707652DCBD920F5FE6169B54">President</ferc:OfficerTitle>
+  <ferc:OfficerName id="HH2118FE19573D88583FA2131AAB7D2FFF" contextRef="HH645FEC8C707652DCBD920F5FE6169B54">Phillip M. Anderson</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="HHCAE3C4F41D217AD7E5C85568007E62D4" contextRef="HH645FEC8C707652DCBD920F5FE6169B54">915 North Eldridge Parkway, Houston, Texas 77079</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="HH8883A91BE53DA4B3B50FD75826CE6339" contextRef="HHF9656928A4CF820B014AC0C022B14467">Assistant Corporate Secretary</ferc:OfficerTitle>
+  <ferc:OfficerName id="HH5F690A410F8A962A6D208AD95AA9051B" contextRef="HHF9656928A4CF820B014AC0C022B14467">Lee Ann Cis</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="HH3375926AA0FA67CCBCDE1C84765A30D0" contextRef="HHF9656928A4CF820B014AC0C022B14467">915 North Eldridge Parkway, Houston, Texas 77079</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="HH8D76AFC14EC4E477B34743B7EDADA28F" contextRef="HHE51087194DF6C563D7FC56847B5C0ED5">Corporate Secretary</ferc:OfficerTitle>
+  <ferc:OfficerName id="HH4718D198BE7573E035EC214679FCDB84" contextRef="HHE51087194DF6C563D7FC56847B5C0ED5">Kelly L. Gray</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="HHC55AF20254F3C0951C87B69C735736B3" contextRef="HHE51087194DF6C563D7FC56847B5C0ED5">915 North Eldridge Parkway, Houston, Texas 77079</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="HH9175A68F8E8912575D34D3B0F0C54EC5" contextRef="HH84279801730B07BA469B5B5F8DDBC73A">Vice President</ferc:OfficerTitle>
+  <ferc:OfficerName id="HHB7616E3D06D2FF9B5924DDD6028F7E1F" contextRef="HH84279801730B07BA469B5B5F8DDBC73A">Stephen J. Neyland</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="HH00951F65B00990F39D135F11AACB273B" contextRef="HH84279801730B07BA469B5B5F8DDBC73A">915 North Eldridge Parkway, Houston, Texas 77079</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:NameAndTitleOfDirector id="HH0245DEB918C4615E3656673638171449" contextRef="HH62EE4D6F2F4348D4E650A47150CDEC3D">N/A</ferc:NameAndTitleOfDirector>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="HHE34BD50A435FB301CD5FC59908810AF1" contextRef="HHFF2035A992A580747347BDA2C8C3E72F">Asset Impairment</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="HH1BECC14FDC9F5CF3E3FED4D12B9B487C" contextRef="HHEE7D5D0A854E6331A2F3CC3C70BC9D50" decimals="0" unitRef="HHferc_us_Currency">3998469</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NameOrClassOfDebtors id="HH171F37A142BB08828096F76D1C8DA684" contextRef="HH8083AEB6DD359D424562441CE6B7AB14">Other accounts</ferc:NameOrClassOfDebtors>
+  <ferc:DescriptionOfAssetsOrOfTransaction id="HH934DF7DF358F89821AA42E704CCBA81F" contextRef="HH8083AEB6DD359D424562441CE6B7AB14">Minor accounts less than $500,000</ferc:DescriptionOfAssetsOrOfTransaction>
+  <ferc:ReceivablesFromAffiliatedCompanies id="HH9656F7FF250F8CF5972CDE565703ABD0" contextRef="HH1940B6CC51D4F6333BF119FA509D933B" decimals="0" unitRef="HHferc_us_Currency">5780</ferc:ReceivablesFromAffiliatedCompanies>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="HH256A369EEBD66516FAD4046B61E9F064" contextRef="HHC9F1EBE5F3196BC5A7FFB57B82371DD2">Oil Tanks</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="HHBF0E43FAA30293146F3E2EF065863115" contextRef="HHC9F1EBE5F3196BC5A7FFB57B82371DD2">2004-03-01</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="HH5B42E6168A95143E7A4AA2C7EC6410B2" contextRef="HHDE3BE9E828A064AF4C69593428A0ABFF" decimals="0" unitRef="HHferc_us_Currency">6372644</ferc:NoncarrierProperty>
+  <ferc:NoncarrierPropertyRemarks id="HH87659A3123440A0285A0F1171FCCC9B5" contextRef="HHC9F1EBE5F3196BC5A7FFB57B82371DD2">Various dates</ferc:NoncarrierPropertyRemarks>
+  <ferc:NameOfCreditor id="HH779E0EFBC0D967C2A0EA480172AB7377" contextRef="HH32EBADF7F658F4998C1BF83FB0592F38">ENBRIDGE (US) INC. - CORP</ferc:NameOfCreditor>
+  <ferc:DescriptionOfTransaction id="HH6150DF7BB23E27BE3FD2442B804D1C9B" contextRef="HH32EBADF7F658F4998C1BF83FB0592F38">Miscellaneous transaction</ferc:DescriptionOfTransaction>
+  <ferc:PayablesToAffiliatedCompanies id="HH43B5103B177433209BFA7BBF996ACBD5" contextRef="HH241F1C28EA2278284166BB50FDFE8905" decimals="0" unitRef="HHferc_us_Currency">4045189</ferc:PayablesToAffiliatedCompanies>
+  <ferc:NameOfCreditor id="HH8824DBDDF91DFED6D6E03F04963ADEA7" contextRef="HH68DCBA8E7862089D94EF107707454E03">Other</ferc:NameOfCreditor>
+  <ferc:DescriptionOfTransaction id="HH0B32ADD0C5B7EE1CBB65EB20E58FDE6B" contextRef="HH68DCBA8E7862089D94EF107707454E03">Minor items less than $500,000</ferc:DescriptionOfTransaction>
+  <ferc:PayablesToAffiliatedCompanies id="HHEDFFB1BEC893B71B9D95F4360CA2DF55" contextRef="HH09DEE1BE2B83D4B70F7819B2DBDD8F70" decimals="0" unitRef="HHferc_us_Currency">170988</ferc:PayablesToAffiliatedCompanies>
+  <ferc:NameOfState id="HH2AEDF5EC671B64DBACDC538E936D4B91" contextRef="HH307ACC2EB18A6D7A50279F875E06A90E">Illinois</ferc:NameOfState>
+  <ferc:StateLocalAndOtherPipelineTaxExpense id="HHD35B534781DE2462461D616EB48F59A8" contextRef="HH307ACC2EB18A6D7A50279F875E06A90E" decimals="0" unitRef="HHferc_us_Currency">334</ferc:StateLocalAndOtherPipelineTaxExpense>
+  <ferc:NoncarrierPropertyDescription id="HH736EFE07FB6D8165EAA74B4C77A1DA47" contextRef="HH36A783CC92C21B382E986600CD1A783C">Noncarrier Property</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyRevenue id="HHB38B93B59B6598E39B3C6E6ADE61FDC9" contextRef="HH36A783CC92C21B382E986600CD1A783C" decimals="0" unitRef="HHferc_us_Currency">515651</ferc:NoncarrierPropertyRevenue>
+  <ferc:NoncarrierPropertyExpense id="HH1EDC37EEB57A417BAFFCA630D86B0FFC" contextRef="HH36A783CC92C21B382E986600CD1A783C" decimals="0" unitRef="HHferc_us_Currency">601492</ferc:NoncarrierPropertyExpense>
+  <ferc:NameOfRecipient id="HH412FF0EF9827F731A190D728E959B5A2" contextRef="HHFB4C8E5790F8D3D51F7613FD89547164">N/A</ferc:NameOfRecipient>
+  <ferc:StateOfOrigin id="HH3CF38E38786C22A58FA0F7BF636C9C91" contextRef="HHB85A31114D2CED725D07A7663544D00A">Illinois</ferc:StateOfOrigin>
+  <ferc:NumberOfBarrelsReceivedFromConnectingCarriers id="HHC45C7666939BF19BE800E78010C256E3" contextRef="HHB85A31114D2CED725D07A7663544D00A" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceivedFromConnectingCarriers>
+  <ferc:NumberOfBarrelsReceived id="HH68B08F03710B6DBBA7F7409194DB8072" contextRef="HHB85A31114D2CED725D07A7663544D00A" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers id="HHCF352988856090DFF7651C729F29FBAE" contextRef="HHB85A31114D2CED725D07A7663544D00A" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers>
+  <ferc:NumberOfBarrelsDeliveredOut id="HHD3D58D3FE9A2B2FAE0CDF90EC1B0E530" contextRef="HHB85A31114D2CED725D07A7663544D00A" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:DeliveryRevenues id="HH1299F790377A8925D308144196F35BD8" contextRef="HH98FE280211E42E9CD0BE1812288525D3" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:DeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="HH37F18731D5F79E98C0A051CA19AB226A" contextRef="HH98FE280211E42E9CD0BE1812288525D3" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="HH417538DE9FAEBBC7C39F00DA92D30662" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="HHC8A62D8C2E103B8C9235D74F58D78DFD" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">125</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:OutsideServicesOperationsAndMaintenance id="HH38E6F774A85A02C3070A6B907F99FE52" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">22310</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="HH506FCAD01B85B4D6538CDF79639EDA7C" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">804</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OperationsAndMaintenanceExpensesOil id="HH145F2FC318420AFCD4DE7EE27294603C" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">23239</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:OutsideServicesGeneralExpense id="HH195BA346F797FF75F93753309D35708A" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">483</ferc:OutsideServicesGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="HHD21E1DE3FCE4A8F47A859DD5BBED1115" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">381</ferc:InsuranceGeneralExpense>
+  <ferc:PipelineTaxesGeneralExpense id="HHE0B5D4D72505D1A08FDBCD292F03F61F" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">334</ferc:PipelineTaxesGeneralExpense>
+  <ferc:GeneralExpensesOil id="HH005B14CE0A25ADE7500E9CAF45A08930" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">1198</ferc:GeneralExpensesOil>
+  <ferc:OperatingExpenses id="HH96CA10905E05C6C74440AFA706CF13A5" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Currency">24437</ferc:OperatingExpenses>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="HHDDDCCA0E6708C65687381E37CE9EFBF6" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">125</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:OutsideServicesOperationsAndMaintenance id="HH949FA8A5CAA8949A55EF1141E97DBD6F" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">22310</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="HHF6FF41FFACC946EE0EF27C6467C88F02" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">804</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OperationsAndMaintenanceExpensesOil id="HHDDA6B39326FA0C0A624E653804BB1A93" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">23239</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:OutsideServicesGeneralExpense id="HHAA0FDB1C7837FED8DAA3F3D1E98BA9E6" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">483</ferc:OutsideServicesGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="HH88E3ECFC0DC92536A40734F744B598EA" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">381</ferc:InsuranceGeneralExpense>
+  <ferc:GeneralExpensesOil id="HHC5F9868B4B0F7308481F222B78006030" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">1198</ferc:GeneralExpensesOil>
+  <ferc:NumberOfBarrelsReceivedFromConnectingCarriers id="HH295D4EC1260778AF7B799C2720B70129" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceivedFromConnectingCarriers>
+  <ferc:NumberOfBarrelsReceived id="HH70C754220A0822E69EAB1067B8694A7E" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers id="HHE4295F01457DBBF6732790B05F6D14DA" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers>
+  <ferc:NumberOfBarrelsDeliveredOut id="HHD464A383AA7BE55E77ECBB0E9401F882" contextRef="HH250FFCB71087D4609E2B6B35DA18E654" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:NumberOfBarrelsReceivedFromConnectingCarriers id="HHED15C906AED6C0336FEF8BD933DDB8EA" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceivedFromConnectingCarriers>
+  <ferc:NumberOfBarrelsReceived id="HHD580F5EBF2BCC81AC510E122160B877C" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Barrels">430688</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers id="HH9B39FF620D8CD3523A5402B284560B87" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOutToConnectingCarriers>
+  <ferc:NumberOfBarrelsDeliveredOut id="HH1B7CA7B149A97DE0F41074260665E506" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="HH83D8A5A84AACB192739F48EC79E2AB2A" contextRef="HH1BCC0CC8DA3E42A5BE8BA32C415001DD">Prepaids</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="HH6CF1871090A04ACE5B487041D70406D3" contextRef="HH1BCC0CC8DA3E42A5BE8BA32C415001DD" decimals="0" unitRef="HHferc_us_Currency">-809</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:Remarks id="HHEAD877DCCFD99049030217B56CBAEEA8" contextRef="HHE7AD288E427F92843F1F6FA815D552FD">N/A</ferc:Remarks>
+  <ferc:AttestationDate id="HH161A0EF1F6EB8CC024EF2D1A0176AAA6" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4">2025-04-17</ferc:AttestationDate>
+  <ferc:StateOfIncorporation id="HHCA2E35450F82B63C634C8E909284A638" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D">CAN</ferc:StateOfIncorporation>
+  <ferc:StateOfIncorporationIntermediate id="HH6B44B9D1D87403B48AEFA82279CBEF13" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D">CAN</ferc:StateOfIncorporationIntermediate>
+  <ferc:StateOfIncorporationDirectParent id="HH5647EF5EBE2CBEBE576114F26A6A305A" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D">DE</ferc:StateOfIncorporationDirectParent>
+  <ferc:DepreciationExpense id="HH01BD3F47581F5BB8E7D37610E9181083" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">89181</ferc:DepreciationExpense>
+  <ferc:OperatingAndMaintenanceExpenses id="HH14289AA96B1B31CAEBE5FD978BF58CBA" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">24437</ferc:OperatingAndMaintenanceExpenses>
+  <ferc:AfudcDepreciationExpense id="HH40EBA0558DEAC848F184D19DD26BCCF5" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">63638</ferc:AfudcDepreciationExpense>
+  <ferc:AmortizationOfDeferredEarnings id="HH6095A6C0C6B7446D63BD2DCE82684AE3" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">17063</ferc:AmortizationOfDeferredEarnings>
+  <ferc:OriginalCostIncludedInRateBase id="HH05CF02C53ECB9B8AAA43ECA33BDE359F" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">4323294</ferc:OriginalCostIncludedInRateBase>
+  <ferc:AccumulatedNetDeferredEarningsIncludedInRateBase id="HHB5791947D8A2192DCE6BB5E870CDAB3F" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">566549</ferc:AccumulatedNetDeferredEarningsIncludedInRateBase>
+  <ferc:TrendedOriginalCostRateBase id="HH42C15379C637EA3435E46833EB335ACE" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">4889843</ferc:TrendedOriginalCostRateBase>
+  <ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn id="HH6BF2E2A9554F34566445D9F1BF55B3E0" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">0.5216</ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn>
+  <ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn id="HH8CD0CDB0328497F1C35AB466F49D257D" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">0.4784</ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn>
+  <ferc:CostOfLongTermDebtCapitalRateOfReturn id="HHA3F70310101408DBD915DA2EA5A80EF3" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">0.0491</ferc:CostOfLongTermDebtCapitalRateOfReturn>
+  <ferc:RealCostOfStockholdersEquityRateOfReturn id="HH762A0B0135668E72D6B6EE869E74ABC2" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">0.0984</ferc:RealCostOfStockholdersEquityRateOfReturn>
+  <ferc:WeightedAverageCostOfCapitalRateOfReturn id="HH2F9D6270F050296FCEB11831A05F8101" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">0.0727</ferc:WeightedAverageCostOfCapitalRateOfReturn>
+  <ferc:DebtComponentReturnOnRateBase id="HH812ED9E46C46EBE0A528F869EA1414DD" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">125232</ferc:DebtComponentReturnOnRateBase>
+  <ferc:EquityComponentReturnOnRateBase id="HHA71100397401FDA53916524B6E866187" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">230187</ferc:EquityComponentReturnOnRateBase>
+  <ferc:ReturnOnRateBase id="HHDA37A72BDB2C3C0C57DA5F764CE095B7" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">355419</ferc:ReturnOnRateBase>
+  <ferc:IncomeTaxAllowance id="HH52A69D4CC61506D3D6450D382CE037FD" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Currency">116299</ferc:IncomeTaxAllowance>
+  <ferc:CompositeTaxRate id="HH3A975B6875B8ABB5F1D8376A78DA09CC" contextRef="HH725707E59197C0DD6170EA3368E437FA" decimals="0" unitRef="HHferc_us_Pure">0.2851</ferc:CompositeTaxRate>
+  <ferc:CostOfService id="HH61195969E8DB57EBC71E91F85A2B07CA" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">666037</ferc:CostOfService>
+  <ferc:InterstateOperatingRevenues id="HH8CFE3BE03A46009158E9B077BCEC7C9E" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Currency">12409</ferc:InterstateOperatingRevenues>
+  <ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate id="HH40C1471A1912E934DDFC5EB7203BBD9F" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Barrels">254300</ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate>
+  <ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate id="HH768B17E055A3661A7750446B3320BC64" contextRef="HH6F430EA68AFC29D1DD829B0DDD45FFF4" decimals="0" unitRef="HHferc_us_Pure">51992</ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate>
+  <ferc:OrderNumber id="HH8FE16BBC758266EA5664C373D373A6BD" contextRef="HH3E54193CB48FF38E6BE46E092B1A9E8D" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH5A3629FA11EEE30B62D8ACA8E4A286E3" contextRef="HH24C0C6ED3F76800734B72122E5A0EEE9" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH45C392332329EDF7271D97D64A069FAC" contextRef="HH645FEC8C707652DCBD920F5FE6169B54" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH8620F32767167F98B322DFB4357743BF" contextRef="HHF9656928A4CF820B014AC0C022B14467" decimals="0" unitRef="HHferc_us_Pure">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH0F079F419509DCDA88948C2455EC6801" contextRef="HHE51087194DF6C563D7FC56847B5C0ED5" decimals="0" unitRef="HHferc_us_Pure">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH3ACED81A0D1BB60AC740251F988C7123" contextRef="HH84279801730B07BA469B5B5F8DDBC73A" decimals="0" unitRef="HHferc_us_Pure">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="HHD79481BC3BFDCC852E4CAB77F9990204" contextRef="HH62EE4D6F2F4348D4E650A47150CDEC3D" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH724CA6EFBB8C54ACFE6BA5809842EA3A" contextRef="HHFF2035A992A580747347BDA2C8C3E72F" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH8DE4BC2C252C786A0A04C0DCC0B476D7" contextRef="HH8083AEB6DD359D424562441CE6B7AB14" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH32EFABC8EC520032DEA980BFCA4D7FE7" contextRef="HHC9F1EBE5F3196BC5A7FFB57B82371DD2" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HHB0E76D95DE3FA291E5EC8541F8C5DFB1" contextRef="HH32EBADF7F658F4998C1BF83FB0592F38" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HHEF459824F773FC680DAD963C1F094FF6" contextRef="HH68DCBA8E7862089D94EF107707454E03" decimals="0" unitRef="HHferc_us_Pure">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH189A8EE7760FE342F5B7F12C96267E27" contextRef="HH307ACC2EB18A6D7A50279F875E06A90E" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH6B8A4049BE34C047358ECC2B273EF2EC" contextRef="HH36A783CC92C21B382E986600CD1A783C" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH8BB12933718F536CCC361015A9896E48" contextRef="HHFB4C8E5790F8D3D51F7613FD89547164" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH54D72C5C7F710584AA24FA32DA26F506" contextRef="HHBC51E56B3A0B5B1452ABC1BCABB97D47" decimals="0" unitRef="HHferc_us_Pure">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="HH2976BC064BD088A0C02095CAD0F9B13F" contextRef="HH1BCC0CC8DA3E42A5BE8BA32C415001DD" decimals="0" unitRef="HHferc_us_Pure">2</ferc:OrderNumber>
+  <link:footnoteLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
+    <link:loc xlink:type="locator" xlink:href="#HH746B69847083046BCF107508FB8B357B" xlink:label="HH746B69847083046BCF107508FB8B357B" />
+    <link:footnote xlink:type="resource" xlink:label="HH0CAD53CD61D7130DFFD03B9AB009F936" xlink:role="http://www.xbrl.org/2003/role/footnote" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Management believes that the information on this page has been prepared in accordance with the Commission's Opinion 154-B methodology. This presentation on page 700 is not necessarily in the form in which it would appear in connection with a challenge to a particular rate, or rates, and is therefore not intended to be binding in any specific rate litigation.</p>
+        <p>2023 data has been restated to reflect changes due to the utilization of the ROE methodology approved by the Commission in Opinion No. 586</p>
+        <p>2023 depreciation has been restated to exclude any adjustments related to impairment</p>
+        <p>Totals may not sum due to rounding</p>
+      </div>
+    </link:footnote>
+    <link:footnoteArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="HH746B69847083046BCF107508FB8B357B" xlink:to="HH0CAD53CD61D7130DFFD03B9AB009F936" order="1" />
+  </link:footnoteLink>
+</xbrli:xbrl>

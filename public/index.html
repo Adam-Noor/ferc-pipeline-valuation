@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pipeline Valuation Analysis</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f5f7fa;
+      color: #333;
+    }
+    
+    /* Header */
+    .header {
+      background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+      color: white;
+      padding: 20px 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .header h1 {
+      margin: 0;
+      padding: 0 30px;
+      font-size: 28px;
+      font-weight: 600;
+    }
+    .header p {
+      margin: 5px 0 0 30px;
+      opacity: 0.9;
+      font-size: 14px;
+    }
+    
+    /* Navigation */
+    .nav {
+      background: white;
+      border-bottom: 1px solid #e1e4e8;
+      padding: 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+    }
+    .nav-item {
+      padding: 15px 25px;
+      cursor: pointer;
+      border-bottom: 3px solid transparent;
+      transition: all 0.3s;
+      font-weight: 500;
+      color: #586069;
+    }
+    .nav-item:hover {
+      background: #f6f8fa;
+      color: #0366d6;
+    }
+    .nav-item.active {
+      color: #0366d6;
+      border-bottom-color: #0366d6;
+    }
+    
+    /* Container */
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 30px;
+    }
+    
+    /* Page sections */
+    .page {
+      display: none;
+      animation: fadeIn 0.3s;
+    }
+    .page.active {
+      display: block;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    /* Cards */
+    .card {
+      background: white;
+      border-radius: 8px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      border: 1px solid #e1e4e8;
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #24292e;
+      font-size: 22px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    .card h3 {
+      color: #24292e;
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 0;
+    }
+    
+    /* Forms */
+    .form-group {
+      margin-bottom: 20px;
+    }
+    .form-group label {
+      display: block;
+      margin-bottom: 6px;
+      font-weight: 500;
+      color: #24292e;
+    }
+    input, select, textarea {
+      font-size: 14px;
+      padding: 10px 12px;
+      border: 1px solid #d1d5da;
+      border-radius: 6px;
+      font-family: inherit;
+      transition: border-color 0.2s;
+    }
+    input:focus, select:focus, textarea:focus {
+      outline: none;
+      border-color: #0366d6;
+      box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.1);
+    }
+    
+    /* Buttons */
+    button {
+      background: #0366d6;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 14px;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #0256c7;
+    }
+    button:active {
+      transform: translateY(1px);
+    }
+    .btn-secondary {
+      background: #6c757d;
+    }
+    .btn-secondary:hover {
+      background: #5a6268;
+    }
+    .btn-success {
+      background: #28a745;
+    }
+    .btn-success:hover {
+      background: #218838;
+    }
+    
+    /* Tables */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 15px;
+      background: white;
+    }
+    th, td {
+      border: 1px solid #e1e4e8;
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background: #f6f8fa;
+      font-weight: 600;
+      color: #24292e;
+    }
+    tr:hover {
+      background: #f6f8fa;
+    }
+    
+    /* Search section */
+    .search-box {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .search-box input {
+      flex: 1;
+      max-width: 400px;
+    }
+    
+    /* Metric card */
+    .metric-card {
+      border: 1px solid #e1e4e8;
+      padding: 20px;
+      background: #f6f8fa;
+      border-radius: 6px;
+    }
+    .metric-card h4 {
+      margin-top: 0;
+      color: #0366d6;
+      font-size: 16px;
+    }
+    .metric-card dl {
+      margin: 0;
+    }
+    .metric-card dt {
+      font-weight: 500;
+      color: #586069;
+      margin-top: 8px;
+    }
+    .metric-card dd {
+      margin: 4px 0 0 0;
+      color: #24292e;
+    }
+    
+    /* Alerts */
+    .error {
+      color: #d73a49;
+      background: #ffeef0;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #ffdce0;
+    }
+    .success {
+      color: #22863a;
+      background: #dcffe4;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #bef5cb;
+    }
+    
+    /* Loading */
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #586069;
+    }
+    
+    /* Responsive */
+    @media (max-width: 768px) {
+      .container {
+        padding: 15px;
+      }
+      .header h1 {
+        font-size: 22px;
+      }
+      .nav-item {
+        padding: 12px 15px;
+        font-size: 14px;
+      }
+    }
+    
+    /* Tabs for valuation approaches */
+    .valuation-tabs {
+      display: flex;
+      gap: 5px;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #e1e4e8;
+    }
+    .valuation-tab {
+      padding: 12px 20px;
+      cursor: pointer;
+      border: none;
+      background: transparent;
+      color: #586069;
+      font-weight: 500;
+      border-bottom: 3px solid transparent;
+      transition: all 0.2s;
+    }
+    .valuation-tab:hover {
+      color: #0366d6;
+      background: #f6f8fa;
+    }
+    .valuation-tab.active {
+      color: #0366d6;
+      border-bottom-color: #0366d6;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+      animation: fadeIn 0.3s;
+    }
+    
+    /* Calculation display */
+    .calc-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .calc-row:last-child {
+      border-bottom: none;
+      font-weight: 600;
+      font-size: 16px;
+      padding-top: 15px;
+      margin-top: 10px;
+      border-top: 2px solid #0366d6;
+    }
+    .calc-label {
+      color: #586069;
+    }
+    .calc-value {
+      color: #24292e;
+      font-weight: 500;
+    }
+    .editable-field {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      padding: 5px 10px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <div class="header">
+    <h1>🛢️ Pipeline Valuation System</h1>
+    <p>FERC Form 6 Database Analysis & Valuation Tool</p>
+  </div>
+
+  <!-- Navigation -->
+  <div class="nav">
+    <div class="nav-container">
+      <div class="nav-item active" onclick="showPage('search')">Search Pipelines</div>
+      <div class="nav-item" onclick="showPage('explorer')">Data Explorer</div>
+      <div class="nav-item" onclick="showPage('about')">About</div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div class="container">
+    
+    <!-- Search Page -->
+    <div id="searchPage" class="page active">
+      <div class="card">
+        <h2>Search Pipeline Companies</h2>
+        <p style="color: #586069; margin-bottom: 20px;">Search the FERC Form 6 database for pipeline companies and create valuations.</p>
+        
+        <div class="search-box">
+          <input id="companyInput" placeholder="Enter company name (e.g., 'pipeline', 'energy', 'jayhawk')..." />
+          <button id="searchCompany">🔍 Search</button>
+        </div>
+        
+        <div id="searchResults"></div>
+      </div>
+    </div>
+
+    <!-- Data Explorer Page -->
+    <div id="explorerPage" class="page">
+      <div class="card">
+        <h2>FERC Database Explorer</h2>
+        <p style="color: #586069; margin-bottom: 20px;">Browse raw data from the FERC Form 6 database tables.</p>
+        
+        <div class="form-group">
+          <label for="tables">Select Table:</label>
+          <select id="tables" style="width: 100%; max-width: 500px;"></select>
+        </div>
+        
+        <div class="form-group">
+          <label for="limit">Number of Rows:</label>
+          <input id="limit" type="number" value="50" min="1" max="500" style="width: 150px" />
+          <button id="load" style="margin-left: 10px;">Load Data</button>
+        </div>
+        
+        <div id="result"></div>
+      </div>
+    </div>
+
+    <!-- About Page -->
+    <div id="aboutPage" class="page">
+      <div class="card">
+        <h2>About This Application</h2>
+        
+        <h3>Overview</h3>
+        <p>This Pipeline Valuation System provides access to FERC Form 6 data and enables comprehensive pipeline valuations using industry-standard approaches.</p>
+        
+        <h3>Features</h3>
+        <ul>
+          <li><strong>FERC Database Search:</strong> Search through thousands of pipeline company filings</li>
+          <li><strong>Tri-Approach Valuation:</strong> Cost, Income, and Market approaches</li>
+          <li><strong>Data Explorer:</strong> Direct access to FERC Form 6 tables</li>
+          <li><strong>Evaluation History:</strong> Track and compare valuations over time</li>
+        </ul>
+        
+        <h3>Valuation Methodologies</h3>
+        <div class="metric-card" style="margin: 15px 0;">
+          <h4>Cost Approach</h4>
+          <p>Estimates value based on replacement cost new less depreciation. Considers physical deterioration, functional obsolescence, and economic obsolescence.</p>
+        </div>
+        
+        <div class="metric-card" style="margin: 15px 0;">
+          <h4>Income Approach</h4>
+          <p>Uses discounted cash flow (DCF) analysis to value the pipeline based on its ability to generate future income. Applies appropriate discount rates based on risk profile.</p>
+        </div>
+        
+        <div class="metric-card" style="margin: 15px 0;">
+          <h4>Market Approach</h4>
+          <p>Values the pipeline based on comparable transactions and market multiples from similar pipeline assets. Adjusts for differences in size, location, and operational characteristics.</p>
+        </div>
+        
+        <h3>Data Source</h3>
+        <p>Data is sourced from FERC Form 6 filings, which are annual reports filed by oil pipeline companies with the Federal Energy Regulatory Commission.</p>
+        
+        <h3>Version</h3>
+        <p>Pipeline Valuation System v1.0 - November 2025</p>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

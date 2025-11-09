@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Created by FERC Project, Powered by IRIS Carbon, Unique Code 67feab0ce472591c403fefb4, Generated At Tue, 15 Apr 2025 18:53:01 GMT-->
+<xbrli:xbrl xmlns:ferc="http://ferc.gov/form/2024-04-01/ferc" xmlns:ferc-form-6="http://ferc.gov/form/2024-04-01/ferc-form-6" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:utr="http://www.xbrl.org/2009/utr" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xbrli="http://www.xbrl.org/2003/instance">
+  <link:schemaRef xlink:type="simple" xlink:href="https://eCollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd" />
+  <xbrli:context id="C1">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C2">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C3">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C4">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2023-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C6">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2022-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C47">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ClassOfAppropriationAxis">ferc:OtherAppropriationsMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:ClassOfOtherAppropriationAxis">
+          <ferc:ClassOfOtherAppropriationDomain>7</ferc:ClassOfOtherAppropriationDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C50">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ClassOfOtherAppropriationAxis">
+          <ferc:ClassOfOtherAppropriationDomain>7</ferc:ClassOfOtherAppropriationDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C51">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>1</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C52">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>1</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C53">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>2</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C54">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>2</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C55">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>3</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C56">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>3</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C57">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>1</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C59">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>2</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C60">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>2</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C61">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>3</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C62">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>3</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C63">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>4</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C64">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>4</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C65">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>5</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C67">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>6</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C69">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>7</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C71">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesAxis">
+          <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>1</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C73">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesAxis">
+          <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>2</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C75">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesAxis">
+          <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>3</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C77">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesAxis">
+          <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>4</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C79">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromInvestmentActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromInvestmentActivitiesDomain>1</ferc:OtherAdjustmentsToCashFlowsFromInvestmentActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C81">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsByOutsideSourcesToCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherAdjustmentsByOutsideSourcesToCashFlowsFromFinancingActivitiesDomain>1</ferc:OtherAdjustmentsByOutsideSourcesToCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C83">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentByShortTermDebtToCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherAdjustmentByShortTermDebtToCashFlowsFromFinancingActivitiesDomain>1</ferc:OtherAdjustmentByShortTermDebtToCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C85">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesDomain>1</ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C86">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesDomain>1</ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C87">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDomain>1</ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C128">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:CarrierTypeAxis">ferc:NoncarrierMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2023-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C129">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:CarrierTypeAxis">ferc:NoncarrierMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C130">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:CarrierTypeAxis">ferc:NoncarrierMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C131">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NameOfUndividedJointInterestPipelineAxis">
+          <ferc:NameOfUndividedJointInterestPipelineDomain>0</ferc:NameOfUndividedJointInterestPipelineDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C134">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AmortizationBaseAndReserveAxis">
+          <ferc:AmortizationBaseAndReserveDomain>1</ferc:AmortizationBaseAndReserveDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C137">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>2</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C140">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>3</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C143">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>4</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C146">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>5</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C149">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>6</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C152">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>7</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C155">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>8</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C158">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>9</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C161">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>10</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C164">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>13</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C167">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>14</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C170">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>15</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C173">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>16</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C176">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>17</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C179">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>18</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C182">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>19</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C185">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>20</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C188">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredAxis">
+          <ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>21</ferc:AnalysisOfFederalIncomeAndOtherTaxesDeferredDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C193">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:OilProductsMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C194">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:OilProductsMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C195">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:GeographicAxis">ferc:InterstateTransportationMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2023-01-01</xbrli:startDate>
+      <xbrli:endDate>2023-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C196">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:GeographicAxis">ferc:InterstateTransportationMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C209">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAppropriatedRetainedIncomeAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C214">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleReceivableFromAffiliatedCompaniesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C217">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleInvestInComStocksOfAffiliatedCoCoControlledDirectlyByRespOtherThanThroughTitleToSecuritiesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C219">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleUndividedJointInterestPropertyAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C221">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAccruedDepreciationUndividedJointInterestPropertyAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C222">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAmortizationBaseAndReserveAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C224">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleOtherDeferredChargesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C226">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>SchedulePayablesToAffiliatedCompaniesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C227">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleLongTermDebtAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C228">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleAnalysisOfFederalIncomeAndOtherTaxesDeferredAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C229">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleCapitalStockAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C230">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleCapitalStockChangesDuringTheYearAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C240">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>SchedulePaymentsForServicesRenderedByOtherThanEmployeesAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C243">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ScheduleRemarksAxis">
+          <ferc:ScheduleRemarksDomain>ScheduleStatisticsOfOperationsOwnedByRespondentButOperatedByOthersAbstract</ferc:ScheduleRemarksDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C247">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>1</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C248">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>1</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C249">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>2</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C250">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:ControlOverRespondentAxis">
+          <ferc:ControlOverRespondentDomain>2</ferc:ControlOverRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C251">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>1</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C252">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>2</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C253">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>3</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C254">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>4</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C255">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>5</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C256">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>6</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C257">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>7</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C258">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>8</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C259">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>9</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C260">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>10</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C261">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>11</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C262">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>12</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C263">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>13</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C264">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>14</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C265">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OfficerAxis">
+          <ferc:OfficerDomain>15</ferc:OfficerDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C266">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:CompaniesControlledByRespondentAxis">
+          <ferc:CompaniesControlledByRespondentDomain>1</ferc:CompaniesControlledByRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C267">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:CompaniesControlledByRespondentAxis">
+          <ferc:CompaniesControlledByRespondentDomain>1</ferc:CompaniesControlledByRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C268">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:DirectorAxis">
+          <ferc:DirectorDomain>1</ferc:DirectorDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C269">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesAxis">
+          <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>4</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C271">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesAxis">
+          <ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDomain>2</ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C273">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesStockAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesStockDomain>2</ferc:InvestmentsInAffiliatedCompaniesStockDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C274">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesStockAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesStockDomain>2</ferc:InvestmentsInAffiliatedCompaniesStockDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C275">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesBondAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesBondDomain>5</ferc:InvestmentsInAffiliatedCompaniesBondDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C277">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesOtherSecuredObligationAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesOtherSecuredObligationDomain>8</ferc:InvestmentsInAffiliatedCompaniesOtherSecuredObligationDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C279">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesUnsecuredNotesAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesUnsecuredNotesDomain>11</ferc:InvestmentsInAffiliatedCompaniesUnsecuredNotesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C281">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesInvestmentAdvancesAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesInvestmentAdvancesDomain>14</ferc:InvestmentsInAffiliatedCompaniesInvestmentAdvancesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C283">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InvestmentsInAffiliatedCompaniesSinkingOtherFundsAxis">
+          <ferc:InvestmentsInAffiliatedCompaniesSinkingOtherFundsDomain>18</ferc:InvestmentsInAffiliatedCompaniesSinkingOtherFundsDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C285">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>1</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C286">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>1</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C287">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>2</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C288">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>2</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C289">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>3</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C290">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>3</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C291">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>4</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C292">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>4</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C293">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>5</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C294">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>5</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C295">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>6</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C296">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>6</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C297">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>7</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C298">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>7</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C299">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>8</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C300">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>8</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C301">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>9</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C302">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>9</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C303">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>10</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C304">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:NoncarrierPropertyAxis">
+          <ferc:NoncarrierPropertyDomain>10</ferc:NoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C308">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:OilProductsTrunkMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C310">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:PipelineTaxesAxis">
+          <ferc:PipelineTaxesDomain>2</ferc:PipelineTaxesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C311">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:FederalPipelineTaxesAxis">
+          <ferc:FederalPipelineTaxesDomain>8</ferc:FederalPipelineTaxesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C312">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>1</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C313">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>2</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C314">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>3</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C315">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>4</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C316">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>5</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C317">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>6</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C318">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>7</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C319">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>8</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C320">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:IncomeFromNoncarrierPropertyAxis">
+          <ferc:IncomeFromNoncarrierPropertyDomain>9</ferc:IncomeFromNoncarrierPropertyDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C323">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:OilProductsMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>5</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C324">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:ProductsAndServicesAxis">ferc:OilProductsMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>6</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C326">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>2</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C327">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>5</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C328">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>6</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C329">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:StateOfOriginAndProductTypeAxis">
+          <ferc:StateOfOriginAndProductTypeDomain>7</ferc:StateOfOriginAndProductTypeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C330">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:OwnershipAxis">ferc:WhollyOwnedAndOperatedByRespondentMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>2</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C331">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:OwnershipAxis">ferc:WhollyOwnedAndOperatedByRespondentMember</xbrldi:explicitMember>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>3</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C332">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="ferc:OwnershipAxis">ferc:WhollyOwnedAndOperatedByRespondentMember</xbrldi:explicitMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C339">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>2</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C340">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>3</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C341">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>6</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C342">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>9</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C343">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MilesOfPipelineOperatedAxis">
+          <ferc:MilesOfPipelineOperatedDomain>12</ferc:MilesOfPipelineOperatedDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C344">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MiscellaneousIncomeAxis">
+          <ferc:MiscellaneousIncomeDomain>2</ferc:MiscellaneousIncomeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C345">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MiscellaneousIncomeChargesAxis">
+          <ferc:MiscellaneousIncomeChargesDomain>5</ferc:MiscellaneousIncomeChargesDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C346">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MiscellaneousIncomeExtraordinaryItemsAxis">
+          <ferc:MiscellaneousIncomeExtraordinaryItemsDomain>8</ferc:MiscellaneousIncomeExtraordinaryItemsDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C347">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:MiscellaneousIncomeIncomeTaxesOnExtraordinaryItemsAxis">
+          <ferc:MiscellaneousIncomeIncomeTaxesOnExtraordinaryItemsDomain>11</ferc:MiscellaneousIncomeIncomeTaxesOnExtraordinaryItemsDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C348">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherCreditsToRetainedIncomeAxis">
+          <ferc:OtherCreditsToRetainedIncomeDomain>14</ferc:OtherCreditsToRetainedIncomeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C349">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:OtherDebitsToRetainedIncomeAxis">
+          <ferc:OtherDebitsToRetainedIncomeDomain>17</ferc:OtherDebitsToRetainedIncomeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C350">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:InterestAndDividendIncomeAxis">
+          <ferc:InterestAndDividendIncomeDomain>5</ferc:InterestAndDividendIncomeDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C351">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:CompaniesControlledByRespondentAxis">
+          <ferc:CompaniesControlledByRespondentDomain>2</ferc:CompaniesControlledByRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2024-01-01</xbrli:startDate>
+      <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="C352">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ferc.gov/CID">C000958</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:typedMember dimension="ferc:CompaniesControlledByRespondentAxis">
+          <ferc:CompaniesControlledByRespondentDomain>2</ferc:CompaniesControlledByRespondentDomain>
+        </xbrldi:typedMember>
+      </xbrli:segment>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2024-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id="Pure">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="Barrel">
+    <xbrli:measure>utr:bbl</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="Inch">
+    <xbrli:measure>utr:in</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="Mile">
+    <xbrli:measure>utr:mi</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="USD">
+    <xbrli:measure>iso4217:USD</xbrli:measure>
+  </xbrli:unit>
+  <ferc:ClassOfOtherAppropriationOfRetainedIncome id="Tag1" contextRef="C47">Other Appropriations (Specify)</ferc:ClassOfOtherAppropriationOfRetainedIncome>
+  <ferc:OrderNumber id="Tag2" contextRef="C50" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription id="Tag3" contextRef="C71">Addition of Intangible Asset</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription>
+  <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription id="Tag4" contextRef="C73">Write down of non-current asset</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription>
+  <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription id="Tag5" contextRef="C75">Proceeds from Sale of Carrier Property</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription>
+  <ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription id="Tag6" contextRef="C77">Proceeds on Sale of Noncarrier Property</ferc:OtherConstructionAndAcquisitionOfPlantInvestmentActivitiesDescription>
+  <ferc:OrderNumber id="Tag7" contextRef="C71" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag8" contextRef="C73" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag9" contextRef="C75" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag10" contextRef="C77" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag11" contextRef="C79" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag12" contextRef="C81" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag13" contextRef="C83" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:PlantName id="Tag14" contextRef="C131">0</ferc:PlantName>
+  <ferc:OrderNumber id="Tag15" contextRef="C134" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag16" contextRef="C137" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag17" contextRef="C140" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag18" contextRef="C143" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag19" contextRef="C146" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag20" contextRef="C149" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag21" contextRef="C152" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag22" contextRef="C155" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag23" contextRef="C158" unitRef="Pure" decimals="0">9</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag24" contextRef="C161" unitRef="Pure" decimals="0">10</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag25" contextRef="C164" unitRef="Pure" decimals="0">13</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag26" contextRef="C167" unitRef="Pure" decimals="0">14</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag27" contextRef="C170" unitRef="Pure" decimals="0">15</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag28" contextRef="C173" unitRef="Pure" decimals="0">16</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag29" contextRef="C176" unitRef="Pure" decimals="0">17</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag30" contextRef="C179" unitRef="Pure" decimals="0">18</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag31" contextRef="C182" unitRef="Pure" decimals="0">19</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag32" contextRef="C185" unitRef="Pure" decimals="0">20</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag33" contextRef="C188" unitRef="Pure" decimals="0">21</ferc:OrderNumber>
+  <ferc:NameOfPipelineCompanyMakingReport id="Tag34" contextRef="C1">Plains LPG Services, L.P.</ferc:NameOfPipelineCompanyMakingReport>
+  <ferc:IncorporationDate id="Tag35" contextRef="C1">2012-04-04</ferc:IncorporationDate>
+  <ferc:SpecialLawRespondentIncorporatedUnder id="Tag36" contextRef="C1">Texas</ferc:SpecialLawRespondentIncorporatedUnder>
+  <ferc:NamesOfConstituentAndMergedCompanies id="Tag37" contextRef="C1">N/A</ferc:NamesOfConstituentAndMergedCompanies>
+  <ferc:DateAndAuthorityForEachConsolidationAndForEachMergerEffected id="Tag38" contextRef="C1">N/A</ferc:DateAndAuthorityForEachConsolidationAndForEachMergerEffected>
+  <ferc:NameOfOriginalCorporation id="Tag39" contextRef="C1">N/A</ferc:NameOfOriginalCorporation>
+  <ferc:IndicationRespondentConductedBusinessInDifferentNames id="Tag40" contextRef="C1">N/A</ferc:IndicationRespondentConductedBusinessInDifferentNames>
+  <ferc:NameOfCompanyControllingRespondent id="Tag41" contextRef="C247">PAA GP Holdings LLC</ferc:NameOfCompanyControllingRespondent>
+  <ferc:StateOfIncorporation id="Tag42" contextRef="C247">DE</ferc:StateOfIncorporation>
+  <ferc:IntermediateName id="Tag43" contextRef="C247">Plains Marketing, L.P.</ferc:IntermediateName>
+  <ferc:StateOfIncorporationIntermediate id="Tag44" contextRef="C247">TX</ferc:StateOfIncorporationIntermediate>
+  <ferc:VotingStockOfRespondentOwnedByOthersPercentage id="Tag45" contextRef="C248" unitRef="Pure" decimals="5">0.99999</ferc:VotingStockOfRespondentOwnedByOthersPercentage>
+  <ferc:IntermediateName id="Tag46" contextRef="C249">Plains LPG Services GP LLC</ferc:IntermediateName>
+  <ferc:StateOfIncorporationIntermediate id="Tag47" contextRef="C249">DE</ferc:StateOfIncorporationIntermediate>
+  <ferc:VotingStockOfRespondentOwnedByOthersPercentage id="Tag48" contextRef="C250" unitRef="Pure" decimals="5">0.00001</ferc:VotingStockOfRespondentOwnedByOthersPercentage>
+  <ferc:OrderNumber id="Tag49" contextRef="C247" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag50" contextRef="C249" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:StatementAboutImportantChangesDuringTheQuarterYearTextBlock id="Tag51" contextRef="C1">&lt;div&gt;&lt;ol&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</ferc:StatementAboutImportantChangesDuringTheQuarterYearTextBlock>
+  <ferc:NetIncomeLoss id="Tag52" contextRef="C3" unitRef="USD" decimals="0">-14597356</ferc:NetIncomeLoss>
+  <ferc:ComprehensiveIncomeLoss id="Tag53" contextRef="C3" unitRef="USD" decimals="0">-14597356</ferc:ComprehensiveIncomeLoss>
+  <ferc:NetIncomeLoss id="Tag54" contextRef="C1" unitRef="USD" decimals="0">-151714999</ferc:NetIncomeLoss>
+  <ferc:ComprehensiveIncomeLoss id="Tag55" contextRef="C1" unitRef="USD" decimals="0">-151714999</ferc:ComprehensiveIncomeLoss>
+  <ferc:UnappropriatedRetainedIncome id="Tag56" contextRef="C4" unitRef="USD" decimals="0">307478038</ferc:UnappropriatedRetainedIncome>
+  <ferc:UnappropriatedRetainedIncome id="Tag57" contextRef="C6" unitRef="USD" decimals="0">323310256</ferc:UnappropriatedRetainedIncome>
+  <ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome id="Tag58" contextRef="C1" unitRef="USD" decimals="0">-154652497</ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome>
+  <ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome id="Tag59" contextRef="C3" unitRef="USD" decimals="0">-15832218</ferc:UnappropriatedRetainedIncomeCreditTransferredFromIncome>
+  <ferc:AdditionsToUnappropriatedRetainedIncome id="Tag60" contextRef="C1" unitRef="USD" decimals="0">-154652497</ferc:AdditionsToUnappropriatedRetainedIncome>
+  <ferc:AdditionsToUnappropriatedRetainedIncome id="Tag61" contextRef="C3" unitRef="USD" decimals="0">-15832218</ferc:AdditionsToUnappropriatedRetainedIncome>
+  <ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome id="Tag62" contextRef="C1" unitRef="USD" decimals="0">-154652497</ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome>
+  <ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome id="Tag63" contextRef="C3" unitRef="USD" decimals="0">-15832218</ferc:NetIncreaseDecreaseInUnappropriatedRetainedIncome>
+  <ferc:UnappropriatedRetainedIncome id="Tag64" contextRef="C2" unitRef="USD" decimals="0">152825541</ferc:UnappropriatedRetainedIncome>
+  <ferc:EquityInEarningsLossesOfAffiliatedCompanies id="Tag65" contextRef="C2" unitRef="USD" decimals="0">73829157</ferc:EquityInEarningsLossesOfAffiliatedCompanies>
+  <ferc:EquityInEarningsLossesOfAffiliatedCompanies id="Tag66" contextRef="C4" unitRef="USD" decimals="0">70891659</ferc:EquityInEarningsLossesOfAffiliatedCompanies>
+  <ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany id="Tag67" contextRef="C2" unitRef="USD" decimals="0">226654698</ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany>
+  <ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany id="Tag68" contextRef="C4" unitRef="USD" decimals="0">378369697</ferc:UnappropriatedRetainedIncomeAndEquityInUndistributedEarningsLossesOfAffiliatedCompany>
+  <ferc:EquityInEarningsLossesOfAffiliatedCompanies id="Tag69" contextRef="C6" unitRef="USD" decimals="0">69656797</ferc:EquityInEarningsLossesOfAffiliatedCompanies>
+  <ferc:UndistributedEarningsLosses id="Tag70" contextRef="C1" unitRef="USD" decimals="0">2937498</ferc:UndistributedEarningsLosses>
+  <ferc:UndistributedEarningsLosses id="Tag71" contextRef="C3" unitRef="USD" decimals="0">1234862</ferc:UndistributedEarningsLosses>
+  <ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDescription id="Tag72" contextRef="C271">Change in Long-Term Intercompany Assets/Liabilities</ferc:OtherAdjustmentsToCashFlowsFromFinancingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromFinancingActivities id="Tag73" contextRef="C271" unitRef="USD" decimals="0">2062315</ferc:OtherAdjustmentsToCashFlowsFromFinancingActivities>
+  <ferc:OrderNumber id="Tag74" contextRef="C87" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag75" contextRef="C271" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:DescriptionOfOtherRetirementsImpactingCashFlowsFromFinancingActivities id="Tag76" contextRef="C85">Change in Long-Term Intercompany Assets/Liabilities</ferc:DescriptionOfOtherRetirementsImpactingCashFlowsFromFinancingActivities>
+  <ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivities id="Tag77" contextRef="C85" unitRef="USD" decimals="0">-2062315</ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivities>
+  <ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivities id="Tag78" contextRef="C86" unitRef="USD" decimals="0">-3310551</ferc:OtherRetirementsOfBalancesImpactingCashFlowsFromFinancingActivities>
+  <ferc:OrderNumber id="Tag79" contextRef="C85" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:AccountNumberInvestmentClassification id="Tag80" contextRef="C273">20</ferc:AccountNumberInvestmentClassification>
+  <ferc:InvestmentClassificationCode id="Tag81" contextRef="C273">A</ferc:InvestmentClassificationCode>
+  <ferc:NameOfIssuingCompanyAndDescriptionOfSecurityHeld id="Tag82" contextRef="C273">Rancho LPG Holdings, LLC</ferc:NameOfIssuingCompanyAndDescriptionOfSecurityHeld>
+  <ferc:PercentageOfControlInAffiliatedCompany id="Tag83" contextRef="C273" unitRef="Pure" decimals="2">1.00</ferc:PercentageOfControlInAffiliatedCompany>
+  <ferc:InvestmentsInAffiliatedCompaniesStocks id="Tag84" contextRef="C274" unitRef="USD" decimals="0">43578743</ferc:InvestmentsInAffiliatedCompaniesStocks>
+  <ferc:InvestmentsInAffiliatedCompaniesStocks id="Tag85" contextRef="C2" unitRef="USD" decimals="0">43578743</ferc:InvestmentsInAffiliatedCompaniesStocks>
+  <ferc:InvestmentsInAffiliatedCompanies id="Tag86" contextRef="C2" unitRef="USD" decimals="0">43578743</ferc:InvestmentsInAffiliatedCompanies>
+  <ferc:OrderNumber id="Tag87" contextRef="C273" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag88" contextRef="C275" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag89" contextRef="C277" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag90" contextRef="C279" unitRef="Pure" decimals="0">11</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag91" contextRef="C281" unitRef="Pure" decimals="0">14</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag92" contextRef="C283" unitRef="Pure" decimals="0">18</ferc:OrderNumber>
+  <ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments id="Tag93" contextRef="C128" unitRef="USD" decimals="0">70891659</ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments>
+  <ferc:EquityInUndistributedEarningsLosses id="Tag94" contextRef="C129" unitRef="USD" decimals="0">2937498</ferc:EquityInUndistributedEarningsLosses>
+  <ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments id="Tag95" contextRef="C130" unitRef="USD" decimals="0">73829157</ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments>
+  <ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments id="Tag96" contextRef="C4" unitRef="USD" decimals="0">70891659</ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments>
+  <ferc:EquityInUndistributedEarningsLosses id="Tag97" contextRef="C1" unitRef="USD" decimals="0">2937498</ferc:EquityInUndistributedEarningsLosses>
+  <ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments id="Tag98" contextRef="C2" unitRef="USD" decimals="0">73829157</ferc:InvestmentsInAffiliatedCompaniesUndistributedEarningsFromCertainInvestments>
+  <ferc:LandTrunkLinesCarrierProperty id="Tag99" contextRef="C4" unitRef="USD" decimals="0">130300</ferc:LandTrunkLinesCarrierProperty>
+  <ferc:LandTrunkLinesCarrierProperty id="Tag100" contextRef="C2" unitRef="USD" decimals="0">130300</ferc:LandTrunkLinesCarrierProperty>
+  <ferc:RightOfWayTrunkLinesCarrierProperty id="Tag101" contextRef="C4" unitRef="USD" decimals="0">546608</ferc:RightOfWayTrunkLinesCarrierProperty>
+  <ferc:RightOfWayTrunkLinesCarrierProperty id="Tag102" contextRef="C2" unitRef="USD" decimals="0">546608</ferc:RightOfWayTrunkLinesCarrierProperty>
+  <ferc:LinePipeTrunkLinesCarrierProperty id="Tag103" contextRef="C4" unitRef="USD" decimals="0">2254133</ferc:LinePipeTrunkLinesCarrierProperty>
+  <ferc:LinePipeTrunkLinesCarrierProperty id="Tag104" contextRef="C2" unitRef="USD" decimals="0">2254133</ferc:LinePipeTrunkLinesCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesCarrierProperty id="Tag105" contextRef="C4" unitRef="USD" decimals="0">1277612</ferc:LinePipeFittingsTrunkLinesCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesCarrierProperty id="Tag106" contextRef="C2" unitRef="USD" decimals="0">1277612</ferc:LinePipeFittingsTrunkLinesCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesCarrierProperty id="Tag107" contextRef="C4" unitRef="USD" decimals="0">25214235</ferc:PipelineConstructionTrunkLinesCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesCarrierPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements id="Tag108" contextRef="C1" unitRef="USD" decimals="0">121674</ferc:PipelineConstructionTrunkLinesCarrierPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements>
+  <ferc:PipelineConstructionTrunkLinesCarrierPropertyPropertyChangesNet id="Tag109" contextRef="C1" unitRef="USD" decimals="0">121674</ferc:PipelineConstructionTrunkLinesCarrierPropertyPropertyChangesNet>
+  <ferc:PipelineConstructionTrunkLinesCarrierPropertyPeriodIncreaseDecrease id="Tag110" contextRef="C1" unitRef="USD" decimals="0">121674</ferc:PipelineConstructionTrunkLinesCarrierPropertyPeriodIncreaseDecrease>
+  <ferc:PipelineConstructionTrunkLinesCarrierProperty id="Tag111" contextRef="C2" unitRef="USD" decimals="0">25335909</ferc:PipelineConstructionTrunkLinesCarrierProperty>
+  <ferc:BuildingsTrunkLinesCarrierProperty id="Tag112" contextRef="C4" unitRef="USD" decimals="0">417275</ferc:BuildingsTrunkLinesCarrierProperty>
+  <ferc:BuildingsTrunkLinesCarrierProperty id="Tag113" contextRef="C2" unitRef="USD" decimals="0">417275</ferc:BuildingsTrunkLinesCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesCarrierProperty id="Tag114" contextRef="C4" unitRef="USD" decimals="0">542016</ferc:PumpingEquipmentTrunkLinesCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesCarrierProperty id="Tag115" contextRef="C2" unitRef="USD" decimals="0">542016</ferc:PumpingEquipmentTrunkLinesCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesCarrierProperty id="Tag116" contextRef="C4" unitRef="USD" decimals="0">1524632</ferc:OtherStationEquipmentTrunkLinesCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesCarrierProperty id="Tag117" contextRef="C2" unitRef="USD" decimals="0">1524632</ferc:OtherStationEquipmentTrunkLinesCarrierProperty>
+  <ferc:DeliveryFacilitiesTrunkLinesCarrierProperty id="Tag118" contextRef="C4" unitRef="USD" decimals="0">166749</ferc:DeliveryFacilitiesTrunkLinesCarrierProperty>
+  <ferc:DeliveryFacilitiesTrunkLinesCarrierProperty id="Tag119" contextRef="C2" unitRef="USD" decimals="0">166749</ferc:DeliveryFacilitiesTrunkLinesCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesCarrierProperty id="Tag120" contextRef="C4" unitRef="USD" decimals="0">715831</ferc:CommunicationSystemsTrunkLinesCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesCarrierProperty id="Tag121" contextRef="C2" unitRef="USD" decimals="0">715831</ferc:CommunicationSystemsTrunkLinesCarrierProperty>
+  <ferc:OfficeFurnitureAndEquipmentTrunkLinesCarrierProperty id="Tag122" contextRef="C4" unitRef="USD" decimals="0">61</ferc:OfficeFurnitureAndEquipmentTrunkLinesCarrierProperty>
+  <ferc:OfficeFurnitureAndEquipmentTrunkLinesCarrierProperty id="Tag123" contextRef="C2" unitRef="USD" decimals="0">61</ferc:OfficeFurnitureAndEquipmentTrunkLinesCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty id="Tag124" contextRef="C4" unitRef="USD" decimals="0">98975</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPropertyChangesPropertySoldAbandonedOrRetired id="Tag125" contextRef="C1" unitRef="USD" decimals="0">14461</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPropertyChangesPropertySoldAbandonedOrRetired>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPropertyChangesNet id="Tag126" contextRef="C1" unitRef="USD" decimals="0">-14461</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPropertyChangesNet>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPeriodIncreaseDecrease id="Tag127" contextRef="C1" unitRef="USD" decimals="0">-14461</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierPropertyPeriodIncreaseDecrease>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty id="Tag128" contextRef="C2" unitRef="USD" decimals="0">84514</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesCarrierProperty>
+  <ferc:OtherPropertyTrunkLinesCarrierProperty id="Tag129" contextRef="C4" unitRef="USD" decimals="0">2793057</ferc:OtherPropertyTrunkLinesCarrierProperty>
+  <ferc:OtherPropertyTrunkLinesCarrierProperty id="Tag130" contextRef="C2" unitRef="USD" decimals="0">2793057</ferc:OtherPropertyTrunkLinesCarrierProperty>
+  <ferc:CarrierPropertyTrunkLines id="Tag131" contextRef="C4" unitRef="USD" decimals="0">35681484</ferc:CarrierPropertyTrunkLines>
+  <ferc:CarrierPropertyTrunkLinesPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements id="Tag132" contextRef="C1" unitRef="USD" decimals="0">121674</ferc:CarrierPropertyTrunkLinesPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements>
+  <ferc:CarrierPropertyTrunkLinesPropertyChangesPropertySoldAbandonedOrRetired id="Tag133" contextRef="C1" unitRef="USD" decimals="0">14461</ferc:CarrierPropertyTrunkLinesPropertyChangesPropertySoldAbandonedOrRetired>
+  <ferc:CarrierPropertyTrunkLinesPropertyChangesNet id="Tag134" contextRef="C1" unitRef="USD" decimals="0">107213</ferc:CarrierPropertyTrunkLinesPropertyChangesNet>
+  <ferc:CarrierPropertyTrunkLinesPeriodIncreaseDecrease id="Tag135" contextRef="C1" unitRef="USD" decimals="0">107213</ferc:CarrierPropertyTrunkLinesPeriodIncreaseDecrease>
+  <ferc:CarrierPropertyTrunkLines id="Tag136" contextRef="C2" unitRef="USD" decimals="0">35788697</ferc:CarrierPropertyTrunkLines>
+  <ferc:ConstructionWorkInProgressGeneralCarrierProperty id="Tag137" contextRef="C4" unitRef="USD" decimals="0">287800</ferc:ConstructionWorkInProgressGeneralCarrierProperty>
+  <ferc:ConstructionWorkInProgressGeneralCarrierPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements id="Tag138" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:ConstructionWorkInProgressGeneralCarrierPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements>
+  <ferc:ConstructionWorkInProgressGeneralCarrierPropertyPropertyChangesNet id="Tag139" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:ConstructionWorkInProgressGeneralCarrierPropertyPropertyChangesNet>
+  <ferc:ConstructionWorkInProgressGeneralCarrierPropertyPeriodIncreaseDecrease id="Tag140" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:ConstructionWorkInProgressGeneralCarrierPropertyPeriodIncreaseDecrease>
+  <ferc:ConstructionWorkInProgressGeneralCarrierProperty id="Tag141" contextRef="C2" unitRef="USD" decimals="0">153500</ferc:ConstructionWorkInProgressGeneralCarrierProperty>
+  <ferc:CarrierPropertyGeneral id="Tag142" contextRef="C4" unitRef="USD" decimals="0">287800</ferc:CarrierPropertyGeneral>
+  <ferc:CarrierPropertyGeneralPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements id="Tag143" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:CarrierPropertyGeneralPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements>
+  <ferc:CarrierPropertyGeneralPropertyChangesNet id="Tag144" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:CarrierPropertyGeneralPropertyChangesNet>
+  <ferc:CarrierPropertyGeneralPeriodIncreaseDecrease id="Tag145" contextRef="C1" unitRef="USD" decimals="0">-134300</ferc:CarrierPropertyGeneralPeriodIncreaseDecrease>
+  <ferc:CarrierPropertyGeneral id="Tag146" contextRef="C2" unitRef="USD" decimals="0">153500</ferc:CarrierPropertyGeneral>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestProperty id="Tag147" contextRef="C4" unitRef="USD" decimals="0">35969284</ferc:CarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements id="Tag148" contextRef="C1" unitRef="USD" decimals="0">-12626</ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesExpendituresForNewConstructionAdditionsAndImprovements>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesPropertySoldAbandonedOrRetired id="Tag149" contextRef="C1" unitRef="USD" decimals="0">14461</ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesPropertySoldAbandonedOrRetired>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesNet id="Tag150" contextRef="C1" unitRef="USD" decimals="0">-27087</ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPropertyChangesNet>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPeriodIncreaseDecrease id="Tag151" contextRef="C1" unitRef="USD" decimals="0">-27087</ferc:CarrierPropertyExcludingUndividedJointInterestPropertyPeriodIncreaseDecrease>
+  <ferc:CarrierPropertyExcludingUndividedJointInterestProperty id="Tag152" contextRef="C2" unitRef="USD" decimals="0">35942197</ferc:CarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty id="Tag153" contextRef="C4" unitRef="USD" decimals="0">500625</ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag154" contextRef="C1" unitRef="USD" decimals="0">14292</ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty id="Tag155" contextRef="C2" unitRef="USD" decimals="0">514917</ferc:RightOfWayTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty id="Tag156" contextRef="C4" unitRef="USD" decimals="0">2066282</ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag157" contextRef="C1" unitRef="USD" decimals="0">58938</ferc:LinePipeTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty id="Tag158" contextRef="C2" unitRef="USD" decimals="0">2125220</ferc:LinePipeTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty id="Tag159" contextRef="C4" unitRef="USD" decimals="0">1171139</ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag160" contextRef="C1" unitRef="USD" decimals="0">33405</ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty id="Tag161" contextRef="C2" unitRef="USD" decimals="0">1204544</ferc:LinePipeFittingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty id="Tag162" contextRef="C4" unitRef="USD" decimals="0">18042554</ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag163" contextRef="C1" unitRef="USD" decimals="0">700221</ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty id="Tag164" contextRef="C2" unitRef="USD" decimals="0">18742775</ferc:PipelineConstructionTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty id="Tag165" contextRef="C4" unitRef="USD" decimals="0">390082</ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:BuildingsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag166" contextRef="C1" unitRef="USD" decimals="0">10797</ferc:BuildingsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty id="Tag167" contextRef="C2" unitRef="USD" decimals="0">400879</ferc:BuildingsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag168" contextRef="C4" unitRef="USD" decimals="0">494054</ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag169" contextRef="C1" unitRef="USD" decimals="0">14172</ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag170" contextRef="C2" unitRef="USD" decimals="0">508226</ferc:PumpingEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag171" contextRef="C4" unitRef="USD" decimals="0">1369646</ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag172" contextRef="C1" unitRef="USD" decimals="0">81634</ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag173" contextRef="C2" unitRef="USD" decimals="0">1451280</ferc:OtherStationEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierProperty id="Tag174" contextRef="C4" unitRef="USD" decimals="0">152854</ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag175" contextRef="C1" unitRef="USD" decimals="0">4360</ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierProperty id="Tag176" contextRef="C2" unitRef="USD" decimals="0">157214</ferc:DeliveryFacilitiesTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty id="Tag177" contextRef="C4" unitRef="USD" decimals="0">655082</ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag178" contextRef="C1" unitRef="USD" decimals="0">18717</ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty id="Tag179" contextRef="C2" unitRef="USD" decimals="0">673799</ferc:CommunicationSystemsTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OfficeFurnitureAndEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag180" contextRef="C4" unitRef="USD" decimals="0">61</ferc:OfficeFurnitureAndEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OfficeFurnitureAndEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag181" contextRef="C2" unitRef="USD" decimals="0">61</ferc:OfficeFurnitureAndEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag182" contextRef="C4" unitRef="USD" decimals="0">14913</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag183" contextRef="C1" unitRef="USD" decimals="0">4981</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierPropertyRetirement id="Tag184" contextRef="C1" unitRef="USD" decimals="0">241</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierPropertyRetirement>
+  <ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty id="Tag185" contextRef="C2" unitRef="USD" decimals="0">19653</ferc:VehiclesAndOtherWorkEquipmentTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierProperty id="Tag186" contextRef="C4" unitRef="USD" decimals="0">2560294</ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag187" contextRef="C1" unitRef="USD" decimals="0">73029</ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierProperty id="Tag188" contextRef="C2" unitRef="USD" decimals="0">2633323</ferc:OtherPropertyTrunkLinesAccruedDepreciationCarrierProperty>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLines id="Tag189" contextRef="C4" unitRef="USD" decimals="0">27417586</ferc:AccruedDepreciationCarrierPropertyTrunkLines>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLinesIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag190" contextRef="C1" unitRef="USD" decimals="0">1014546</ferc:AccruedDepreciationCarrierPropertyTrunkLinesIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLinesRetirement id="Tag191" contextRef="C1" unitRef="USD" decimals="0">241</ferc:AccruedDepreciationCarrierPropertyTrunkLinesRetirement>
+  <ferc:AccruedDepreciationCarrierPropertyTrunkLines id="Tag192" contextRef="C2" unitRef="USD" decimals="0">28431891</ferc:AccruedDepreciationCarrierPropertyTrunkLines>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty id="Tag193" contextRef="C4" unitRef="USD" decimals="0">27417586</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty id="Tag194" contextRef="C1" unitRef="USD" decimals="0">1014546</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestPropertyIncreaseToDepreciationAndAmortizationOfTransportationProperty>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestPropertyRetirement id="Tag195" contextRef="C1" unitRef="USD" decimals="0">241</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestPropertyRetirement>
+  <ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty id="Tag196" contextRef="C2" unitRef="USD" decimals="0">28431891</ferc:AccruedDepreciationCarrierPropertyExcludingUndividedJointInterestProperty>
+  <ferc:AdditionalPaidInCapital id="Tag197" contextRef="C4" unitRef="USD" decimals="0">255496909</ferc:AdditionalPaidInCapital>
+  <ferc:AdditionalPaidInCapital id="Tag198" contextRef="C2" unitRef="USD" decimals="0">255496909</ferc:AdditionalPaidInCapital>
+  <ferc:TrunkRevenues id="Tag199" contextRef="C194" unitRef="USD" decimals="0">4687960</ferc:TrunkRevenues>
+  <ferc:TrunkRevenues id="Tag200" contextRef="C1" unitRef="USD" decimals="0">4687960</ferc:TrunkRevenues>
+  <ferc:OperatingRevenues id="Tag201" contextRef="C194" unitRef="USD" decimals="0">4687960</ferc:OperatingRevenues>
+  <ferc:OperatingRevenues id="Tag202" contextRef="C1" unitRef="USD" decimals="0">4687960</ferc:OperatingRevenues>
+  <ferc:TrunkRevenues id="Tag203" contextRef="C193" unitRef="USD" decimals="0">3729143</ferc:TrunkRevenues>
+  <ferc:TrunkRevenues id="Tag204" contextRef="C3" unitRef="USD" decimals="0">3729143</ferc:TrunkRevenues>
+  <ferc:OperatingRevenues id="Tag205" contextRef="C193" unitRef="USD" decimals="0">3729143</ferc:OperatingRevenues>
+  <ferc:OperatingRevenues id="Tag206" contextRef="C3" unitRef="USD" decimals="0">3729143</ferc:OperatingRevenues>
+  <ferc:TrunkRevenues id="Tag207" contextRef="C195" unitRef="USD" decimals="0">3729143</ferc:TrunkRevenues>
+  <ferc:TrunkRevenues id="Tag208" contextRef="C196" unitRef="USD" decimals="0">4687960</ferc:TrunkRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="Tag209" contextRef="C195" unitRef="USD" decimals="0">3729143</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="Tag210" contextRef="C196" unitRef="USD" decimals="0">4687960</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="Tag211" contextRef="C3" unitRef="USD" decimals="0">3729143</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:GatheringTrunkAndDeliveryRevenues id="Tag212" contextRef="C1" unitRef="USD" decimals="0">4687960</ferc:GatheringTrunkAndDeliveryRevenues>
+  <ferc:NameOfState id="Tag213" contextRef="C310">Michigan</ferc:NameOfState>
+  <ferc:StateLocalAndOtherPipelineTaxExpense id="Tag214" contextRef="C310" unitRef="USD" decimals="0">718250</ferc:StateLocalAndOtherPipelineTaxExpense>
+  <ferc:StateLocalAndOtherPipelineTaxExpense id="Tag215" contextRef="C1" unitRef="USD" decimals="0">718250</ferc:StateLocalAndOtherPipelineTaxExpense>
+  <ferc:PipelineTaxesGeneralExpense id="Tag216" contextRef="C1" unitRef="USD" decimals="0">718250</ferc:PipelineTaxesGeneralExpense>
+  <ferc:OrderNumber id="Tag217" contextRef="C310" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag218" contextRef="C311" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag219" contextRef="C285">Tulsa Storage Facility</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag220" contextRef="C285">2005-04-30</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag221" contextRef="C286" unitRef="USD" decimals="0">1074475</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag222" contextRef="C287">Rapid River Depropanizer &amp; Truck Terminal</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag223" contextRef="C287">2012-04-01</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag224" contextRef="C288" unitRef="USD" decimals="0">24661827</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag225" contextRef="C289">Bumstead Storage Facility</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag226" contextRef="C289">2007-08-31</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag227" contextRef="C290" unitRef="USD" decimals="0">103631891</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag228" contextRef="C291">Cordova Storage Facility</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag229" contextRef="C291">2005-02-28</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag230" contextRef="C292" unitRef="USD" decimals="0">6359313</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag231" contextRef="C293">Shafter Storage Facility</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag232" contextRef="C293">2006-01-31</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag233" contextRef="C294" unitRef="USD" decimals="0">158908114</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag234" contextRef="C295">St Clair Terminal</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag235" contextRef="C295">2012-04-01</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag236" contextRef="C296" unitRef="USD" decimals="0">71546276</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag237" contextRef="C297">Ridgelawn Rail Storage</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag238" contextRef="C297">2017-02-08</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag239" contextRef="C298" unitRef="USD" decimals="0">10981123</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag240" contextRef="C299">Elk Hills</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag241" contextRef="C299">2011-09-01</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag242" contextRef="C300" unitRef="USD" decimals="0">45802239</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag243" contextRef="C301">Tampa Terminal</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:DateNoncarrierPropertyRecognized id="Tag244" contextRef="C301">2015-03-31</ferc:DateNoncarrierPropertyRecognized>
+  <ferc:NoncarrierProperty id="Tag245" contextRef="C302" unitRef="USD" decimals="0">14804561</ferc:NoncarrierProperty>
+  <ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment id="Tag246" contextRef="C303">Minor items individually less than $1 million</ferc:NameAndDescriptionOfPhysicalPropertyHeldAsInvestment>
+  <ferc:NoncarrierProperty id="Tag247" contextRef="C304" unitRef="USD" decimals="0">567203</ferc:NoncarrierProperty>
+  <ferc:NoncarrierProperty id="Tag248" contextRef="C2" unitRef="USD" decimals="0">438337022</ferc:NoncarrierProperty>
+  <ferc:OrderNumber id="Tag249" contextRef="C285" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag250" contextRef="C287" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag251" contextRef="C289" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag252" contextRef="C291" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag253" contextRef="C293" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag254" contextRef="C295" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag255" contextRef="C297" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag256" contextRef="C299" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag257" contextRef="C301" unitRef="Pure" decimals="0">9</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag258" contextRef="C303" unitRef="Pure" decimals="0">10</ferc:OrderNumber>
+  <ferc:StateOfOrigin id="Tag259" contextRef="C323">Propane - Michigan</ferc:StateOfOrigin>
+  <ferc:NumberOfBarrelsReceivedOnTrunkLines id="Tag260" contextRef="C323" unitRef="Barrel" decimals="0">4057094</ferc:NumberOfBarrelsReceivedOnTrunkLines>
+  <ferc:NumberOfBarrelsReceived id="Tag261" contextRef="C323" unitRef="Barrel" decimals="0">4057094</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutOnTrunkLines id="Tag262" contextRef="C323" unitRef="Barrel" decimals="0">4057094</ferc:NumberOfBarrelsDeliveredOutOnTrunkLines>
+  <ferc:NumberOfBarrelsDeliveredOut id="Tag263" contextRef="C323" unitRef="Barrel" decimals="0">4057094</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:StateOfOrigin id="Tag264" contextRef="C324">Butane - Michigan</ferc:StateOfOrigin>
+  <ferc:NumberOfBarrelsReceivedOnTrunkLines id="Tag265" contextRef="C324" unitRef="Barrel" decimals="0">2759322</ferc:NumberOfBarrelsReceivedOnTrunkLines>
+  <ferc:NumberOfBarrelsReceived id="Tag266" contextRef="C324" unitRef="Barrel" decimals="0">2759322</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutOnTrunkLines id="Tag267" contextRef="C324" unitRef="Barrel" decimals="0">2759322</ferc:NumberOfBarrelsDeliveredOutOnTrunkLines>
+  <ferc:NumberOfBarrelsDeliveredOut id="Tag268" contextRef="C324" unitRef="Barrel" decimals="0">2759322</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:NumberOfBarrelsReceivedOnTrunkLines id="Tag269" contextRef="C194" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsReceivedOnTrunkLines>
+  <ferc:NumberOfBarrelsReceived id="Tag270" contextRef="C194" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutOnTrunkLines id="Tag271" contextRef="C194" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsDeliveredOutOnTrunkLines>
+  <ferc:NumberOfBarrelsDeliveredOut id="Tag272" contextRef="C194" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:NumberOfBarrelsReceivedOnTrunkLines id="Tag273" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsReceivedOnTrunkLines>
+  <ferc:NumberOfBarrelsReceived id="Tag274" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsReceived>
+  <ferc:NumberOfBarrelsDeliveredOutOnTrunkLines id="Tag275" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsDeliveredOutOnTrunkLines>
+  <ferc:NumberOfBarrelsDeliveredOut id="Tag276" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsDeliveredOut>
+  <ferc:NumberOfBarrelMilesOnTrunkLinesOfOilProducts id="Tag277" contextRef="C1" unitRef="Pure" decimals="0">62557349</ferc:NumberOfBarrelMilesOnTrunkLinesOfOilProducts>
+  <ferc:NumberOfBarrelsOfOilHavingTrunkLineMovementForOilProducts id="Tag278" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsOfOilHavingTrunkLineMovementForOilProducts>
+  <ferc:OrderNumber id="Tag279" contextRef="C326" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag280" contextRef="C327" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag281" contextRef="C328" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag282" contextRef="C329" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:Cash id="Tag283" contextRef="C2" unitRef="USD" decimals="0">0</ferc:Cash>
+  <ferc:Cash id="Tag284" contextRef="C4" unitRef="USD" decimals="0">0</ferc:Cash>
+  <ferc:ReceivablesFromAffiliatedCompanies id="Tag285" contextRef="C2" unitRef="USD" decimals="0">0</ferc:ReceivablesFromAffiliatedCompanies>
+  <ferc:ReceivablesFromAffiliatedCompanies id="Tag286" contextRef="C4" unitRef="USD" decimals="0">3748184</ferc:ReceivablesFromAffiliatedCompanies>
+  <ferc:AccountsReceivable id="Tag287" contextRef="C2" unitRef="USD" decimals="0">1123614</ferc:AccountsReceivable>
+  <ferc:AccountsReceivable id="Tag288" contextRef="C4" unitRef="USD" decimals="0">1311467</ferc:AccountsReceivable>
+  <ferc:Prepayments id="Tag289" contextRef="C2" unitRef="USD" decimals="0">0</ferc:Prepayments>
+  <ferc:Prepayments id="Tag290" contextRef="C4" unitRef="USD" decimals="0">587610</ferc:Prepayments>
+  <ferc:CurrentAssets id="Tag291" contextRef="C2" unitRef="USD" decimals="0">1123614</ferc:CurrentAssets>
+  <ferc:CurrentAssets id="Tag292" contextRef="C4" unitRef="USD" decimals="0">5647261</ferc:CurrentAssets>
+  <ferc:InvestmentsInAffiliatedCompaniesStocks id="Tag293" contextRef="C4" unitRef="USD" decimals="0">43578743</ferc:InvestmentsInAffiliatedCompaniesStocks>
+  <ferc:InvestmentsAndSpecialFunds id="Tag294" contextRef="C2" unitRef="USD" decimals="0">117407900</ferc:InvestmentsAndSpecialFunds>
+  <ferc:InvestmentsAndSpecialFunds id="Tag295" contextRef="C4" unitRef="USD" decimals="0">114470402</ferc:InvestmentsAndSpecialFunds>
+  <ferc:CarrierProperty id="Tag296" contextRef="C2" unitRef="USD" decimals="0">35942197</ferc:CarrierProperty>
+  <ferc:CarrierProperty id="Tag297" contextRef="C4" unitRef="USD" decimals="0">35969284</ferc:CarrierProperty>
+  <ferc:AccruedDepreciationCarrierProperty id="Tag298" contextRef="C2" unitRef="USD" decimals="0">28431891</ferc:AccruedDepreciationCarrierProperty>
+  <ferc:AccruedDepreciationCarrierProperty id="Tag299" contextRef="C4" unitRef="USD" decimals="0">27417586</ferc:AccruedDepreciationCarrierProperty>
+  <ferc:CarrierPropertyNet id="Tag300" contextRef="C2" unitRef="USD" decimals="0">7510306</ferc:CarrierPropertyNet>
+  <ferc:CarrierPropertyNet id="Tag301" contextRef="C4" unitRef="USD" decimals="0">8551698</ferc:CarrierPropertyNet>
+  <ferc:NoncarrierProperty id="Tag302" contextRef="C4" unitRef="USD" decimals="0">494114160</ferc:NoncarrierProperty>
+  <ferc:AccruedDepreciationNoncarrierProperty id="Tag303" contextRef="C2" unitRef="USD" decimals="0">265361673</ferc:AccruedDepreciationNoncarrierProperty>
+  <ferc:AccruedDepreciationNoncarrierProperty id="Tag304" contextRef="C4" unitRef="USD" decimals="0">164991731</ferc:AccruedDepreciationNoncarrierProperty>
+  <ferc:NoncarrierPropertyNet id="Tag305" contextRef="C2" unitRef="USD" decimals="0">172975349</ferc:NoncarrierPropertyNet>
+  <ferc:NoncarrierPropertyNet id="Tag306" contextRef="C4" unitRef="USD" decimals="0">329122429</ferc:NoncarrierPropertyNet>
+  <ferc:TangibleProperty id="Tag307" contextRef="C2" unitRef="USD" decimals="0">180485655</ferc:TangibleProperty>
+  <ferc:TangibleProperty id="Tag308" contextRef="C4" unitRef="USD" decimals="0">337674127</ferc:TangibleProperty>
+  <ferc:OrganizationCostsAndOtherIntangibles id="Tag309" contextRef="C2" unitRef="USD" decimals="0">200000</ferc:OrganizationCostsAndOtherIntangibles>
+  <ferc:OrganizationCostsAndOtherIntangibles id="Tag310" contextRef="C4" unitRef="USD" decimals="0">200000</ferc:OrganizationCostsAndOtherIntangibles>
+  <ferc:AccruedAmortizationOfIntangibles id="Tag311" contextRef="C2" unitRef="USD" decimals="0">57263</ferc:AccruedAmortizationOfIntangibles>
+  <ferc:AccruedAmortizationOfIntangibles id="Tag312" contextRef="C4" unitRef="USD" decimals="0">54155</ferc:AccruedAmortizationOfIntangibles>
+  <ferc:MiscellaneousOtherAssets id="Tag313" contextRef="C2" unitRef="USD" decimals="0">201642572</ferc:MiscellaneousOtherAssets>
+  <ferc:MiscellaneousOtherAssets id="Tag314" contextRef="C4" unitRef="USD" decimals="0">188608990</ferc:MiscellaneousOtherAssets>
+  <ferc:OtherAssetsAndDeferredCharges id="Tag315" contextRef="C2" unitRef="USD" decimals="0">201785309</ferc:OtherAssetsAndDeferredCharges>
+  <ferc:OtherAssetsAndDeferredCharges id="Tag316" contextRef="C4" unitRef="USD" decimals="0">188754835</ferc:OtherAssetsAndDeferredCharges>
+  <ferc:Assets id="Tag317" contextRef="C2" unitRef="USD" decimals="0">500802478</ferc:Assets>
+  <ferc:Assets id="Tag318" contextRef="C4" unitRef="USD" decimals="0">646546625</ferc:Assets>
+  <ferc:AccountsPayable id="Tag319" contextRef="C2" unitRef="USD" decimals="0">1334835</ferc:AccountsPayable>
+  <ferc:AccountsPayable id="Tag320" contextRef="C4" unitRef="USD" decimals="0">1900076</ferc:AccountsPayable>
+  <ferc:TaxesPayable id="Tag321" contextRef="C2" unitRef="USD" decimals="0">846312</ferc:TaxesPayable>
+  <ferc:TaxesPayable id="Tag322" contextRef="C4" unitRef="USD" decimals="0">876389</ferc:TaxesPayable>
+  <ferc:OtherCurrentLiabilities id="Tag323" contextRef="C2" unitRef="USD" decimals="0">1955057</ferc:OtherCurrentLiabilities>
+  <ferc:OtherCurrentLiabilities id="Tag324" contextRef="C4" unitRef="USD" decimals="0">1723760</ferc:OtherCurrentLiabilities>
+  <ferc:CurrentLiabilities id="Tag325" contextRef="C2" unitRef="USD" decimals="0">4136204</ferc:CurrentLiabilities>
+  <ferc:CurrentLiabilities id="Tag326" contextRef="C4" unitRef="USD" decimals="0">4500225</ferc:CurrentLiabilities>
+  <ferc:OtherNoncurrentLiabilities id="Tag327" contextRef="C2" unitRef="USD" decimals="0">13159056</ferc:OtherNoncurrentLiabilities>
+  <ferc:OtherNoncurrentLiabilities id="Tag328" contextRef="C4" unitRef="USD" decimals="0">6686560</ferc:OtherNoncurrentLiabilities>
+  <ferc:AssetRetirementObligations id="Tag329" contextRef="C2" unitRef="USD" decimals="0">1355611</ferc:AssetRetirementObligations>
+  <ferc:AssetRetirementObligations id="Tag330" contextRef="C4" unitRef="USD" decimals="0">1493234</ferc:AssetRetirementObligations>
+  <ferc:NoncurrentLiabilities id="Tag331" contextRef="C2" unitRef="USD" decimals="0">14514667</ferc:NoncurrentLiabilities>
+  <ferc:NoncurrentLiabilities id="Tag332" contextRef="C4" unitRef="USD" decimals="0">8179794</ferc:NoncurrentLiabilities>
+  <ferc:Liabilities id="Tag333" contextRef="C2" unitRef="USD" decimals="0">18650871</ferc:Liabilities>
+  <ferc:Liabilities id="Tag334" contextRef="C4" unitRef="USD" decimals="0">12680019</ferc:Liabilities>
+  <ferc:StockholdersEquity id="Tag335" contextRef="C2" unitRef="USD" decimals="0">482151607</ferc:StockholdersEquity>
+  <ferc:StockholdersEquity id="Tag336" contextRef="C4" unitRef="USD" decimals="0">633866606</ferc:StockholdersEquity>
+  <ferc:LiabilitiesAndStockholdersEquity id="Tag337" contextRef="C2" unitRef="USD" decimals="0">500802478</ferc:LiabilitiesAndStockholdersEquity>
+  <ferc:LiabilitiesAndStockholdersEquity id="Tag338" contextRef="C4" unitRef="USD" decimals="0">646546625</ferc:LiabilitiesAndStockholdersEquity>
+  <ferc:OperatingExpenses id="Tag339" contextRef="C1" unitRef="USD" decimals="0">3272517</ferc:OperatingExpenses>
+  <ferc:OperatingExpenses id="Tag340" contextRef="C3" unitRef="USD" decimals="0">1783693</ferc:OperatingExpenses>
+  <ferc:NetCarrierOperatingIncome id="Tag341" contextRef="C1" unitRef="USD" decimals="0">1415443</ferc:NetCarrierOperatingIncome>
+  <ferc:NetCarrierOperatingIncome id="Tag342" contextRef="C3" unitRef="USD" decimals="0">1945450</ferc:NetCarrierOperatingIncome>
+  <ferc:IncomeNetFromNoncarrierProperty id="Tag343" contextRef="C1" unitRef="USD" decimals="0">-156072225</ferc:IncomeNetFromNoncarrierProperty>
+  <ferc:IncomeNetFromNoncarrierProperty id="Tag344" contextRef="C3" unitRef="USD" decimals="0">-17777668</ferc:IncomeNetFromNoncarrierProperty>
+  <ferc:InterestAndDividendIncome id="Tag345" contextRef="C1" unitRef="USD" decimals="0">4044</ferc:InterestAndDividendIncome>
+  <ferc:MiscellaneousIncome id="Tag346" contextRef="C1" unitRef="USD" decimals="0">241</ferc:MiscellaneousIncome>
+  <ferc:EquityInEarningsLossesOfAffiliatedCompaniesIncludingDividendIncome id="Tag347" contextRef="C1" unitRef="USD" decimals="0">2937498</ferc:EquityInEarningsLossesOfAffiliatedCompaniesIncludingDividendIncome>
+  <ferc:EquityInEarningsLossesOfAffiliatedCompaniesIncludingDividendIncome id="Tag348" contextRef="C3" unitRef="USD" decimals="0">1234862</ferc:EquityInEarningsLossesOfAffiliatedCompaniesIncludingDividendIncome>
+  <ferc:OtherIncomeAndDeductions id="Tag349" contextRef="C1" unitRef="USD" decimals="0">-153130442</ferc:OtherIncomeAndDeductions>
+  <ferc:OtherIncomeAndDeductions id="Tag350" contextRef="C3" unitRef="USD" decimals="0">-16542806</ferc:OtherIncomeAndDeductions>
+  <ferc:OrdinaryIncomeBeforeFederalIncomeTaxes id="Tag351" contextRef="C1" unitRef="USD" decimals="0">-151714999</ferc:OrdinaryIncomeBeforeFederalIncomeTaxes>
+  <ferc:OrdinaryIncomeBeforeFederalIncomeTaxes id="Tag352" contextRef="C3" unitRef="USD" decimals="0">-14597356</ferc:OrdinaryIncomeBeforeFederalIncomeTaxes>
+  <ferc:IncomeLossFromContinuingOperations id="Tag353" contextRef="C1" unitRef="USD" decimals="0">-151714999</ferc:IncomeLossFromContinuingOperations>
+  <ferc:IncomeLossFromContinuingOperations id="Tag354" contextRef="C3" unitRef="USD" decimals="0">-14597356</ferc:IncomeLossFromContinuingOperations>
+  <ferc:IncomeLossBeforeExtraordinaryItems id="Tag355" contextRef="C1" unitRef="USD" decimals="0">-151714999</ferc:IncomeLossBeforeExtraordinaryItems>
+  <ferc:IncomeLossBeforeExtraordinaryItems id="Tag356" contextRef="C3" unitRef="USD" decimals="0">-14597356</ferc:IncomeLossBeforeExtraordinaryItems>
+  <ferc:DepreciationAndDepletion id="Tag357" contextRef="C1" unitRef="USD" decimals="0">1014546</ferc:DepreciationAndDepletion>
+  <ferc:DepreciationAndDepletion id="Tag358" contextRef="C3" unitRef="USD" decimals="0">328999</ferc:DepreciationAndDepletion>
+  <ferc:NetIncreaseDecreaseInReceivablesOperatingActivities id="Tag359" contextRef="C1" unitRef="USD" decimals="0">-187853</ferc:NetIncreaseDecreaseInReceivablesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInReceivablesOperatingActivities id="Tag360" contextRef="C3" unitRef="USD" decimals="0">1019472</ferc:NetIncreaseDecreaseInReceivablesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities id="Tag361" contextRef="C1" unitRef="USD" decimals="0">-8140114</ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities>
+  <ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities id="Tag362" contextRef="C3" unitRef="USD" decimals="0">-12678792</ferc:NetIncreaseDecreaseInPayablesAndAccruedExpensesOperatingActivities>
+  <ferc:NetCashProvidedByUsedInOperatingActivities id="Tag363" contextRef="C1" unitRef="USD" decimals="0">0</ferc:NetCashProvidedByUsedInOperatingActivities>
+  <ferc:NetCashProvidedByUsedInOperatingActivities id="Tag364" contextRef="C3" unitRef="USD" decimals="0">0</ferc:NetCashProvidedByUsedInOperatingActivities>
+  <ferc:GrossAdditionsToCarrierPropertyInvestmentActivities id="Tag365" contextRef="C1" unitRef="USD" decimals="0">1317</ferc:GrossAdditionsToCarrierPropertyInvestmentActivities>
+  <ferc:GrossAdditionsToCarrierPropertyInvestmentActivities id="Tag366" contextRef="C3" unitRef="USD" decimals="0">1167700</ferc:GrossAdditionsToCarrierPropertyInvestmentActivities>
+  <ferc:GrossAdditionsToNoncarrierPropertyInvestmentActivities id="Tag367" contextRef="C1" unitRef="USD" decimals="0">2060998</ferc:GrossAdditionsToNoncarrierPropertyInvestmentActivities>
+  <ferc:GrossAdditionsToNoncarrierPropertyInvestmentActivities id="Tag368" contextRef="C3" unitRef="USD" decimals="0">2142851</ferc:GrossAdditionsToNoncarrierPropertyInvestmentActivities>
+  <ferc:CashOutflowsForPlant id="Tag369" contextRef="C1" unitRef="USD" decimals="0">2062315</ferc:CashOutflowsForPlant>
+  <ferc:CashOutflowsForPlant id="Tag370" contextRef="C3" unitRef="USD" decimals="0">3310551</ferc:CashOutflowsForPlant>
+  <ferc:CashFlowsProvidedFromUsedInInvestmentActivities id="Tag371" contextRef="C1" unitRef="USD" decimals="0">-2062315</ferc:CashFlowsProvidedFromUsedInInvestmentActivities>
+  <ferc:CashFlowsProvidedFromUsedInInvestmentActivities id="Tag372" contextRef="C3" unitRef="USD" decimals="0">-3310551</ferc:CashFlowsProvidedFromUsedInInvestmentActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag373" contextRef="C57">Other:</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag374" contextRef="C59">Loss (Gain) on sale of Non-Carrier Assets</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag375" contextRef="C59" unitRef="USD" decimals="0">43618</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag376" contextRef="C60" unitRef="USD" decimals="0">1387379</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag377" contextRef="C61">Net (Increase) Decrease in Prepayments</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag378" contextRef="C61" unitRef="USD" decimals="0">587610</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag379" contextRef="C62" unitRef="USD" decimals="0">-170088</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag380" contextRef="C63">Net (Increase) Decrease in Receivables from Affiliated Companies</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag381" contextRef="C63" unitRef="USD" decimals="0">3748184</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities id="Tag382" contextRef="C64" unitRef="USD" decimals="0">1455888</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag383" contextRef="C65">Net Increase (Decrease) in Payables to Affiliated Companies</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag384" contextRef="C67">Gain on Sale of Carrier Assets</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag385" contextRef="C69">Increase (Decrease) in Other Long Term Liabilities</ferc:OtherAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:OrderNumber id="Tag386" contextRef="C57" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag387" contextRef="C59" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag388" contextRef="C61" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag389" contextRef="C63" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag390" contextRef="C65" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag391" contextRef="C67" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag392" contextRef="C69" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag393" contextRef="C51">Depreciation Noncarrier Property</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag394" contextRef="C51" unitRef="USD" decimals="0">102993222</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag395" contextRef="C52" unitRef="USD" decimals="0">26525196</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag396" contextRef="C53">Amortization Noncarrier Property</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag397" contextRef="C53" unitRef="USD" decimals="0">3108</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag398" contextRef="C54" unitRef="USD" decimals="0">3108</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag399" contextRef="C55">Undistributed Equity Earnings</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag400" contextRef="C55" unitRef="USD" decimals="0">-2937498</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag401" contextRef="C56" unitRef="USD" decimals="0">-1234862</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription id="Tag402" contextRef="C269">Impairment of Noncarrier Property</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivitiesDescription>
+  <ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities id="Tag403" contextRef="C269" unitRef="USD" decimals="0">54214470</ferc:NoncashAdjustmentsToCashFlowsFromOperatingActivities>
+  <ferc:OrderNumber id="Tag404" contextRef="C51" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag405" contextRef="C53" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag406" contextRef="C55" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag407" contextRef="C269" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:NoncarrierPropertyDescription id="Tag408" contextRef="C312">NGL Facility Revenue</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyRevenue id="Tag409" contextRef="C312" unitRef="USD" decimals="0">34671722</ferc:NoncarrierPropertyRevenue>
+  <ferc:NoncarrierPropertyDescription id="Tag410" contextRef="C313">Trucking Revenue</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyRevenue id="Tag411" contextRef="C313" unitRef="USD" decimals="0">4029260</ferc:NoncarrierPropertyRevenue>
+  <ferc:NoncarrierPropertyDescription id="Tag412" contextRef="C314">Cost of Sales</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyExpense id="Tag413" contextRef="C314" unitRef="USD" decimals="0">3335685</ferc:NoncarrierPropertyExpense>
+  <ferc:NoncarrierPropertyDescription id="Tag414" contextRef="C315">Operating Expenses</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyExpense id="Tag415" contextRef="C315" unitRef="USD" decimals="0">28467760</ferc:NoncarrierPropertyExpense>
+  <ferc:NoncarrierPropertyDescription id="Tag416" contextRef="C316">General and Administrative Expenses</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyExpense id="Tag417" contextRef="C316" unitRef="USD" decimals="0">-129342</ferc:NoncarrierPropertyExpense>
+  <ferc:NoncarrierPropertyDescription id="Tag418" contextRef="C317">Depreciation, Amortization, and Impairment</ferc:NoncarrierPropertyDescription>
+  <ferc:NoncarrierPropertyExpense id="Tag419" contextRef="C317" unitRef="USD" decimals="0">163099104</ferc:NoncarrierPropertyExpense>
+  <ferc:NoncarrierPropertyRevenue id="Tag420" contextRef="C1" unitRef="USD" decimals="0">38700982</ferc:NoncarrierPropertyRevenue>
+  <ferc:NoncarrierPropertyExpense id="Tag421" contextRef="C1" unitRef="USD" decimals="0">194773207</ferc:NoncarrierPropertyExpense>
+  <ferc:OrderNumber id="Tag422" contextRef="C312" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag423" contextRef="C313" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag424" contextRef="C314" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag425" contextRef="C315" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag426" contextRef="C316" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag427" contextRef="C317" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag428" contextRef="C318" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag429" contextRef="C319" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag430" contextRef="C320" unitRef="Pure" decimals="0">9</ferc:OrderNumber>
+  <ferc:IncreaseInMiscellaneousIncome id="Tag431" contextRef="C344" unitRef="USD" decimals="0">241</ferc:IncreaseInMiscellaneousIncome>
+  <ferc:DescriptionOfMiscellaneousItem id="Tag432" contextRef="C344">Minor Items, each less than $250,000</ferc:DescriptionOfMiscellaneousItem>
+  <ferc:MiscellaneousItemsAccountNumber id="Tag433" contextRef="C344">640</ferc:MiscellaneousItemsAccountNumber>
+  <ferc:OrderNumber id="Tag434" contextRef="C344" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag435" contextRef="C345" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag436" contextRef="C346" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag437" contextRef="C347" unitRef="Pure" decimals="0">11</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag438" contextRef="C348" unitRef="Pure" decimals="0">14</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag439" contextRef="C349" unitRef="Pure" decimals="0">17</ferc:OrderNumber>
+  <ferc:SalariesAndWagesOperationsAndMaintenance id="Tag440" contextRef="C308" unitRef="USD" decimals="0">336594</ferc:SalariesAndWagesOperationsAndMaintenance>
+  <ferc:SalariesAndWagesOperationsAndMaintenance id="Tag441" contextRef="C194" unitRef="USD" decimals="0">336594</ferc:SalariesAndWagesOperationsAndMaintenance>
+  <ferc:SalariesAndWagesOperationsAndMaintenance id="Tag442" contextRef="C1" unitRef="USD" decimals="0">336594</ferc:SalariesAndWagesOperationsAndMaintenance>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="Tag443" contextRef="C308" unitRef="USD" decimals="0">303320</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="Tag444" contextRef="C194" unitRef="USD" decimals="0">303320</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:MaterialsAndSuppliesOperationsAndMaintenance id="Tag445" contextRef="C1" unitRef="USD" decimals="0">303320</ferc:MaterialsAndSuppliesOperationsAndMaintenance>
+  <ferc:OutsideServicesOperationsAndMaintenance id="Tag446" contextRef="C308" unitRef="USD" decimals="0">176862</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OutsideServicesOperationsAndMaintenance id="Tag447" contextRef="C194" unitRef="USD" decimals="0">176862</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OutsideServicesOperationsAndMaintenance id="Tag448" contextRef="C1" unitRef="USD" decimals="0">176862</ferc:OutsideServicesOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="Tag449" contextRef="C308" unitRef="USD" decimals="0">12088</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="Tag450" contextRef="C194" unitRef="USD" decimals="0">12088</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OperatingFuelAndPowerOperationsAndMaintenance id="Tag451" contextRef="C1" unitRef="USD" decimals="0">12088</ferc:OperatingFuelAndPowerOperationsAndMaintenance>
+  <ferc:OtherExpensesOperationsAndMaintenance id="Tag452" contextRef="C308" unitRef="USD" decimals="0">138523</ferc:OtherExpensesOperationsAndMaintenance>
+  <ferc:OtherExpensesOperationsAndMaintenance id="Tag453" contextRef="C194" unitRef="USD" decimals="0">138523</ferc:OtherExpensesOperationsAndMaintenance>
+  <ferc:OtherExpensesOperationsAndMaintenance id="Tag454" contextRef="C1" unitRef="USD" decimals="0">138523</ferc:OtherExpensesOperationsAndMaintenance>
+  <ferc:OperationsAndMaintenanceExpensesOil id="Tag455" contextRef="C308" unitRef="USD" decimals="0">967387</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:OperationsAndMaintenanceExpensesOil id="Tag456" contextRef="C194" unitRef="USD" decimals="0">967387</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:OperationsAndMaintenanceExpensesOil id="Tag457" contextRef="C1" unitRef="USD" decimals="0">967387</ferc:OperationsAndMaintenanceExpensesOil>
+  <ferc:SalariesAndWagesGeneralExpense id="Tag458" contextRef="C308" unitRef="USD" decimals="0">463218</ferc:SalariesAndWagesGeneralExpense>
+  <ferc:SalariesAndWagesGeneralExpense id="Tag459" contextRef="C194" unitRef="USD" decimals="0">463218</ferc:SalariesAndWagesGeneralExpense>
+  <ferc:SalariesAndWagesGeneralExpense id="Tag460" contextRef="C1" unitRef="USD" decimals="0">463218</ferc:SalariesAndWagesGeneralExpense>
+  <ferc:DepreciationAndAmortizationGeneralExpense id="Tag461" contextRef="C308" unitRef="USD" decimals="0">1014546</ferc:DepreciationAndAmortizationGeneralExpense>
+  <ferc:DepreciationAndAmortizationGeneralExpense id="Tag462" contextRef="C194" unitRef="USD" decimals="0">1014546</ferc:DepreciationAndAmortizationGeneralExpense>
+  <ferc:DepreciationAndAmortizationGeneralExpense id="Tag463" contextRef="C1" unitRef="USD" decimals="0">1014546</ferc:DepreciationAndAmortizationGeneralExpense>
+  <ferc:EmployeeBenefitsGeneralExpense id="Tag464" contextRef="C308" unitRef="USD" decimals="0">104967</ferc:EmployeeBenefitsGeneralExpense>
+  <ferc:EmployeeBenefitsGeneralExpense id="Tag465" contextRef="C194" unitRef="USD" decimals="0">104967</ferc:EmployeeBenefitsGeneralExpense>
+  <ferc:EmployeeBenefitsGeneralExpense id="Tag466" contextRef="C1" unitRef="USD" decimals="0">104967</ferc:EmployeeBenefitsGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="Tag467" contextRef="C308" unitRef="USD" decimals="0">4149</ferc:InsuranceGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="Tag468" contextRef="C194" unitRef="USD" decimals="0">4149</ferc:InsuranceGeneralExpense>
+  <ferc:InsuranceGeneralExpense id="Tag469" contextRef="C1" unitRef="USD" decimals="0">4149</ferc:InsuranceGeneralExpense>
+  <ferc:PipelineTaxesGeneralExpense id="Tag470" contextRef="C308" unitRef="USD" decimals="0">718250</ferc:PipelineTaxesGeneralExpense>
+  <ferc:PipelineTaxesGeneralExpense id="Tag471" contextRef="C194" unitRef="USD" decimals="0">718250</ferc:PipelineTaxesGeneralExpense>
+  <ferc:GeneralExpensesOil id="Tag472" contextRef="C308" unitRef="USD" decimals="0">2305130</ferc:GeneralExpensesOil>
+  <ferc:GeneralExpensesOil id="Tag473" contextRef="C194" unitRef="USD" decimals="0">2305130</ferc:GeneralExpensesOil>
+  <ferc:GeneralExpensesOil id="Tag474" contextRef="C1" unitRef="USD" decimals="0">2305130</ferc:GeneralExpensesOil>
+  <ferc:OperatingExpenses id="Tag475" contextRef="C308" unitRef="USD" decimals="0">3272517</ferc:OperatingExpenses>
+  <ferc:OperatingExpenses id="Tag476" contextRef="C194" unitRef="USD" decimals="0">3272517</ferc:OperatingExpenses>
+  <ferc:OfficerTitle id="Tag477" contextRef="C251">EVP &amp; COO</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag478" contextRef="C251">Chris Chandler</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag479" contextRef="C251">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag480" contextRef="C252">EVP &amp; CCO</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag481" contextRef="C252">Jeremy Goebel</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag482" contextRef="C252">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag483" contextRef="C253">EVP, General Counsel &amp; Secretary</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag484" contextRef="C253">Richard McGee</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag485" contextRef="C253">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag486" contextRef="C254">EVP &amp; CFO</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag487" contextRef="C254">Al Swanson</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag488" contextRef="C254">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag489" contextRef="C255">SVP, Finance &amp; CAO</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag490" contextRef="C255">Chris Herbold</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag491" contextRef="C255">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag492" contextRef="C256">SVP, Operations</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag493" contextRef="C256">Dwayne Koehn</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag494" contextRef="C256">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag495" contextRef="C257">SVP, Commercial Law &amp; Litigation</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag496" contextRef="C257">Megan Prout</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag497" contextRef="C257">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag498" contextRef="C258">SVP &amp; Treasurer</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag499" contextRef="C258">Sharon Spurlin</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag500" contextRef="C258">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag501" contextRef="C259">VP, Mergers, Acquisitions, and Strategic Planning</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag502" contextRef="C259">Will Abney</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag503" contextRef="C259">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag504" contextRef="C260">VP &amp; Controller</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag505" contextRef="C260">Russ Montgomery</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag506" contextRef="C260">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag507" contextRef="C261">VP, Crude Oil Business Development</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag508" contextRef="C261">Mark Odom</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag509" contextRef="C261">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag510" contextRef="C262">VP, Emerging Energy</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag511" contextRef="C262">Dan Noack</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag512" contextRef="C262">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag513" contextRef="C263">VP, U.S. Facilities and Rail</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag514" contextRef="C263">Robert Nobles</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag515" contextRef="C263">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag516" contextRef="C264">VP, Land and Office Services</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag517" contextRef="C264">George N. Polydoros Jr.</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag518" contextRef="C264">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OfficerTitle id="Tag519" contextRef="C265">VP, Tax</ferc:OfficerTitle>
+  <ferc:OfficerName id="Tag520" contextRef="C265">Walter Van Zanten</ferc:OfficerName>
+  <ferc:AddressOfPrincipalGeneralOfficers id="Tag521" contextRef="C265">333 Clay Street, #1600, Houston, TX, 77002</ferc:AddressOfPrincipalGeneralOfficers>
+  <ferc:OrderNumber id="Tag522" contextRef="C251" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag523" contextRef="C252" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag524" contextRef="C253" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag525" contextRef="C254" unitRef="Pure" decimals="0">4</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag526" contextRef="C255" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag527" contextRef="C256" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag528" contextRef="C257" unitRef="Pure" decimals="0">7</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag529" contextRef="C258" unitRef="Pure" decimals="0">8</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag530" contextRef="C259" unitRef="Pure" decimals="0">9</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag531" contextRef="C260" unitRef="Pure" decimals="0">10</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag532" contextRef="C261" unitRef="Pure" decimals="0">11</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag533" contextRef="C262" unitRef="Pure" decimals="0">12</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag534" contextRef="C263" unitRef="Pure" decimals="0">13</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag535" contextRef="C264" unitRef="Pure" decimals="0">14</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag536" contextRef="C265" unitRef="Pure" decimals="0">15</ferc:OrderNumber>
+  <ferc:InterestIncomeFromTemporaryCashInvestments id="Tag537" contextRef="C1" unitRef="USD" decimals="0">4044</ferc:InterestIncomeFromTemporaryCashInvestments>
+  <ferc:InterestIncome id="Tag538" contextRef="C1" unitRef="USD" decimals="0">4044</ferc:InterestIncome>
+  <ferc:OrderNumber id="Tag539" contextRef="C350" unitRef="Pure" decimals="0">5</ferc:OrderNumber>
+  <ferc:Remarks id="Tag540" contextRef="C209">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag541" contextRef="C214">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag542" contextRef="C217">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag543" contextRef="C219">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag544" contextRef="C221">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag545" contextRef="C222">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag546" contextRef="C224">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag547" contextRef="C226">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag548" contextRef="C227">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag549" contextRef="C228">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag550" contextRef="C229">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag551" contextRef="C230">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag552" contextRef="C240">N/A</ferc:Remarks>
+  <ferc:Remarks id="Tag553" contextRef="C243">N/A</ferc:Remarks>
+  <ferc:NameAndTitleOfDirector id="Tag554" contextRef="C268">This respondent does not have a Board of Directors. It is managed by its managing partner, Plains LPG Services GP LLC</ferc:NameAndTitleOfDirector>
+  <ferc:OrderNumber id="Tag555" contextRef="C268" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:SizeOfTrunkLinesForProductsOperated id="Tag556" contextRef="C330" unitRef="Inch" decimals="0">12</ferc:SizeOfTrunkLinesForProductsOperated>
+  <ferc:MilesOfTrunkLinesForProductsOperated id="Tag557" contextRef="C330" unitRef="Mile" decimals="0">17</ferc:MilesOfTrunkLinesForProductsOperated>
+  <ferc:PipelineEndPoint id="Tag558" contextRef="C330">Riga, MI</ferc:PipelineEndPoint>
+  <ferc:PipelineStartPoint id="Tag559" contextRef="C330">Cdn Border</ferc:PipelineStartPoint>
+  <ferc:NameAndStateOfCompany id="Tag560" contextRef="C330">Plains LPG Services, L.P.</ferc:NameAndStateOfCompany>
+  <ferc:SizeOfTrunkLinesForProductsOperated id="Tag561" contextRef="C331" unitRef="Inch" decimals="0">8</ferc:SizeOfTrunkLinesForProductsOperated>
+  <ferc:MilesOfTrunkLinesForProductsOperated id="Tag562" contextRef="C331" unitRef="Mile" decimals="0">9</ferc:MilesOfTrunkLinesForProductsOperated>
+  <ferc:PipelineEndPoint id="Tag563" contextRef="C331">St Clair, MI</ferc:PipelineEndPoint>
+  <ferc:PipelineStartPoint id="Tag564" contextRef="C331">Cdn Border</ferc:PipelineStartPoint>
+  <ferc:NameAndStateOfCompany id="Tag565" contextRef="C331">Plains LPG Services, L.P.</ferc:NameAndStateOfCompany>
+  <ferc:MilesOfTrunkLinesForProductsOperated id="Tag566" contextRef="C332" unitRef="Mile" decimals="0">26</ferc:MilesOfTrunkLinesForProductsOperated>
+  <ferc:MilesOfTrunkLinesForProductsOperated id="Tag567" contextRef="C1" unitRef="Mile" decimals="0">26</ferc:MilesOfTrunkLinesForProductsOperated>
+  <ferc:OrderNumber id="Tag568" contextRef="C339" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag569" contextRef="C340" unitRef="Pure" decimals="0">3</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag570" contextRef="C341" unitRef="Pure" decimals="0">6</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag571" contextRef="C342" unitRef="Pure" decimals="0">9</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag572" contextRef="C343" unitRef="Pure" decimals="0">12</ferc:OrderNumber>
+  <ferc:NameOfCompanyControlledByRespondent id="Tag573" contextRef="C266">Rancho LPG Holdings LLC</ferc:NameOfCompanyControlledByRespondent>
+  <ferc:StateOfIncorporation id="Tag574" contextRef="C266">DE</ferc:StateOfIncorporation>
+  <ferc:VotingStockOwnedByRespondentPercentage id="Tag575" contextRef="C267" unitRef="Pure" decimals="2">1.00</ferc:VotingStockOwnedByRespondentPercentage>
+  <ferc:NameOfCompanyControlledByRespondent id="Tag576" contextRef="C351">Plains LPG Services CA LLC</ferc:NameOfCompanyControlledByRespondent>
+  <ferc:StateOfIncorporation id="Tag577" contextRef="C351">TX</ferc:StateOfIncorporation>
+  <ferc:VotingStockOwnedByRespondentPercentage id="Tag578" contextRef="C352" unitRef="Pure" decimals="2">1.00</ferc:VotingStockOwnedByRespondentPercentage>
+  <ferc:OrderNumber id="Tag579" contextRef="C266" unitRef="Pure" decimals="0">1</ferc:OrderNumber>
+  <ferc:OrderNumber id="Tag580" contextRef="C351" unitRef="Pure" decimals="0">2</ferc:OrderNumber>
+  <ferc:OperatingAndMaintenanceExpenses id="Tag581" contextRef="C1" unitRef="USD" decimals="0">2257971</ferc:OperatingAndMaintenanceExpenses>
+  <ferc:OperatingAndMaintenanceExpenses id="Tag582" contextRef="C3" unitRef="USD" decimals="0">1454694</ferc:OperatingAndMaintenanceExpenses>
+  <ferc:DepreciationExpense id="Tag583" contextRef="C1" unitRef="USD" decimals="0">1525853</ferc:DepreciationExpense>
+  <ferc:DepreciationExpense id="Tag584" contextRef="C3" unitRef="USD" decimals="0">486920</ferc:DepreciationExpense>
+  <ferc:AfudcDepreciationExpense id="Tag585" contextRef="C1" unitRef="USD" decimals="0">38327</ferc:AfudcDepreciationExpense>
+  <ferc:AfudcDepreciationExpense id="Tag586" contextRef="C3" unitRef="USD" decimals="0">12023</ferc:AfudcDepreciationExpense>
+  <ferc:AmortizationOfDeferredEarnings id="Tag587" contextRef="C1" unitRef="USD" decimals="0">17958</ferc:AmortizationOfDeferredEarnings>
+  <ferc:AmortizationOfDeferredEarnings id="Tag588" contextRef="C3" unitRef="USD" decimals="0">11635</ferc:AmortizationOfDeferredEarnings>
+  <ferc:OriginalCostIncludedInRateBase id="Tag589" contextRef="C2" unitRef="USD" decimals="0">11851824</ferc:OriginalCostIncludedInRateBase>
+  <ferc:OriginalCostIncludedInRateBase id="Tag590" contextRef="C4" unitRef="USD" decimals="0">12287464</ferc:OriginalCostIncludedInRateBase>
+  <ferc:AccumulatedNetDeferredEarningsIncludedInRateBase id="Tag591" contextRef="C2" unitRef="USD" decimals="0">940879</ferc:AccumulatedNetDeferredEarningsIncludedInRateBase>
+  <ferc:AccumulatedNetDeferredEarningsIncludedInRateBase id="Tag592" contextRef="C4" unitRef="USD" decimals="0">790010</ferc:AccumulatedNetDeferredEarningsIncludedInRateBase>
+  <ferc:TrendedOriginalCostRateBase id="Tag593" contextRef="C2" unitRef="USD" decimals="0">12792703</ferc:TrendedOriginalCostRateBase>
+  <ferc:TrendedOriginalCostRateBase id="Tag594" contextRef="C4" unitRef="USD" decimals="0">13077474</ferc:TrendedOriginalCostRateBase>
+  <ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn id="Tag595" contextRef="C1" unitRef="Pure" decimals="3">0.329</ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn>
+  <ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn id="Tag596" contextRef="C3" unitRef="Pure" decimals="4">0.3263</ferc:AdjustedCapitalStructureRatioForLongTermDebtRateOfReturn>
+  <ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn id="Tag597" contextRef="C1" unitRef="Pure" decimals="3">0.671</ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn>
+  <ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn id="Tag598" contextRef="C3" unitRef="Pure" decimals="4">0.6737</ferc:AdjustedCapitalStructureRatioForStockholdersEquityRateOfReturn>
+  <ferc:CostOfLongTermDebtCapitalRateOfReturn id="Tag599" contextRef="C1" unitRef="Pure" decimals="4">0.0477</ferc:CostOfLongTermDebtCapitalRateOfReturn>
+  <ferc:CostOfLongTermDebtCapitalRateOfReturn id="Tag600" contextRef="C3" unitRef="Pure" decimals="4">0.0464</ferc:CostOfLongTermDebtCapitalRateOfReturn>
+  <ferc:RealCostOfStockholdersEquityRateOfReturn id="Tag601" contextRef="C1" unitRef="Pure" decimals="4">0.1142</ferc:RealCostOfStockholdersEquityRateOfReturn>
+  <ferc:RealCostOfStockholdersEquityRateOfReturn id="Tag602" contextRef="C3" unitRef="Pure" decimals="4">0.1083</ferc:RealCostOfStockholdersEquityRateOfReturn>
+  <ferc:WeightedAverageCostOfCapitalRateOfReturn id="Tag603" contextRef="C1" unitRef="Pure" decimals="4">0.0923</ferc:WeightedAverageCostOfCapitalRateOfReturn>
+  <ferc:WeightedAverageCostOfCapitalRateOfReturn id="Tag604" contextRef="C3" unitRef="Pure" decimals="4">0.0881</ferc:WeightedAverageCostOfCapitalRateOfReturn>
+  <ferc:DebtComponentReturnOnRateBase id="Tag605" contextRef="C2" unitRef="USD" decimals="0">200760</ferc:DebtComponentReturnOnRateBase>
+  <ferc:DebtComponentReturnOnRateBase id="Tag606" contextRef="C4" unitRef="USD" decimals="0">197997</ferc:DebtComponentReturnOnRateBase>
+  <ferc:EquityComponentReturnOnRateBase id="Tag607" contextRef="C2" unitRef="USD" decimals="0">980282</ferc:EquityComponentReturnOnRateBase>
+  <ferc:EquityComponentReturnOnRateBase id="Tag608" contextRef="C4" unitRef="USD" decimals="0">954155</ferc:EquityComponentReturnOnRateBase>
+  <ferc:ReturnOnRateBase id="Tag609" contextRef="C2" unitRef="USD" decimals="0">1181042</ferc:ReturnOnRateBase>
+  <ferc:ReturnOnRateBase id="Tag610" contextRef="C4" unitRef="USD" decimals="0">1152152</ferc:ReturnOnRateBase>
+  <ferc:CostOfService id="Tag611" contextRef="C1" unitRef="USD" decimals="0">5021151</ferc:CostOfService>
+  <ferc:CostOfService id="Tag612" contextRef="C3" unitRef="USD" decimals="0">3117424</ferc:CostOfService>
+  <ferc:InterstateOperatingRevenues id="Tag613" contextRef="C1" unitRef="USD" decimals="0">4687960</ferc:InterstateOperatingRevenues>
+  <ferc:InterstateOperatingRevenues id="Tag614" contextRef="C3" unitRef="USD" decimals="0">3729143</ferc:InterstateOperatingRevenues>
+  <ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate id="Tag615" contextRef="C1" unitRef="Barrel" decimals="0">6816416</ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate>
+  <ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate id="Tag616" contextRef="C3" unitRef="Barrel" decimals="0">5893234</ferc:NumberOfBarrelsReceivedAndDeliveredOutInterstate>
+  <ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate id="Tag617" contextRef="C1" unitRef="Pure" decimals="0">62557349</ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate>
+  <ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate id="Tag618" contextRef="C3" unitRef="Pure" decimals="0">49703707</ferc:NumberOfBarrelMilesReceivedAndDeliveredOutInterstate>
+  <ferc:AttestationName id="Tag619" contextRef="C1">Russ Montgomery</ferc:AttestationName>
+  <ferc:AttestationTitle id="Tag620" contextRef="C1">Vice President &amp; Controller</ferc:AttestationTitle>
+  <ferc:CorporateOfficerCertificationSignature id="Tag621" contextRef="C1">Russ Montgomery</ferc:CorporateOfficerCertificationSignature>
+  <ferc:AttestationDate id="Tag622" contextRef="C1">2025-04-15</ferc:AttestationDate>
+  <ferc:FormType id="Tag623" contextRef="C1">6</ferc:FormType>
+  <ferc:RespondentLegalName id="Tag624" contextRef="C1">Plains LPG Services, L.P.</ferc:RespondentLegalName>
+  <ferc:CompanyIdentifier id="Tag625" contextRef="C1">C000958</ferc:CompanyIdentifier>
+  <ferc:ReportYear id="Tag626" contextRef="C1" unitRef="Pure" decimals="0">2024</ferc:ReportYear>
+  <ferc:ReportPeriod id="Tag627" contextRef="C1">Q4</ferc:ReportPeriod>
+  <ferc:AddressOfPrincipalOfficeAtEndOfPeriod id="Tag628" contextRef="C1">333 Clay Street, Suite 1600 Houston, Texas 77002</ferc:AddressOfPrincipalOfficeAtEndOfPeriod>
+  <ferc:NameOfContactPerson id="Tag629" contextRef="C1">Christina Willmore</ferc:NameOfContactPerson>
+  <ferc:TitleOfContactPerson id="Tag630" contextRef="C1">Accounting Manager</ferc:TitleOfContactPerson>
+  <ferc:AddressOfContactPerson id="Tag631" contextRef="C1">333 Clay Street, Suite 1600 Houston, Texas 77002</ferc:AddressOfContactPerson>
+  <ferc:TelephoneOfContactPerson id="Tag632" contextRef="C1">713-993-5488</ferc:TelephoneOfContactPerson>
+  <ferc:SubmissionType id="Tag633" contextRef="C1">O</ferc:SubmissionType>
+  <ferc:ReportDate id="Tag634" contextRef="C1">2025-04-15</ferc:ReportDate>
+  <ferc:VendorName id="Tag635" contextRef="C1">IRIS Carbon</ferc:VendorName>
+  <link:footnoteLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
+    <link:loc xlink:type="locator" xlink:label="value5" xlink:href="#Tag41" />
+    <link:loc xlink:type="locator" xlink:label="value3" xlink:href="#Tag283" />
+    <link:loc xlink:type="locator" xlink:label="value4" xlink:href="#Tag313" />
+    <link:loc xlink:type="locator" xlink:label="value2" xlink:href="#Tag477" />
+    <link:footnote xlink:type="resource" xml:lang="en-US" xlink:label="footnote2" xlink:role="http://www.xbrl.org/2003/role/footnote" xmlns="http://www.w3.org/1999/xhtml">
+      <xhtml:div xmlns="http://www.w3.org/1999/xhtml">
+        <xhtml:p>
+          <xhtml:span style="background-color: #f5f5f5;">The Officers listed are not the Officers of the Respondent, but are the Officers or Plains LPG Services GP LLC.</xhtml:span>
+        </xhtml:p>
+      </xhtml:div>
+    </link:footnote>
+    <link:footnoteArc xlink:type="arc" xlink:from="value2" xlink:to="footnote2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" order="2" />
+    <link:footnote xlink:type="resource" xml:lang="en-US" xlink:label="footnote3" xlink:role="http://www.xbrl.org/2003/role/footnote" xmlns="http://www.w3.org/1999/xhtml">
+      <xhtml:div xmlns="http://www.w3.org/1999/xhtml">
+        <xhtml:p>
+          <xhtml:span style="background-color: #f5f5f5;">All cash expenditures and receipts are managed by the parent company and accounted for within Miscellaneous Other Assets.</xhtml:span>
+        </xhtml:p>
+      </xhtml:div>
+    </link:footnote>
+    <link:footnoteArc xlink:type="arc" xlink:from="value3" xlink:to="footnote3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" order="3" />
+    <link:footnote xlink:type="resource" xml:lang="en-US" xlink:label="footnote4" xlink:role="http://www.xbrl.org/2003/role/footnote" xmlns="http://www.w3.org/1999/xhtml">
+      <xhtml:div xmlns="http://www.w3.org/1999/xhtml">
+        <xhtml:p>
+          <xhtml:span style="background-color: #f5f5f5;">Miscellaneous Other Assets is comprised of amounts receivable from affiliated companies associated with cash management services.</xhtml:span>
+        </xhtml:p>
+      </xhtml:div>
+    </link:footnote>
+    <link:footnoteArc xlink:type="arc" xlink:from="value4" xlink:to="footnote4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" order="4" />
+    <link:footnote xlink:type="resource" xml:lang="en-US" xlink:label="footnote5" xlink:role="http://www.xbrl.org/2003/role/footnote" xmlns="http://www.w3.org/1999/xhtml">
+      <xhtml:div xmlns="http://www.w3.org/1999/xhtml">
+        <xhtml:p>Chain of Ownership:</xhtml:p>
+        <xhtml:p>PAA GP Holdings LLC - DE</xhtml:p>
+        <xhtml:p>Plains GP Holdings, L.P. - DE</xhtml:p>
+        <xhtml:p>Plains All American GP LLC - DE</xhtml:p>
+        <xhtml:p>Plains AAP, L.P. - DE</xhtml:p>
+        <xhtml:p>PAA GP LLC - DE</xhtml:p>
+        <xhtml:p>Plains All American Pipeline, L.P. - DE</xhtml:p>
+        <xhtml:p>PAA Midstream LLC - DE</xhtml:p>
+        <xhtml:p>Plains Marketing, L.P. - TX<xhtml:br /><xhtml:br />Plains LPG Services GP LLC - DE</xhtml:p>
+        <xhtml:p>
+        </xhtml:p>
+        <xhtml:p>
+        </xhtml:p>
+      </xhtml:div>
+    </link:footnote>
+    <link:footnoteArc xlink:type="arc" xlink:from="value5" xlink:to="footnote5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" order="5" />
+  </link:footnoteLink>
+</xbrli:xbrl>

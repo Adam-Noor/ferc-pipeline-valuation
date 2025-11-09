@@ -1,0 +1,4224 @@
+{
+  "Alpine Transportation CompanyQ4": [
+    {
+      "filename": "Alpine_Transportation_Company_form6_Q4_1744230130.xbrl",
+      "rss_metadata": {
+        "entry_id": "8eedcb91-a1d2-4d82-ba40-5e60c059aeff",
+        "title": "Alpine Transportation Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323178/1?filename=XBRL_8_247_20250409131252.xbrl",
+        "published_parsed": "2025-04-09 20:22:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "American Panther, LLCQ4": [
+    {
+      "filename": "American_Panther,_LLC_form6_Q4_1744671136.xbrl",
+      "rss_metadata": {
+        "entry_id": "48fb6f43-fd99-43f8-9129-76ad2e8590c5",
+        "title": "American Panther, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324187/1?filename=apl-20241231.xbrl",
+        "published_parsed": "2025-04-14 22:52:16+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Andeavor Gathering I LLCQ4": [
+    {
+      "filename": "Andeavor_Gathering_I_LLC_form6_Q4_1744911727.xbrl",
+      "rss_metadata": {
+        "entry_id": "a82a20aa-7d7e-49b9-9c06-2f104eeaa435",
+        "title": "Andeavor Gathering I LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325598/1?filename=agil-20241231.xbrl",
+        "published_parsed": "2025-04-17 17:42:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Andeavor Logistics Rio Pipeline LLCQ4": [
+    {
+      "filename": "Andeavor_Logistics_Rio_Pipeline_LLC_form6_Q4_1744908070.xbrl",
+      "rss_metadata": {
+        "entry_id": "b1bdae36-d6e5-472a-9e16-7c775cdc7948",
+        "title": "Andeavor Logistics Rio Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325560/1?filename=alrp-20241231.xbrl",
+        "published_parsed": "2025-04-17 16:41:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Arrowhead Gulf Coast Pipeline, LLCQ4": [
+    {
+      "filename": "Arrowhead_Gulf_Coast_Pipeline,_LLC_form6_Q4_1744938422.xbrl",
+      "rss_metadata": {
+        "entry_id": "504403a6-1d59-4bb6-93f3-83e50c838a9f",
+        "title": "Arrowhead Gulf Coast Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325981/1?filename=C005218.xbrl",
+        "published_parsed": "2025-04-18 01:07:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Arrowhead Ingleside Pipeline, LLCQ4": [
+    {
+      "filename": "Arrowhead_Ingleside_Pipeline,_LLC_form6_Q4_1744838292.xbrl",
+      "rss_metadata": {
+        "entry_id": "c2f50d16-c19e-4b08-b069-bb0578de6cee",
+        "title": "Arrowhead Ingleside Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325123/1?filename=C010599.xbrl",
+        "published_parsed": "2025-04-16 21:18:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Arrowhead Nueces Bay, LlcQ4": [
+    {
+      "filename": "Arrowhead_Nueces_Bay,_Llc_form6_Q4_1744839285.xbrl",
+      "rss_metadata": {
+        "entry_id": "df0b9714-fdbb-493c-90c6-ed3881a2b930",
+        "title": "Arrowhead Nueces Bay, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325131/1?filename=C010354.xbrl",
+        "published_parsed": "2025-04-16 21:34:45+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Arrowhead Offshore Pipeline, LLCQ4": [
+    {
+      "filename": "Arrowhead_Offshore_Pipeline,_LLC_form6_Q4_1744840988.xbrl",
+      "rss_metadata": {
+        "entry_id": "194efa71-b401-41c0-b551-53944f1b8174",
+        "title": "Arrowhead Offshore Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325136/1?filename=C003037.xbrl",
+        "published_parsed": "2025-04-16 22:03:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Arrowhead South Texas Pipeline, LLCQ4": [
+    {
+      "filename": "Arrowhead_South_Texas_Pipeline,_LLC_form6_Q4_1744843063.xbrl",
+      "rss_metadata": {
+        "entry_id": "484ab52e-1d8d-4d65-97fa-d2321999c83f",
+        "title": "Arrowhead South Texas Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325146/1?filename=C010597.xbrl",
+        "published_parsed": "2025-04-16 22:37:43+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "BP Midwest Product Pipelines Holdings LLCQ4": [
+    {
+      "filename": "BP_Midwest_Product_Pipelines_Holdings_LLC_form6_Q4_1744906017.xbrl",
+      "rss_metadata": {
+        "entry_id": "70bb8a12-34a8-4cde-a66a-c9318899059b",
+        "title": "BP Midwest Product Pipelines Holdings LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325488/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 16:06:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "BP Pipelines (North America) Inc.Q4": [
+    {
+      "filename": "BP_Pipelines_(North_America)_Inc._form6_Q4_1744915174.xbrl",
+      "rss_metadata": {
+        "entry_id": "9490524d-e628-4e0e-b0f9-a902e64ee541",
+        "title": "BP Pipelines (North America) Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325652/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 18:39:34+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bakken Pipeline Company LPQ4": [
+    {
+      "filename": "Bakken_Pipeline_Company_LP_form6_Q4_1744919807.xbrl",
+      "rss_metadata": {
+        "entry_id": "1c5fe9c6-4cea-45e6-87f2-91fa9cc6ad17",
+        "title": "Bakken Pipeline Company LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325727/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 19:56:47+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Baton Rouge Pipeline LLCQ4": [
+    {
+      "filename": "Baton_Rouge_Pipeline_LLC_form6_Q4_1744832661.xbrl",
+      "rss_metadata": {
+        "entry_id": "fa9bc540-5185-4887-a327-d236c1230481",
+        "title": "Baton Rouge Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325028/1?filename=XBRL_8_943_20250416122504.xbrl",
+        "published_parsed": "2025-04-16 19:44:21+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bayou Bridge Pipeline LLCQ4": [
+    {
+      "filename": "Bayou_Bridge_Pipeline_LLC_form6_Q4_1744644204.xbrl",
+      "rss_metadata": {
+        "entry_id": "a597e641-acbc-4323-acd0-9fa89a660599",
+        "title": "Bayou Bridge Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323925/1?filename=XBRL_8_1542_20250414081935.xbrl",
+        "published_parsed": "2025-04-14 15:23:24+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bengal Pipeline Company LLCQ4": [
+    {
+      "filename": "Bengal_Pipeline_Company_LLC_form6_Q4_1744994239.xbrl",
+      "rss_metadata": {
+        "entry_id": "f923020e-220f-47a2-81b8-d792bfc35bf6",
+        "title": "Bengal Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326175/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 16:37:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Beta Crude Connector, LlcQ4": [
+    {
+      "filename": "Beta_Crude_Connector,_Llc_form6_Q4_1744234029.xbrl",
+      "rss_metadata": {
+        "entry_id": "bc85d574-c273-40da-a0c6-35c0318b01aa",
+        "title": "Beta Crude Connector, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323213/1?filename=XBRL_8_250_20250409142042.xbrl",
+        "published_parsed": "2025-04-09 21:27:09+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bighorn DevCo LLCQ4": [
+    {
+      "filename": "Bighorn_DevCo_LLC_form6_Q4_1744639706.xbrl",
+      "rss_metadata": {
+        "entry_id": "8cdde562-bee7-48cc-af35-7129d7db57e8",
+        "title": "Bighorn DevCo LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323872/1?filename=XBRL_8_1547_20250414070515.xbrl",
+        "published_parsed": "2025-04-14 14:08:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Black Bear Liquids, LLCQ4": [
+    {
+      "filename": "Black_Bear_Liquids,_LLC_form6_Q4_1744815742.xbrl",
+      "rss_metadata": {
+        "entry_id": "4ce00523-2592-4b38-bc52-4954e16e15d6",
+        "title": "Black Bear Liquids, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324830/1?filename=form6.xml",
+        "published_parsed": "2025-04-16 15:02:22+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Black Lake Pipeline CompanyQ4": [
+    {
+      "filename": "Black_Lake_Pipeline_Company_form6_Q4_1745014904.xbrl",
+      "rss_metadata": {
+        "entry_id": "e0d17d7e-e19f-4726-b5ec-d8bab48d2ca5",
+        "title": "Black Lake Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326354/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:21:44+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Blue Racer NGL Pipelines, LLCQ4": [
+    {
+      "filename": "Blue_Racer_NGL_Pipelines,_LLC_form6_Q4_1744747332.xbrl",
+      "rss_metadata": {
+        "entry_id": "c4b467b3-1be9-4673-961a-f19c143c03c5",
+        "title": "Blue Racer NGL Pipelines, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324558/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-15 20:02:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bluestem Pipeline LlcQ4": [
+    {
+      "filename": "Bluestem_Pipeline_Llc_form6_Q4_1744748571.xbrl",
+      "rss_metadata": {
+        "entry_id": "64b79437-1d31-4745-bc88-ea713f2a6f35",
+        "title": "Bluestem Pipeline Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324567/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-15 20:22:51+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Boardwalk Bayou Ethane Pipeline, LLCQ4": [
+    {
+      "filename": "Boardwalk_Bayou_Ethane_Pipeline,_LLC_form6_Q4_1744826929.xbrl",
+      "rss_metadata": {
+        "entry_id": "07388901-4b11-4f37-9060-3872dd312dbe",
+        "title": "Boardwalk Bayou Ethane Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324954/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 18:08:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "BridgeTex Pipeline Company, LLCQ4": [
+    {
+      "filename": "BridgeTex_Pipeline_Company,_LLC_form6_Q4_1744810327.xbrl",
+      "rss_metadata": {
+        "entry_id": "92bc0738-6aa5-46eb-8ebe-cadfff87ea6e",
+        "title": "BridgeTex Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324755/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 13:32:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Bridger Pipeline LLCQ4": [
+    {
+      "filename": "Bridger_Pipeline_LLC_form6_Q4_1744836339.xbrl",
+      "rss_metadata": {
+        "entry_id": "765d8925-5a1c-4b60-aa18-b14d94f7ca4e",
+        "title": "Bridger Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325108/1?filename=Bridger_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-16 20:45:39+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Buckeye Linden Pipe Line Company LLCQ4": [
+    {
+      "filename": "Buckeye_Linden_Pipe_Line_Company_LLC_form6_Q4_1744920372.xbrl",
+      "rss_metadata": {
+        "entry_id": "2ca70da2-95ad-48db-b5ee-2b5e85f69f2b",
+        "title": "Buckeye Linden Pipe Line Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325739/1?filename=Linden_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-17 20:06:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Buckeye Pipe Line Company, L.P.Q4": [
+    {
+      "filename": "Buckeye_Pipe_Line_Company,_L.P._form6_Q4_1744985653.xbrl",
+      "rss_metadata": {
+        "entry_id": "0287d3c6-ce05-4b91-80b2-b6e93b94fb58",
+        "title": "Buckeye Pipe Line Company, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326111/1?filename=BPL_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-18 14:14:13+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Buckeye Pipe Line Transportation LLCQ4": [
+    {
+      "filename": "Buckeye_Pipe_Line_Transportation_LLC_form6_Q4_1744986566.xbrl",
+      "rss_metadata": {
+        "entry_id": "d55db7de-7f97-4f0e-8520-1562553083d6",
+        "title": "Buckeye Pipe Line Transportation LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326120/1?filename=BPL_Transportation_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-18 14:29:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "CCPS Transportation, LLCQ4": [
+    {
+      "filename": "CCPS_Transportation,_LLC_form6_Q4_1744929711.xbrl",
+      "rss_metadata": {
+        "entry_id": "ca7af7c7-ba0e-4730-a347-122a86754ecb",
+        "title": "CCPS Transportation, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325911/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 22:41:51+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "CITGO Products Pipeline CompanyQ4": [
+    {
+      "filename": "CITGO_Products_Pipeline_Company_form6_Q4_1745281017.xbrl",
+      "rss_metadata": {
+        "entry_id": "03fcebd4-8eb0-4711-80f0-16dca257062c",
+        "title": "CITGO Products Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/336437/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-22 00:16:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "CTC Pipeline, LLCQ4": [
+    {
+      "filename": "CTC_Pipeline,_LLC_form6_Q4_1744724066.xbrl",
+      "rss_metadata": {
+        "entry_id": "4ddfa9b2-b989-4dc6-9db2-720f389c59eb",
+        "title": "CTC Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324330/1?filename=CTC_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-15 13:34:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Cactus Ii Pipeline LlcQ4": [
+    {
+      "filename": "Cactus_Ii_Pipeline_Llc_form6_Q4_1744657570.xbrl",
+      "rss_metadata": {
+        "entry_id": "e3858164-2eaf-439b-85c2-767f76a6f6f9",
+        "title": "Cactus Ii Pipeline Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324067/1?filename=c%20ii%20p%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-14 19:06:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Caddo Pipeline LLCQ4": [
+    {
+      "filename": "Caddo_Pipeline_LLC_form6_Q4_1744680491.xbrl",
+      "rss_metadata": {
+        "entry_id": "32bfc9ea-6e0e-4f32-a475-4b18c5698166",
+        "title": "Caddo Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324207/1?filename=cp%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-15 01:28:11+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Caliber Bear Den Interconnect LLCQ4": [
+    {
+      "filename": "Caliber_Bear_Den_Interconnect_LLC_form6_Q4_1745510293.xbrl",
+      "rss_metadata": {
+        "entry_id": "7ad8d0f9-6d9d-4ff4-9e52-715d718e2ba4",
+        "title": "Caliber Bear Den Interconnect LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/336763/1?filename=F6.xbrl",
+        "published_parsed": "2025-04-24 15:58:13+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Caliber Spring Creek LLCQ4": [
+    {
+      "filename": "Caliber_Spring_Creek_LLC_form6_Q4_1748373675.xbrl",
+      "rss_metadata": {
+        "entry_id": "f3aa150a-d7d9-4aae-a91f-c7867d75b813",
+        "title": "Caliber Spring Creek LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/349166/1?filename=260106-C004673-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-27 19:21:15+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Calnev Pipe Line LLCQ4": [
+    {
+      "filename": "Calnev_Pipe_Line_LLC_form6_Q4_1744663572.xbrl",
+      "rss_metadata": {
+        "entry_id": "d7a0e30b-930d-4759-80af-b3c7a03531fe",
+        "title": "Calnev Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324137/1?filename=calnev-20241231.xbrl",
+        "published_parsed": "2025-04-14 20:46:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Canyon Crossing LLCQ4": [
+    {
+      "filename": "Canyon_Crossing_LLC_form6_Q4_1748819470.xbrl",
+      "rss_metadata": {
+        "entry_id": "a5631ab5-2494-4cc2-8fdf-f539df14f090",
+        "title": "Canyon Crossing LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/350469/1?filename=260723-C010826-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-06-01 23:11:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Capline Pipeline Company LLCQ4": [
+    {
+      "filename": "Capline_Pipeline_Company_LLC_form6_Q4_1744902027.xbrl",
+      "rss_metadata": {
+        "entry_id": "8c73b48e-36b9-4b07-8c18-342841793119",
+        "title": "Capline Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325389/1?filename=cpcl-20241231.xbrl",
+        "published_parsed": "2025-04-17 15:00:27+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Cenex Pipeline, LLCQ4": [
+    {
+      "filename": "Cenex_Pipeline,_LLC_form6_Q4_1744932534.xbrl",
+      "rss_metadata": {
+        "entry_id": "6717c999-34d7-4400-8be3-b8f428d9639a",
+        "title": "Cenex Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325952/1?filename=cpllc-20241231.xbrl",
+        "published_parsed": "2025-04-17 23:28:54+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Centurion Pipeline L.P.Q4": [
+    {
+      "filename": "Centurion_Pipeline_L.P._form6_Q4_1744837426.xbrl",
+      "rss_metadata": {
+        "entry_id": "7330713b-6e13-44f7-9664-fac69ea3e9ce",
+        "title": "Centurion Pipeline L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325119/1?filename=XBRL_8_1569_20250416074045.xbrl",
+        "published_parsed": "2025-04-16 21:03:46+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Chevron Pipe Line CompanyQ4": [
+    {
+      "filename": "Chevron_Pipe_Line_Company_form6_Q4_1743693752.xbrl",
+      "rss_metadata": {
+        "entry_id": "f6ae42ee-247a-4701-98cf-fe3d655f3b20",
+        "title": "Chevron Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322435/1?filename=XBRL_8_621_20250403075445.xbrl",
+        "published_parsed": "2025-04-03 15:22:32+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Cheyenne Pipeline LLCQ4": [
+    {
+      "filename": "Cheyenne_Pipeline_LLC_form6_Q4_1744656511.xbrl",
+      "rss_metadata": {
+        "entry_id": "bc5df3dc-3068-4c92-8714-aa2e9d90b9f4",
+        "title": "Cheyenne Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324049/1?filename=cp%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:48:31+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Chicap Pipe Line CompanyQ4": [
+    {
+      "filename": "Chicap_Pipe_Line_Company_form6_Q4_1744918337.xbrl",
+      "rss_metadata": {
+        "entry_id": "f4dc3439-99ac-4baf-9f62-c4c2237a1af3",
+        "title": "Chicap Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325702/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 19:32:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Chisholm Pipeline CompanyQ4": [
+    {
+      "filename": "Chisholm_Pipeline_Company_form6_Q4_1745012765.xbrl",
+      "rss_metadata": {
+        "entry_id": "8275221e-96fa-499c-84b0-3569272b38a9",
+        "title": "Chisholm Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326340/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 21:46:05+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Collins Pipeline CompanyQ4": [
+    {
+      "filename": "Collins_Pipeline_Company_form6_Q4_1743790220.xbrl",
+      "rss_metadata": {
+        "entry_id": "c1e515bd-5844-40d1-9c9e-ee6681c51d34",
+        "title": "Collins Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322609/1?filename=copco20250403_ferc6.xbrl",
+        "published_parsed": "2025-04-04 18:10:20+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Colonial Pipeline CompanyQ4": [
+    {
+      "filename": "Colonial_Pipeline_Company_form6_Q4_1744990381.xbrl",
+      "rss_metadata": {
+        "entry_id": "9a29a214-bde6-4441-81b0-c4ae0942cc12",
+        "title": "Colonial Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326145/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 15:33:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ConocoPhillips Transportation Alaska, Inc.Q4": [
+    {
+      "filename": "ConocoPhillips_Transportation_Alaska,_Inc._form6_Q4_1744640957.xbrl",
+      "rss_metadata": {
+        "entry_id": "8869651e-2b14-4bcc-8c55-1ffa053aa6f6",
+        "title": "ConocoPhillips Transportation Alaska, Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323893/1?filename=XBRL_8_249_20250410073127.xbrl",
+        "published_parsed": "2025-04-14 14:29:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Contango Resources, LLCQ4": [
+    {
+      "filename": "Contango_Resources,_LLC_form6_Q4_1743800449.xbrl",
+      "rss_metadata": {
+        "entry_id": "0a02a4a1-5da5-4c16-b728-0900e484cbe4",
+        "title": "Contango Resources, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322665/1?filename=Contango_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-04 21:00:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Cypress Interstate Pipeline LLCQ4": [
+    {
+      "filename": "Cypress_Interstate_Pipeline_LLC_form6_Q4_1744331887.xbrl",
+      "rss_metadata": {
+        "entry_id": "30476710-c813-425d-bef2-78f30202ff55",
+        "title": "Cypress Interstate Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323530/1?filename=cypress-20241231.xbrl",
+        "published_parsed": "2025-04-11 00:38:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "DCP Sand Hills Interstate Pipeline, LLCQ4": [
+    {
+      "filename": "DCP_Sand_Hills_Interstate_Pipeline,_LLC_form6_Q4_1745012169.xbrl",
+      "rss_metadata": {
+        "entry_id": "16b0d450-eacf-4337-bd57-b95995e8d7d6",
+        "title": "DCP Sand Hills Interstate Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326328/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 21:36:09+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "DCP Southern Hills Pipeline, LLCQ4": [
+    {
+      "filename": "DCP_Southern_Hills_Pipeline,_LLC_form6_Q4_1745017759.xbrl",
+      "rss_metadata": {
+        "entry_id": "ffc05c9b-d0a1-4ee0-8043-b180fffa2341",
+        "title": "DCP Southern Hills Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326371/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 23:09:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "DCP Wattenberg Pipeline LLCQ4": [
+    {
+      "filename": "DCP_Wattenberg_Pipeline_LLC_form6_Q4_1745020997.xbrl",
+      "rss_metadata": {
+        "entry_id": "a7215be8-651b-4c9c-be3a-f5beb80434c0",
+        "title": "DCP Wattenberg Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326374/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-19 00:03:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "DKL Delaware Operating-NM, LLCQ4": [
+    {
+      "filename": "DKL_Delaware_Operating-NM,_LLC_form6_Q4_1747429181.xbrl",
+      "rss_metadata": {
+        "entry_id": "2067bd35-c271-4f83-836b-35344bb3b6cf",
+        "title": "DKL Delaware Operating-NM, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337852/1?filename=249490-C008984-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 20:59:41+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Dakota Access, LLCQ4": [
+    {
+      "filename": "Dakota_Access,_LLC_form6_Q4_1744644652.xbrl",
+      "rss_metadata": {
+        "entry_id": "676b66cc-ad43-4ea0-b475-ac8c6845a406",
+        "title": "Dakota Access, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323932/1?filename=XBRL_8_1550_20250414081352.xbrl",
+        "published_parsed": "2025-04-14 15:30:52+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Dakota Energy Connection, LLCQ4": [
+    {
+      "filename": "Dakota_Energy_Connection,_LLC_form6_Q4_1744733438.xbrl",
+      "rss_metadata": {
+        "entry_id": "876e0e73-9d00-4d2a-89df-4e6dd0ac4ebd",
+        "title": "Dakota Energy Connection, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324452/1?filename=C004765-Form6-2024-12-31-117.xml",
+        "published_parsed": "2025-04-15 16:10:38+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Delaware Pipeline Company LLCQ4": [
+    {
+      "filename": "Delaware_Pipeline_Company_LLC_form6_Q4_1744816974.xbrl",
+      "rss_metadata": {
+        "entry_id": "d059703d-b65b-4b86-a089-a7e0e64348d6",
+        "title": "Delaware Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324850/1?filename=dpco20250415c_ferc6.xbrl",
+        "published_parsed": "2025-04-16 15:22:54+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Diamond Pipeline LLCQ4": [
+    {
+      "filename": "Diamond_Pipeline_LLC_form6_Q4_1744664009.xbrl",
+      "rss_metadata": {
+        "entry_id": "5485fb50-4aec-4ae9-87d8-c8daefc148da",
+        "title": "Diamond Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324151/1?filename=dp%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-14 20:53:29+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Dixie Pipeline Company LLCQ4": [
+    {
+      "filename": "Dixie_Pipeline_Company_LLC_form6_Q4_1744911803.xbrl",
+      "rss_metadata": {
+        "entry_id": "a7de4ea8-b177-43fb-9c26-d706e10cb873",
+        "title": "Dixie Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325600/1?filename=XBRL_8_931_20250417103639.xbrl",
+        "published_parsed": "2025-04-17 17:43:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Dj South Gathering, LlcQ4": [
+    {
+      "filename": "Dj_South_Gathering,_Llc_form6_Q4_1744645895.xbrl",
+      "rss_metadata": {
+        "entry_id": "901e74e7-a0a3-4e62-a957-ac8842e98c1a",
+        "title": "Dj South Gathering, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323937/1?filename=DJ_South_2024_Form_6_.xbrl",
+        "published_parsed": "2025-04-14 15:51:35+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "EPIC Y-Grade Pipeline, LPQ4": [
+    {
+      "filename": "EPIC_Y-Grade_Pipeline,_LP_form6_Q4_1744644854.xbrl",
+      "rss_metadata": {
+        "entry_id": "ecbd9a77-76fd-4d63-9b4f-a72971cff8d1",
+        "title": "EPIC Y-Grade Pipeline, LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323934/1?filename=EPIC_Y-Grade_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-14 15:34:14+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ET Sabina Pipeline LLCQ4": [
+    {
+      "filename": "ET_Sabina_Pipeline_LLC_form6_Q4_1744641274.xbrl",
+      "rss_metadata": {
+        "entry_id": "ae716e1d-9018-461e-be06-ca868271baec",
+        "title": "ET Sabina Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323899/1?filename=XBRL_8_1570_20250414072639.xbrl",
+        "published_parsed": "2025-04-14 14:34:34+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ET-S Permian Pipeline Company LLCQ4": [
+    {
+      "filename": "ET-S_Permian_Pipeline_Company_LLC_form6_Q4_1747418329.xbrl",
+      "rss_metadata": {
+        "entry_id": "af0811ba-e171-43a5-9492-6dba70293429",
+        "title": "ET-S Permian Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337818/1?filename=249474-C012265-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 17:58:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ETP Crude LLCQ4": [
+    {
+      "filename": "ETP_Crude_LLC_form6_Q4_1744994066.xbrl",
+      "rss_metadata": {
+        "entry_id": "5f8f072f-3ad0-47fe-b815-3afabd8c2ac0",
+        "title": "ETP Crude LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326172/1?filename=XBRL_8_1554_20250418093156.xbrl",
+        "published_parsed": "2025-04-18 16:34:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "El Dorado Pipeline Company, LLCQ4": [
+    {
+      "filename": "El_Dorado_Pipeline_Company,_LLC_form6_Q4_1747429230.xbrl",
+      "rss_metadata": {
+        "entry_id": "218e086c-1d45-4202-ab89-b77ac8b3a628",
+        "title": "El Dorado Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337854/1?filename=249491-C003253-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 21:00:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "EnLink Crude Pipeline, LLCQ4": [
+    {
+      "filename": "EnLink_Crude_Pipeline,_LLC_form6_Q4_1744821574.xbrl",
+      "rss_metadata": {
+        "entry_id": "77d33a38-1bd5-4f0d-9521-75319babf8e2",
+        "title": "EnLink Crude Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324909/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 16:39:34+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "EnLink NGL Pipeline, LPQ4": [
+    {
+      "filename": "EnLink_NGL_Pipeline,_LP_form6_Q4_1747339379.xbrl",
+      "rss_metadata": {
+        "entry_id": "bf7b3183-54a0-4ea6-8fc9-f05d5fdecff0",
+        "title": "EnLink NGL Pipeline, LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337736/1?filename=249437-C003520-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-15 20:02:59+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "EnLink_NGL_Pipeline,_LP_form6_Q4_1744819865.xbrl",
+      "rss_metadata": {
+        "entry_id": "c85c5c0b-ef20-4345-9d21-0e636117af30",
+        "title": "EnLink NGL Pipeline, LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324891/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 16:11:05+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enable Bakken Crude Services, LLCQ4": [
+    {
+      "filename": "Enable_Bakken_Crude_Services,_LLC_form6_Q4_1744650289.xbrl",
+      "rss_metadata": {
+        "entry_id": "b3a25b77-5775-4159-bdbe-848c1e77d72d",
+        "title": "Enable Bakken Crude Services, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323973/1?filename=XBRL_8_1563_20250414091419.xbrl",
+        "published_parsed": "2025-04-14 17:04:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Energy, Limited PartnershipQ4": [
+    {
+      "filename": "Enbridge_Energy,_Limited_Partnership_form6_Q4_1744925010.xbrl",
+      "rss_metadata": {
+        "entry_id": "f2d29974-1a7f-4432-8b4d-e115fa2e7bca",
+        "title": "Enbridge Energy, Limited Partnership",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325840/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:23:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Pipelines (FSP) L.L.C.Q4": [
+    {
+      "filename": "Enbridge_Pipelines_(FSP)_L.L.C._form6_Q4_1744923637.xbrl",
+      "rss_metadata": {
+        "entry_id": "26dde084-fa5a-4d48-a6cb-23ea7197a734",
+        "title": "Enbridge Pipelines (FSP) L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325767/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:00:37+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Pipelines (Southern Lights) LLCQ4": [
+    {
+      "filename": "Enbridge_Pipelines_(Southern_Lights)_LLC_form6_Q4_1744925702.xbrl",
+      "rss_metadata": {
+        "entry_id": "aa5726e5-1d54-4023-9850-71ef7cd9d1f6",
+        "title": "Enbridge Pipelines (Southern Lights) LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325864/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:35:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Pipelines (Toledo) Inc.Q4": [
+    {
+      "filename": "Enbridge_Pipelines_(Toledo)_Inc._form6_Q4_1744922113.xbrl",
+      "rss_metadata": {
+        "entry_id": "11e4fb12-4b90-403c-b5e1-b029d647f57d",
+        "title": "Enbridge Pipelines (Toledo) Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325759/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 20:35:13+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Storage (Patoka) L.L.C.Q4": [
+    {
+      "filename": "Enbridge_Storage_(Patoka)_L.L.C._form6_Q4_1744925636.xbrl",
+      "rss_metadata": {
+        "entry_id": "0bfce325-24a1-48bf-b1d6-3877651c66c4",
+        "title": "Enbridge Storage (Patoka) L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325863/1?filename=Enbridge_Storage_Patoka_Form_6_Q4_2024.xbrl",
+        "published_parsed": "2025-04-17 21:33:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enbridge Transportation (IL-OK) L.L.C.Q4": [
+    {
+      "filename": "Enbridge_Transportation_(IL-OK)_L.L.C._form6_Q4_1744927255.xbrl",
+      "rss_metadata": {
+        "entry_id": "7c8a9ae3-707d-474a-b2b4-2c5b9ab8b76b",
+        "title": "Enbridge Transportation (IL-OK) L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325885/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 22:00:55+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Endicott Pipeline CompanyQ4": [
+    {
+      "filename": "Endicott_Pipeline_Company_form6_Q4_1743191550.xbrl",
+      "rss_metadata": {
+        "entry_id": "6cd0349a-2377-4ece-99f4-21b91356669f",
+        "title": "Endicott Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321965/1?filename=C000425.xbrl",
+        "published_parsed": "2025-03-28 19:52:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enercoast Midstream LLCQ4": [
+    {
+      "filename": "Enercoast_Midstream_LLC_form6_Q4_1742416673.xbrl",
+      "rss_metadata": {
+        "entry_id": "1e639d8a-60e4-46de-991f-b2105c7341cc",
+        "title": "Enercoast Midstream LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321230/1?filename=Enercoast_Form_6_2024.xbrl",
+        "published_parsed": "2025-03-19 20:37:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Energy Transfer Crude Oil Company, LLCQ4": [
+    {
+      "filename": "Energy_Transfer_Crude_Oil_Company,_LLC_form6_Q4_1744649911.xbrl",
+      "rss_metadata": {
+        "entry_id": "344b3608-4aeb-4885-bbe7-c8f12dd3b610",
+        "title": "Energy Transfer Crude Oil Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323968/1?filename=XBRL_8_1557_20250414091155.xbrl",
+        "published_parsed": "2025-04-14 16:58:31+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Energy Transfer GC NGL Pipelines LPQ4": [
+    {
+      "filename": "Energy_Transfer_GC_NGL_Pipelines_LP_form6_Q4_1744663779.xbrl",
+      "rss_metadata": {
+        "entry_id": "dec526b6-e6de-47db-b63a-8a55385c6f7d",
+        "title": "Energy Transfer GC NGL Pipelines LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324143/1?filename=XBRL_8_1561_20250414131909.xbrl",
+        "published_parsed": "2025-04-14 20:49:39+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enlink Delaware Crude Pipeline, LlcQ4": [
+    {
+      "filename": "Enlink_Delaware_Crude_Pipeline,_Llc_form6_Q4_1744818548.xbrl",
+      "rss_metadata": {
+        "entry_id": "9bccaf66-81b7-44f6-a010-863cf5795998",
+        "title": "Enlink Delaware Crude Pipeline, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324868/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:49:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enterprise CLH LLCQ4": [
+    {
+      "filename": "Enterprise_CLH_LLC_form6_Q4_1744906447.xbrl",
+      "rss_metadata": {
+        "entry_id": "31a4b27f-961b-4be3-8ad1-6432cf520146",
+        "title": "Enterprise CLH LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325503/1?filename=XBRL_8_928_20250417090348.xbrl",
+        "published_parsed": "2025-04-17 16:14:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enterprise Interstate Crude LlcQ4": [
+    {
+      "filename": "Enterprise_Interstate_Crude_Llc_form6_Q4_1744905546.xbrl",
+      "rss_metadata": {
+        "entry_id": "6fe3a610-4a5f-414c-b430-177cf327ae93",
+        "title": "Enterprise Interstate Crude Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325472/1?filename=XBRL_8_930_20250417085101.xbrl",
+        "published_parsed": "2025-04-17 15:59:06+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enterprise Lou-Tex NGL Pipeline L.P.Q4": [
+    {
+      "filename": "Enterprise_Lou-Tex_NGL_Pipeline_L.P._form6_Q4_1744916036.xbrl",
+      "rss_metadata": {
+        "entry_id": "8f74c018-a8b2-47fb-82f3-da9d0dc77cdf",
+        "title": "Enterprise Lou-Tex NGL Pipeline L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325673/1?filename=XBRL_8_940_20250417114625.xbrl",
+        "published_parsed": "2025-04-17 18:53:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enterprise TE Products Pipeline Company LLCQ4": [
+    {
+      "filename": "Enterprise_TE_Products_Pipeline_Company_LLC_form6_Q4_1744914218.xbrl",
+      "rss_metadata": {
+        "entry_id": "59559c1f-f1e4-44c4-8aa3-aac135df1fdb",
+        "title": "Enterprise TE Products Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325645/1?filename=XBRL_8_945_20250417111033.xbrl",
+        "published_parsed": "2025-04-17 18:23:38+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Enterprise TW Products Pipeline Company LLCQ4": [
+    {
+      "filename": "Enterprise_TW_Products_Pipeline_Company_LLC_form6_Q4_1744917527.xbrl",
+      "rss_metadata": {
+        "entry_id": "99e383a1-aa6b-4a5f-b7f4-909298261def",
+        "title": "Enterprise TW Products Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325689/1?filename=XBRL_8_944_20250417115530.xbrl",
+        "published_parsed": "2025-04-17 19:18:47+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Epic Crude Pipeline, LpQ4": [
+    {
+      "filename": "Epic_Crude_Pipeline,_Lp_form6_Q4_1744998328.xbrl",
+      "rss_metadata": {
+        "entry_id": "6d4e3464-9320-4aa5-a2a2-7b835dbeb710",
+        "title": "Epic Crude Pipeline, Lp",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326216/1?filename=EPIC_Crude_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-18 17:45:28+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Epping Transmission Company, LLCQ4": [
+    {
+      "filename": "Epping_Transmission_Company,_LLC_form6_Q4_1744907392.xbrl",
+      "rss_metadata": {
+        "entry_id": "0ab1479e-e7db-4f91-8ec2-b3a15fb6b0d2",
+        "title": "Epping Transmission Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325540/1?filename=etc-20241231.xbrl",
+        "published_parsed": "2025-04-17 16:29:52+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Explorer Pipeline CompanyQ4": [
+    {
+      "filename": "Explorer_Pipeline_Company_form6_Q4_1743702724.xbrl",
+      "rss_metadata": {
+        "entry_id": "2da70ad5-f68f-4b0f-ae41-b41657a27cc3",
+        "title": "Explorer Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322464/1?filename=Form_6_2024_Q4.xbrl",
+        "published_parsed": "2025-04-03 17:52:04+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Express Pipeline LLCQ4": [
+    {
+      "filename": "Express_Pipeline_LLC_form6_Q4_1744924362.xbrl",
+      "rss_metadata": {
+        "entry_id": "23991791-ae2c-411c-b279-162c3796f9f9",
+        "title": "Express Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325806/1?filename=Express_Pipeline_LLC_Form_6_2024.xbrl",
+        "published_parsed": "2025-04-17 21:12:42+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ExxonMobil Pipeline Company LLCQ4": [
+    {
+      "filename": "ExxonMobil_Pipeline_Company_LLC_form6_Q4_1744738274.xbrl",
+      "rss_metadata": {
+        "entry_id": "e48005fb-0063-4297-95b7-fdc5c4ff83bc",
+        "title": "ExxonMobil Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324481/1?filename=XBRL_8_263_20250415072142.xbrl",
+        "published_parsed": "2025-04-15 17:31:14+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "FW GOM Pipeline, Inc.Q4": [
+    {
+      "filename": "FW_GOM_Pipeline,_Inc._form6_Q4_1744653592.xbrl",
+      "rss_metadata": {
+        "entry_id": "14fd2c96-5482-4180-bbd9-c509ec85af97",
+        "title": "FW GOM Pipeline, Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324008/1?filename=FW_GOM_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-14 17:59:52+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Front Range Pipeline LLCQ4": [
+    {
+      "filename": "Front_Range_Pipeline_LLC_form6_Q4_1744909135.xbrl",
+      "rss_metadata": {
+        "entry_id": "31448a76-0f95-4804-a2c3-a1c3a3b5ed70",
+        "title": "Front Range Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325573/1?filename=XBRL_8_941_20250417095040.xbrl",
+        "published_parsed": "2025-04-17 16:58:55+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Front Range Pipeline, LLC (MT)Q4": [
+    {
+      "filename": "Front_Range_Pipeline,_LLC_(MT)_form6_Q4_1744932488.xbrl",
+      "rss_metadata": {
+        "entry_id": "80e5216e-9a3d-40c6-b86e-6be461e6a96d",
+        "title": "Front Range Pipeline, LLC (MT)",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325951/1?filename=frp-20241231.xbrl",
+        "published_parsed": "2025-04-17 23:28:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Frontier Aspen LLCQ4": [
+    {
+      "filename": "Frontier_Aspen_LLC_form6_Q4_1744831819.xbrl",
+      "rss_metadata": {
+        "entry_id": "85377fac-cadd-4303-b9ff-798615ab7f6d",
+        "title": "Frontier Aspen LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325001/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 19:30:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "GEL Offshore Pipeline, LLCQ4": [
+    {
+      "filename": "GEL_Offshore_Pipeline,_LLC_form6_Q4_1744907435.xbrl",
+      "rss_metadata": {
+        "entry_id": "c30620d0-8d2e-40b7-92bf-c0274d86e337",
+        "title": "GEL Offshore Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325547/1?filename=gop-20241231.xbrl",
+        "published_parsed": "2025-04-17 16:30:35+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "GEL Texas Pipeline, LLCQ4": [
+    {
+      "filename": "GEL_Texas_Pipeline,_LLC_form6_Q4_1744924530.xbrl",
+      "rss_metadata": {
+        "entry_id": "88adf7ce-0457-4cf5-93aa-52ea1806c035",
+        "title": "GEL Texas Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325820/1?filename=gtp-20241231.xbrl",
+        "published_parsed": "2025-04-17 21:15:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "GNB NGL Pipeline LLCQ4": [
+    {
+      "filename": "GNB_NGL_Pipeline_LLC_form6_Q4_1743441712.xbrl",
+      "rss_metadata": {
+        "entry_id": "87410b06-365f-498d-9dbc-d19e72437dc9",
+        "title": "GNB NGL Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322067/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-03-31 17:21:52+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Genesis Pipeline USA, L.P.Q4": [
+    {
+      "filename": "Genesis_Pipeline_USA,_L.P._form6_Q4_1744924486.xbrl",
+      "rss_metadata": {
+        "entry_id": "c53d2913-a9ef-4b49-83aa-ee85e940084c",
+        "title": "Genesis Pipeline USA, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325818/1?filename=gplp-20241231.xbrl",
+        "published_parsed": "2025-04-17 21:14:46+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Glass Mountain Pipeline, LLCQ4": [
+    {
+      "filename": "Glass_Mountain_Pipeline,_LLC_form6_Q4_1748817061.xbrl",
+      "rss_metadata": {
+        "entry_id": "06342372-bb44-4d86-ac54-d1c246be8390",
+        "title": "Glass Mountain Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/350467/1?filename=260722-C008821-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-06-01 22:31:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Grand Mesa Pipeline, LLCQ4": [
+    {
+      "filename": "Grand_Mesa_Pipeline,_LLC_form6_Q4_1744906611.xbrl",
+      "rss_metadata": {
+        "entry_id": "10874efe-1887-4bf2-a22c-e1ea2c9277e4",
+        "title": "Grand Mesa Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325510/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 16:16:51+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Grand Prix Pipeline LLCQ4": [
+    {
+      "filename": "Grand_Prix_Pipeline_LLC_form6_Q4_1744908307.xbrl",
+      "rss_metadata": {
+        "entry_id": "b405e0a5-429b-4877-bd52-59397e5f6da8",
+        "title": "Grand Prix Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325565/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 16:45:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Gray Oak Pipeline, LlcQ4": [
+    {
+      "filename": "Gray_Oak_Pipeline,_Llc_form6_Q4_1744937282.xbrl",
+      "rss_metadata": {
+        "entry_id": "9073394e-b378-42e9-b116-e11e83e53b54",
+        "title": "Gray Oak Pipeline, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325975/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 00:48:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Gt Pipeline, LlcQ4": [
+    {
+      "filename": "Gt_Pipeline,_Llc_form6_Q4_1744924875.xbrl",
+      "rss_metadata": {
+        "entry_id": "e1331c0b-7e5f-478e-99a1-87d93522f3cc",
+        "title": "Gt Pipeline, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325835/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:21:15+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Hammond Mainline Pipeline LLCQ4": [
+    {
+      "filename": "Hammond_Mainline_Pipeline_LLC_form6_Q4_1747172060.xbrl",
+      "rss_metadata": {
+        "entry_id": "22360b38-0bd8-423f-bc22-fc3c5f400c6b",
+        "title": "Hammond Mainline Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337538/1?filename=249348-C008922-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 21:34:20+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Hammond_Mainline_Pipeline_LLC_form6_Q4_1744833585.xbrl",
+      "rss_metadata": {
+        "entry_id": "2d0baf8a-bfe2-4a10-ba84-867a614700a5",
+        "title": "Hammond Mainline Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325049/1?filename=hmpl-20241231.xbrl",
+        "published_parsed": "2025-04-16 19:59:45+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Hardin Street Holdings LLCQ4": [
+    {
+      "filename": "Hardin_Street_Holdings_LLC_form6_Q4_1744889294.xbrl",
+      "rss_metadata": {
+        "entry_id": "243cf490-8906-4608-9a90-beebc1789f5d",
+        "title": "Hardin Street Holdings LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325240/1?filename=hshl-20241231.xbrl",
+        "published_parsed": "2025-04-17 11:28:14+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Harvest Alaska, LLCQ4": [
+    {
+      "filename": "Harvest_Alaska,_LLC_form6_Q4_1743531408.xbrl",
+      "rss_metadata": {
+        "entry_id": "0b14dcea-9495-475e-a7b8-2668727d4a6d",
+        "title": "Harvest Alaska, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322221/1?filename=C000423.xbrl",
+        "published_parsed": "2025-04-01 18:16:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Heartland Pipeline CompanyQ4": [
+    {
+      "filename": "Heartland_Pipeline_Company_form6_Q4_1745010979.xbrl",
+      "rss_metadata": {
+        "entry_id": "6622fcd6-1807-4bb2-8b75-51307c504209",
+        "title": "Heartland Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326319/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 21:16:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Hiland Crude, LLCQ4": [
+    {
+      "filename": "Hiland_Crude,_LLC_form6_Q4_1744828719.xbrl",
+      "rss_metadata": {
+        "entry_id": "8f0b6d66-9c8f-4ae6-9b9c-866c35917ae6",
+        "title": "Hiland Crude, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324970/1?filename=hilandcrude-20241231.xbrl",
+        "published_parsed": "2025-04-16 18:38:39+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Hilcorp Pipeline Company, LLCQ4": [
+    {
+      "filename": "Hilcorp_Pipeline_Company,_LLC_form6_Q4_1744397312.xbrl",
+      "rss_metadata": {
+        "entry_id": "2e3d6553-c25c-497a-9282-234be793d700",
+        "title": "Hilcorp Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323739/1?filename=C003446.xbrl",
+        "published_parsed": "2025-04-11 18:48:32+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Holly Energy Partners - Operating, L.P.Q4": [
+    {
+      "filename": "Holly_Energy_Partners_-_Operating,_L.P._form6_Q4_1744927604.xbrl",
+      "rss_metadata": {
+        "entry_id": "438d7dce-1991-4033-b282-f4e89416e963",
+        "title": "Holly Energy Partners - Operating, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325887/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 22:06:44+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "IMTT-PIPELINEQ4": [
+    {
+      "filename": "IMTT-PIPELINE_form6_Q4_1744851873.xbrl",
+      "rss_metadata": {
+        "entry_id": "ac871610-00c2-4e15-bfd1-0d460e6d9c5d",
+        "title": "IMTT-PIPELINE",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325168/1?filename=IMTTQ42024.xbrl",
+        "published_parsed": "2025-04-17 01:04:33+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ITC Pipeline Company, LLCQ4": [
+    {
+      "filename": "ITC_Pipeline_Company,_LLC_form6_Q4_1744215669.xbrl",
+      "rss_metadata": {
+        "entry_id": "85391fa2-ff6a-497f-95cb-4093ef7e3deb",
+        "title": "ITC Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323093/1?filename=ITC_Form_6_2024.xbrl",
+        "published_parsed": "2025-04-09 16:21:09+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Illinois Extension Pipeline Company L.L.C.Q4": [
+    {
+      "filename": "Illinois_Extension_Pipeline_Company_L.L.C._form6_Q4_1744924773.xbrl",
+      "rss_metadata": {
+        "entry_id": "9ede392e-95db-44a3-baa4-d4459473baa5",
+        "title": "Illinois Extension Pipeline Company L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325830/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:19:33+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Inland CorporationQ4": [
+    {
+      "filename": "Inland_Corporation_form6_Q4_1744652348.xbrl",
+      "rss_metadata": {
+        "entry_id": "326d30c7-2c28-4d8f-8ac1-4bcc79b206a7",
+        "title": "Inland Corporation",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323998/1?filename=XBRL_8_1565_20250414103217.xbrl",
+        "published_parsed": "2025-04-14 17:39:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "JBBR Pipeline LLCQ4": [
+    {
+      "filename": "JBBR_Pipeline_LLC_form6_Q4_1744641870.xbrl",
+      "rss_metadata": {
+        "entry_id": "0a2f177c-3bd0-492c-97be-7f44225d937d",
+        "title": "JBBR Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323904/1?filename=JBBR_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-14 14:44:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Jayhawk Pipeline, L.L.C.Q4": [
+    {
+      "filename": "Jayhawk_Pipeline,_L.L.C._form6_Q4_1744933261.xbrl",
+      "rss_metadata": {
+        "entry_id": "5fb2cf98-be97-41f3-895e-98f67b684095",
+        "title": "Jayhawk Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325957/1?filename=jp-20241231.xbrl",
+        "published_parsed": "2025-04-17 23:41:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Jefferson Southern Star Pipeline LLCQ4": [
+    {
+      "filename": "Jefferson_Southern_Star_Pipeline_LLC_form6_Q4_1744724602.xbrl",
+      "rss_metadata": {
+        "entry_id": "9a405226-2f98-497d-aba5-e0958b260945",
+        "title": "Jefferson Southern Star Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324338/1?filename=Jefferson_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-15 13:43:22+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Keystone Pipeline Company, LLCQ4": [
+    {
+      "filename": "Keystone_Pipeline_Company,_LLC_form6_Q4_1744381360.xbrl",
+      "rss_metadata": {
+        "entry_id": "d7be47b4-7164-46bd-b502-150d6e6219bf",
+        "title": "Keystone Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323635/1?filename=XBRL_8_988_20250410142808.xbrl",
+        "published_parsed": "2025-04-11 14:22:40+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Kiantone Pipeline CorporationQ4": [
+    {
+      "filename": "Kiantone_Pipeline_Corporation_form6_Q4_1743451853.xbrl",
+      "rss_metadata": {
+        "entry_id": "b09e8af8-c0d3-4d11-bad5-4e9792b07c48",
+        "title": "Kiantone Pipeline Corporation",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322086/1?filename=Kiantone_Pipeline_Corporation_2024_-_Quarter.xbrl",
+        "published_parsed": "2025-03-31 20:10:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Kinder Morgan Utopia LLCQ4": [
+    {
+      "filename": "Kinder_Morgan_Utopia_LLC_form6_Q4_1744666129.xbrl",
+      "rss_metadata": {
+        "entry_id": "c729c501-9ab0-4cea-8765-bdee7056b0ee",
+        "title": "Kinder Morgan Utopia LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324161/1?filename=utopia-20241231.xbrl",
+        "published_parsed": "2025-04-14 21:28:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Kinder Morgan Wink Pipeline LLCQ4": [
+    {
+      "filename": "Kinder_Morgan_Wink_Pipeline_LLC_form6_Q4_1744666243.xbrl",
+      "rss_metadata": {
+        "entry_id": "3e6a9d8a-4eb1-406b-a5e2-45f85322d5a9",
+        "title": "Kinder Morgan Wink Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324163/1?filename=wink-20241231.xbrl",
+        "published_parsed": "2025-04-14 21:30:43+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Kpl Northern States, LlcQ4": [
+    {
+      "filename": "Kpl_Northern_States,_Llc_form6_Q4_1744656738.xbrl",
+      "rss_metadata": {
+        "entry_id": "fccb90a2-4d3c-4e8f-a68d-0be11f338ef7",
+        "title": "Kpl Northern States, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324056/1?filename=C010477.xbrl",
+        "published_parsed": "2025-04-14 18:52:18+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Kuparuk Transportation CompanyQ4": [
+    {
+      "filename": "Kuparuk_Transportation_Company_form6_Q4_1744233741.xbrl",
+      "rss_metadata": {
+        "entry_id": "fdc220cc-9685-487b-b503-6b198bb0709b",
+        "title": "Kuparuk Transportation Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323210/1?filename=XBRL_8_248_20250409141741.xbrl",
+        "published_parsed": "2025-04-09 21:22:21+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "LOCAP LLCQ4": [
+    {
+      "filename": "LOCAP_LLC_form6_Q4_1745246148.xbrl",
+      "rss_metadata": {
+        "entry_id": "8ff4a404-c01a-44e1-872a-5c82abd412a7",
+        "title": "LOCAP LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/336405/1?filename=LOCAP_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-21 14:35:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Lambda Energy Gathering LLCQ4": [
+    {
+      "filename": "Lambda_Energy_Gathering_LLC_form6_Q4_1742828010.xbrl",
+      "rss_metadata": {
+        "entry_id": "573854c8-48dd-4fc9-9ea2-d494264bd9d7",
+        "title": "Lambda Energy Gathering LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321475/1?filename=Lambda_Form_6_2024.xbrl",
+        "published_parsed": "2025-03-24 14:53:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Leveret Pipeline Company LLCQ4": [
+    {
+      "filename": "Leveret_Pipeline_Company_LLC_form6_Q4_1744913023.xbrl",
+      "rss_metadata": {
+        "entry_id": "c28766b3-de51-4514-86ba-4876976cc05d",
+        "title": "Leveret Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325620/1?filename=XBRL_8_934_20250417105516.xbrl",
+        "published_parsed": "2025-04-17 18:03:43+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "MOEM Pipeline LLCQ4": [
+    {
+      "filename": "MOEM_Pipeline_LLC_form6_Q4_1743790368.xbrl",
+      "rss_metadata": {
+        "entry_id": "7e039e96-930e-4bff-8205-776894db2084",
+        "title": "MOEM Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322613/1?filename=moemp20250403_ferc6.xbrl",
+        "published_parsed": "2025-04-04 18:12:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "MPLX Ozark Pipe Line LLCQ4": [
+    {
+      "filename": "MPLX_Ozark_Pipe_Line_LLC_form6_Q4_1744895629.xbrl",
+      "rss_metadata": {
+        "entry_id": "002526c5-a3f5-4bb9-bfa4-599bd6b62cc7",
+        "title": "MPLX Ozark Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325278/1?filename=mplx-20241231.xbrl",
+        "published_parsed": "2025-04-17 13:13:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Magellan Pipeline Company, L.P.Q4": [
+    {
+      "filename": "Magellan_Pipeline_Company,_L.P._form6_Q4_1744814006.xbrl",
+      "rss_metadata": {
+        "entry_id": "ef11d665-c2bf-478a-a510-f4347b48f943",
+        "title": "Magellan Pipeline Company, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324795/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 14:33:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Magnolia Pipeline Company, LLCQ4": [
+    {
+      "filename": "Magnolia_Pipeline_Company,_LLC_form6_Q4_1747429262.xbrl",
+      "rss_metadata": {
+        "entry_id": "c4c839f5-98ce-4dd5-bb8d-1791e52ebd2b",
+        "title": "Magnolia Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337855/1?filename=249492-C003254-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 21:01:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Marathon Pipe Line LLCQ4": [
+    {
+      "filename": "Marathon_Pipe_Line_LLC_form6_Q4_1744902108.xbrl",
+      "rss_metadata": {
+        "entry_id": "da9191ac-d116-49cc-ae05-f8d260dacf8b",
+        "title": "Marathon Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325393/1?filename=mpl-20241231.xbrl",
+        "published_parsed": "2025-04-17 15:01:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "MarkWest Liberty Ethane Pipeline, L.L.C.Q4": [
+    {
+      "filename": "MarkWest_Liberty_Ethane_Pipeline,_L.L.C._form6_Q4_1744243374.xbrl",
+      "rss_metadata": {
+        "entry_id": "dd24ed37-f3a0-4bcb-93da-aba3653172a0",
+        "title": "MarkWest Liberty Ethane Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323263/1?filename=mlep-20241231.xbrl",
+        "published_parsed": "2025-04-10 00:02:54+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "MarkWest Liberty NGL Pipeline, L.L.C.Q4": [
+    {
+      "filename": "MarkWest_Liberty_NGL_Pipeline,_L.L.C._form6_Q4_1744232007.xbrl",
+      "rss_metadata": {
+        "entry_id": "32b9ee4f-e200-48a4-a58a-d3c163ee9c47",
+        "title": "MarkWest Liberty NGL Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323196/1?filename=mlnp-20241231.xbrl",
+        "published_parsed": "2025-04-09 20:53:27+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Marketlink, LLCQ4": [
+    {
+      "filename": "Marketlink,_LLC_form6_Q4_1742916226.xbrl",
+      "rss_metadata": {
+        "entry_id": "5e508d2b-628d-497e-b64b-3c5eb1068550",
+        "title": "Marketlink, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321533/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-03-25 15:23:46+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mars Oil Pipeline Company LLCQ4": [
+    {
+      "filename": "Mars_Oil_Pipeline_Company_LLC_form6_Q4_1744128124.xbrl",
+      "rss_metadata": {
+        "entry_id": "0945db56-de64-4304-801a-5ab236d8fbec",
+        "title": "Mars Oil Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322873/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-08 16:02:04+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Maverick Terminals Corpus, LLCQ4": [
+    {
+      "filename": "Maverick_Terminals_Corpus,_LLC_form6_Q4_1744924564.xbrl",
+      "rss_metadata": {
+        "entry_id": "3f756675-2b20-48e8-836e-f771fea2080f",
+        "title": "Maverick Terminals Corpus, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325821/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:16:04+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Medallion Delaware Express, LlcQ4": [
+    {
+      "filename": "Medallion_Delaware_Express,_Llc_form6_Q4_1744826597.xbrl",
+      "rss_metadata": {
+        "entry_id": "49eba8a9-e8fa-474c-be40-a5c4694ba8b6",
+        "title": "Medallion Delaware Express, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324946/1?filename=mde-20241231.xbrl",
+        "published_parsed": "2025-04-16 18:03:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mid Valley Pipeline Company LLCQ4": [
+    {
+      "filename": "Mid_Valley_Pipeline_Company_LLC_form6_Q4_1744655938.xbrl",
+      "rss_metadata": {
+        "entry_id": "049895ba-fda6-480a-849b-17e97b2bd6d8",
+        "title": "Mid Valley Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324044/1?filename=XBRL_8_1541_20250414113233.xbrl",
+        "published_parsed": "2025-04-14 18:38:58+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mid-America Pipeline Company, LLCQ4": [
+    {
+      "filename": "Mid-America_Pipeline_Company,_LLC_form6_Q4_1744908214.xbrl",
+      "rss_metadata": {
+        "entry_id": "6dc3ff54-2282-4d88-a793-ef047e3a6fad",
+        "title": "Mid-America Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325564/1?filename=XBRL_8_929_20250417093225.xbrl",
+        "published_parsed": "2025-04-17 16:43:34+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Midway Pipeline LLCQ4": [
+    {
+      "filename": "Midway_Pipeline_LLC_form6_Q4_1744716798.xbrl",
+      "rss_metadata": {
+        "entry_id": "70f052ea-dc00-4eee-aaa8-90193141d942",
+        "title": "Midway Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324264/1?filename=mp%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-15 11:33:18+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Milne Point Pipeline, LLCQ4": [
+    {
+      "filename": "Milne_Point_Pipeline,_LLC_form6_Q4_1743199359.xbrl",
+      "rss_metadata": {
+        "entry_id": "99fd9023-89aa-41fd-9e3c-4bddf2db687f",
+        "title": "Milne Point Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321980/1?filename=C001418.xbrl",
+        "published_parsed": "2025-03-28 22:02:39+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Minnesota Pipe Line Company, LLCQ4": [
+    {
+      "filename": "Minnesota_Pipe_Line_Company,_LLC_form6_Q4_1744143629.xbrl",
+      "rss_metadata": {
+        "entry_id": "69453112-23f4-4b07-b5da-89d72b07255e",
+        "title": "Minnesota Pipe Line Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323010/1?filename=C000164.xbrl",
+        "published_parsed": "2025-04-08 20:20:29+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mobil Eugene Island Pipeline CompanyQ4": [
+    {
+      "filename": "Mobil_Eugene_Island_Pipeline_Company_form6_Q4_1744727586.xbrl",
+      "rss_metadata": {
+        "entry_id": "cd499938-593d-41ea-8213-8355db89ce33",
+        "title": "Mobil Eugene Island Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324388/1?filename=XBRL_8_265_20250415071848.xbrl",
+        "published_parsed": "2025-04-15 14:33:06+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mobil Pipe Line CompanyQ4": [
+    {
+      "filename": "Mobil_Pipe_Line_Company_form6_Q4_1744744421.xbrl",
+      "rss_metadata": {
+        "entry_id": "530cbacc-4306-4954-adc3-c03dcb7a618b",
+        "title": "Mobil Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324545/1?filename=XBRL_8_262_20250415070222.xbrl",
+        "published_parsed": "2025-04-15 19:13:41+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Monarch Oil Pipeline, LLCQ4": [
+    {
+      "filename": "Monarch_Oil_Pipeline,_LLC_form6_Q4_1744315475.xbrl",
+      "rss_metadata": {
+        "entry_id": "884acc03-127d-4bc4-b1c7-fbfcf7eb3c05",
+        "title": "Monarch Oil Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323435/1?filename=Monarch_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-10 20:04:35+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Monarch Pipeline LlcQ4": [
+    {
+      "filename": "Monarch_Pipeline_Llc_form6_Q4_1744815654.xbrl",
+      "rss_metadata": {
+        "entry_id": "dd0fcc7a-33f1-497a-919b-f283c2f5ee4f",
+        "title": "Monarch Pipeline Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324828/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:00:54+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Muskegon Pipeline LLCQ4": [
+    {
+      "filename": "Muskegon_Pipeline_LLC_form6_Q4_1744898783.xbrl",
+      "rss_metadata": {
+        "entry_id": "9a5dab2b-7f3e-40d6-8267-29e4ec139bf8",
+        "title": "Muskegon Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325332/1?filename=mpl-20241231.xbrl",
+        "published_parsed": "2025-04-17 14:06:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Mustang Pipe Line LLCQ4": [
+    {
+      "filename": "Mustang_Pipe_Line_LLC_form6_Q4_1744738538.xbrl",
+      "rss_metadata": {
+        "entry_id": "12d496b2-be98-4213-b39c-a392ac387b92",
+        "title": "Mustang Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324484/1?filename=XBRL_8_264_20250415101433.xbrl",
+        "published_parsed": "2025-04-15 17:35:38+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "NOVA Chemicals IncQ4": [
+    {
+      "filename": "NOVA_Chemicals_Inc_form6_Q4_1744640121.xbrl",
+      "rss_metadata": {
+        "entry_id": "ec4abf09-4511-494a-a6bf-99330670c1cd",
+        "title": "NOVA Chemicals Inc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323879/1?filename=filing.xbrl",
+        "published_parsed": "2025-04-14 14:15:21+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Navajo Nation Oil & Gas CompanyQ4": [
+    {
+      "filename": "Navajo_Nation_Oil_&_Gas_Company_form6_Q4_1747688790.xbrl",
+      "rss_metadata": {
+        "entry_id": "0f02a2ba-a074-406f-a0df-1decb745487c",
+        "title": "Navajo Nation Oil & Gas Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/347918/1?filename=259521-C000644-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-19 21:06:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Norco Pipe Line Company, LLCQ4": [
+    {
+      "filename": "Norco_Pipe_Line_Company,_LLC_form6_Q4_1744920967.xbrl",
+      "rss_metadata": {
+        "entry_id": "fffeb8a9-5daf-4ba4-a1ea-ae289ba11712",
+        "title": "Norco Pipe Line Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325748/1?filename=NORCO_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-17 20:16:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "North Dakota Pipeline Company LLCQ4": [
+    {
+      "filename": "North_Dakota_Pipeline_Company_LLC_form6_Q4_1744923984.xbrl",
+      "rss_metadata": {
+        "entry_id": "90d42b3a-29b7-40ae-9b06-5ef6ab836340",
+        "title": "North Dakota Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325783/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:06:24+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Northstar Pipeline Company, LLCQ4": [
+    {
+      "filename": "Northstar_Pipeline_Company,_LLC_form6_Q4_1743432705.xbrl",
+      "rss_metadata": {
+        "entry_id": "7dacbac6-1592-4f2c-a573-f1803f6df8b0",
+        "title": "Northstar Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322021/1?filename=C000426.xbrl",
+        "published_parsed": "2025-03-31 14:51:45+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "NuStar Logistics, L.P.Q4": [
+    {
+      "filename": "NuStar_Logistics,_L.P._form6_Q4_1744912413.xbrl",
+      "rss_metadata": {
+        "entry_id": "94d1896e-58d3-4389-a380-fa4deacc0da3",
+        "title": "NuStar Logistics, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325611/1?filename=XBRL_8_1566_20250417104635.xbrl",
+        "published_parsed": "2025-04-17 17:53:33+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "NuStar_Logistics,_L.P._form6_Q4_1747420680.xbrl",
+      "rss_metadata": {
+        "entry_id": "521a2aa3-8961-40c8-b513-665364460fb0",
+        "title": "NuStar Logistics, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337834/1?filename=249482-C000070-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 18:38:00+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "NuStar Pipeline Operating Partnership, L.P.Q4": [
+    {
+      "filename": "NuStar_Pipeline_Operating_Partnership,_L.P._form6_Q4_1744924428.xbrl",
+      "rss_metadata": {
+        "entry_id": "c883e9a4-70e7-42ed-8dc3-b2baa1eb8a14",
+        "title": "NuStar Pipeline Operating Partnership, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325808/1?filename=XBRL_8_1562_20250417122116.xbrl",
+        "published_parsed": "2025-04-17 21:13:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Nutaaq Pipeline LLCQ4": [
+    {
+      "filename": "Nutaaq_Pipeline_LLC_form6_Q4_1741623928.xbrl",
+      "rss_metadata": {
+        "entry_id": "7d09e32f-cac0-430d-8104-e44b069e152d",
+        "title": "Nutaaq Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/310930/1?filename=nutaaq-20241231.xbrl",
+        "published_parsed": "2025-03-10 16:25:28+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK Arbuckle North Pipeline, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_Arbuckle_North_Pipeline,_L.L.C._form6_Q4_1744815207.xbrl",
+      "rss_metadata": {
+        "entry_id": "b917578e-d32a-4685-b609-52b576319c33",
+        "title": "ONEOK Arbuckle North Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324815/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 14:53:27+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK Bakken Pipeline, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_Bakken_Pipeline,_L.L.C._form6_Q4_1744816334.xbrl",
+      "rss_metadata": {
+        "entry_id": "cb4ea7f3-db7c-41db-ba47-69f4d546c572",
+        "title": "ONEOK Bakken Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324838/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:12:14+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK NGL Pipeline, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_NGL_Pipeline,_L.L.C._form6_Q4_1744819017.xbrl",
+      "rss_metadata": {
+        "entry_id": "030d62ae-a359-4236-b274-e790c62bbeb6",
+        "title": "ONEOK NGL Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324883/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:56:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK North System, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_North_System,_L.L.C._form6_Q4_1744820751.xbrl",
+      "rss_metadata": {
+        "entry_id": "17a72e4a-aee8-4f0d-ba18-9ccd2418bf36",
+        "title": "ONEOK North System, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324899/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 16:25:51+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK Southeast Texas NGL Pipeline, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_Southeast_Texas_NGL_Pipeline,_L.L.C._form6_Q4_1744823045.xbrl",
+      "rss_metadata": {
+        "entry_id": "44a65eea-04b0-438f-895c-5b267b7b0a7a",
+        "title": "ONEOK Southeast Texas NGL Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324918/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 17:04:05+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "ONEOK West Texas NGL Pipeline, L.L.C.Q4": [
+    {
+      "filename": "ONEOK_West_Texas_NGL_Pipeline,_L.L.C._form6_Q4_1744824061.xbrl",
+      "rss_metadata": {
+        "entry_id": "a3df070b-430a-4ef7-9616-bb0994a23a21",
+        "title": "ONEOK West Texas NGL Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324929/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 17:21:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Ohio River Pipe Line LLCQ4": [
+    {
+      "filename": "Ohio_River_Pipe_Line_LLC_form6_Q4_1744894966.xbrl",
+      "rss_metadata": {
+        "entry_id": "d80ecf1f-502a-4b7c-82b2-63efabaa4793",
+        "title": "Ohio River Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325268/1?filename=orpl-20241231.xbrl",
+        "published_parsed": "2025-04-17 13:02:46+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Olympic Pipe Line Company LLCQ4": [
+    {
+      "filename": "Olympic_Pipe_Line_Company_LLC_form6_Q4_1744900469.xbrl",
+      "rss_metadata": {
+        "entry_id": "475d16b9-fe66-482d-8c9d-86472c1ddd7a",
+        "title": "Olympic Pipe Line Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325365/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 14:34:29+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Oneok Arbuckle Ii Pipeline, L.L.C.Q4": [
+    {
+      "filename": "Oneok_Arbuckle_Ii_Pipeline,_L.L.C._form6_Q4_1744812776.xbrl",
+      "rss_metadata": {
+        "entry_id": "e986649e-3adb-451a-bd49-8723bc0a3f2a",
+        "title": "Oneok Arbuckle Ii Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324779/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 14:12:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Oneok Elk Creek Pipeline, L.L.C.Q4": [
+    {
+      "filename": "Oneok_Elk_Creek_Pipeline,_L.L.C._form6_Q4_1744817611.xbrl",
+      "rss_metadata": {
+        "entry_id": "9a146103-1f1a-4c7e-9b88-4d8f7707f2a6",
+        "title": "Oneok Elk Creek Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324861/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:33:31+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Orbit Gulf Coast NGL Exports, LLCQ4": [
+    {
+      "filename": "Orbit_Gulf_Coast_NGL_Exports,_LLC_form6_Q4_1744749301.xbrl",
+      "rss_metadata": {
+        "entry_id": "6858a86d-59e9-47bb-b7aa-e8e9dd7ab9ef",
+        "title": "Orbit Gulf Coast NGL Exports, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324573/1?filename=XBRL_8_1568_20250415131238.xbrl",
+        "published_parsed": "2025-04-15 20:35:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Oryx Delaware Oil Transport LlcQ4": [
+    {
+      "filename": "Oryx_Delaware_Oil_Transport_Llc_form6_Q4_1744654681.xbrl",
+      "rss_metadata": {
+        "entry_id": "9eec13f8-caa4-4d94-993a-7554d069c5e4",
+        "title": "Oryx Delaware Oil Transport Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324027/1?filename=odot-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:18:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Osage Pipe Line Company, LLCQ4": [
+    {
+      "filename": "Osage_Pipe_Line_Company,_LLC_form6_Q4_1744831911.xbrl",
+      "rss_metadata": {
+        "entry_id": "03fb55cf-f059-4c12-982f-59bac83c45e6",
+        "title": "Osage Pipe Line Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325005/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 19:31:51+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Overland Pass Pipeline Company LLCQ4": [
+    {
+      "filename": "Overland_Pass_Pipeline_Company_LLC_form6_Q4_1744750331.xbrl",
+      "rss_metadata": {
+        "entry_id": "770dd12a-191b-410a-8a5e-f180996b7676",
+        "title": "Overland Pass Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324582/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-15 20:52:11+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "POPB NM Crude II LLCQ4": [
+    {
+      "filename": "POPB_NM_Crude_II_LLC_form6_Q4_1744655333.xbrl",
+      "rss_metadata": {
+        "entry_id": "f34d0340-dbc9-4292-93d9-b2708fbb7d55",
+        "title": "POPB NM Crude II LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324033/1?filename=popb%20nm%20ii-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:28:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "PTE Pipeline LLCQ4": [
+    {
+      "filename": "PTE_Pipeline_LLC_form6_Q4_1743199609.xbrl",
+      "rss_metadata": {
+        "entry_id": "b9f62d71-8439-419c-b370-1e834557db62",
+        "title": "PTE Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321984/1?filename=C004992.xbrl",
+        "published_parsed": "2025-03-28 22:06:49+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Paline Pipeline Company, LLCQ4": [
+    {
+      "filename": "Paline_Pipeline_Company,_LLC_form6_Q4_1747429313.xbrl",
+      "rss_metadata": {
+        "entry_id": "5db2ebab-31b1-4554-8f67-736831e1e8e0",
+        "title": "Paline Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337857/1?filename=249493-C003255-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 21:01:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Panola Pipeline Company, LLCQ4": [
+    {
+      "filename": "Panola_Pipeline_Company,_LLC_form6_Q4_1744898610.xbrl",
+      "rss_metadata": {
+        "entry_id": "05d84e9d-d378-46e8-997c-891158b3a9af",
+        "title": "Panola Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325327/1?filename=XBRL_8_942_20250417065544.xbrl",
+        "published_parsed": "2025-04-17 14:03:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Par Rocky Mountain Midstream, LLCQ4": [
+    {
+      "filename": "Par_Rocky_Mountain_Midstream,_LLC_form6_Q4_1743775110.xbrl",
+      "rss_metadata": {
+        "entry_id": "3f441143-3e63-4f79-af97-237decfed2d3",
+        "title": "Par Rocky Mountain Midstream, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322553/1?filename=PRMM_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-04 13:58:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Parkway Pipeline LLCQ4": [
+    {
+      "filename": "Parkway_Pipeline_LLC_form6_Q4_1744834784.xbrl",
+      "rss_metadata": {
+        "entry_id": "3c4c804b-2da0-4a51-9547-43489ec35bd2",
+        "title": "Parkway Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325066/1?filename=ppl-20241231.xbrl",
+        "published_parsed": "2025-04-16 20:19:44+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Parkway_Pipeline_LLC_form6_Q4_1747174197.xbrl",
+      "rss_metadata": {
+        "entry_id": "8161492c-9ddd-4cc3-a438-89a40ae8f5b9",
+        "title": "Parkway Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337560/1?filename=249359-C003557-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 22:09:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Pelican Gathering Systems, LLCQ4": [
+    {
+      "filename": "Pelican_Gathering_Systems,_LLC_form6_Q4_1743693288.xbrl",
+      "rss_metadata": {
+        "entry_id": "4f8a1863-b2b4-4f01-8186-999ac117036f",
+        "title": "Pelican Gathering Systems, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322429/1?filename=Pelican_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-03 15:14:48+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Pembina Cochin LLCQ4": [
+    {
+      "filename": "Pembina_Cochin_LLC_form6_Q4_1743621395.xbrl",
+      "rss_metadata": {
+        "entry_id": "92799590-ce48-4bb1-9939-1a7833eaa159",
+        "title": "Pembina Cochin LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322355/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-02 19:16:35+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Permian Express Partners LLCQ4": [
+    {
+      "filename": "Permian_Express_Partners_LLC_form6_Q4_1744655288.xbrl",
+      "rss_metadata": {
+        "entry_id": "3dc1e7d2-ac5a-4c58-93d6-4474c6bbe5d1",
+        "title": "Permian Express Partners LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324032/1?filename=XBRL_8_1556_20250414104248.xbrl",
+        "published_parsed": "2025-04-14 18:28:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Permian_Express_Partners_LLC_form6_Q4_1747236084.xbrl",
+      "rss_metadata": {
+        "entry_id": "e7934236-d692-463e-a175-0d95b7794316",
+        "title": "Permian Express Partners LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337621/1?filename=249384-C006556-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-14 15:21:24+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Phillips 66 Carrier LLCQ4": [
+    {
+      "filename": "Phillips_66_Carrier_LLC_form6_Q4_1745014218.xbrl",
+      "rss_metadata": {
+        "entry_id": "de58024b-7cf5-41cb-819b-f450c21bc2b4",
+        "title": "Phillips 66 Carrier LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326350/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:10:18+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Phillips 66 Pipeline LLCQ4": [
+    {
+      "filename": "Phillips_66_Pipeline_LLC_form6_Q4_1745012446.xbrl",
+      "rss_metadata": {
+        "entry_id": "281b7aef-6e4a-4446-8c17-f47a25febf02",
+        "title": "Phillips 66 Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326333/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 21:40:46+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Phillips 66 Sweeny-Freeport LLCQ4": [
+    {
+      "filename": "Phillips_66_Sweeny-Freeport_LLC_form6_Q4_1745014984.xbrl",
+      "rss_metadata": {
+        "entry_id": "e04261a9-5b5c-4ab5-9b98-2b9b2b961fea",
+        "title": "Phillips 66 Sweeny-Freeport LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326356/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:23:04+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Pioneer Pipe Line CompanyQ4": [
+    {
+      "filename": "Pioneer_Pipe_Line_Company_form6_Q4_1745014454.xbrl",
+      "rss_metadata": {
+        "entry_id": "4858abf3-4f24-44c8-823b-779b97fa7850",
+        "title": "Pioneer Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326352/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:14:14+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Plains LPG Services, L.P.Q4": [
+    {
+      "filename": "Plains_LPG_Services,_L.P._form6_Q4_1744743192.xbrl",
+      "rss_metadata": {
+        "entry_id": "03331085-cb9f-4b6e-a044-dc9e86d00284",
+        "title": "Plains LPG Services, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324533/1?filename=pls%20lp-20241231.xbrl",
+        "published_parsed": "2025-04-15 18:53:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Plains Oryx Permian Basin Pipeline LLCQ4": [
+    {
+      "filename": "Plains_Oryx_Permian_Basin_Pipeline_LLC_form6_Q4_1744655620.xbrl",
+      "rss_metadata": {
+        "entry_id": "833e3cb3-5480-4436-8ece-a38fa9eb6f07",
+        "title": "Plains Oryx Permian Basin Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324037/1?filename=popbp-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:33:40+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Plains Pipeline MidCon LLCQ4": [
+    {
+      "filename": "Plains_Pipeline_MidCon_LLC_form6_Q4_1744726919.xbrl",
+      "rss_metadata": {
+        "entry_id": "dc2ce71c-853c-4f4e-919b-bc54ce5775ab",
+        "title": "Plains Pipeline MidCon LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324378/1?filename=ppm%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-15 14:21:59+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Plains Pipeline Montana LLCQ4": [
+    {
+      "filename": "Plains_Pipeline_Montana_LLC_form6_Q4_1744681121.xbrl",
+      "rss_metadata": {
+        "entry_id": "b42978c7-390a-405f-8cfd-19b160d95b0a",
+        "title": "Plains Pipeline Montana LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324213/1?filename=ppm%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-15 01:38:41+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Plains Pipeline, L.P.Q4": [
+    {
+      "filename": "Plains_Pipeline,_L.P._form6_Q4_1744655267.xbrl",
+      "rss_metadata": {
+        "entry_id": "8bd07ea9-216c-4461-8b48-0616c184f3c7",
+        "title": "Plains Pipeline, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324031/1?filename=pp%20lp-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:27:47+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Platte Pipe Line Company, LLCQ4": [
+    {
+      "filename": "Platte_Pipe_Line_Company,_LLC_form6_Q4_1744938670.xbrl",
+      "rss_metadata": {
+        "entry_id": "3f0e48a5-94ca-4ddb-a8c5-aaac63f584f2",
+        "title": "Platte Pipe Line Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325984/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 01:11:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Portland Pipe Line CorporationQ4": [
+    {
+      "filename": "Portland_Pipe_Line_Corporation_form6_Q4_1742502841.xbrl",
+      "rss_metadata": {
+        "entry_id": "24c0c9ff-a2f9-4c62-bc51-ad6eb2fb25a3",
+        "title": "Portland Pipe Line Corporation",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321325/1?filename=C001052.xbrl",
+        "published_parsed": "2025-03-20 20:34:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Powder River Crude Services, LLCQ4": [
+    {
+      "filename": "Powder_River_Crude_Services,_LLC_form6_Q4_1744923840.xbrl",
+      "rss_metadata": {
+        "entry_id": "1ce18b7c-cdc5-4948-ac1a-3a6a619a2e3f",
+        "title": "Powder River Crude Services, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325772/1?filename=PRCS_Form_6_2024.xbrl",
+        "published_parsed": "2025-04-17 21:04:00+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Prg Pipelines, LlcQ4": [
+    {
+      "filename": "Prg_Pipelines,_Llc_form6_Q4_1744401299.xbrl",
+      "rss_metadata": {
+        "entry_id": "dfc25555-7056-4ca7-be55-b99c8ac1e7cf",
+        "title": "Prg Pipelines, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323792/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-11 19:54:59+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Products (SE) Pipe Line CorporationQ4": [
+    {
+      "filename": "Products_(SE)_Pipe_Line_Corporation_form6_Q4_1744752255.xbrl",
+      "rss_metadata": {
+        "entry_id": "c5fae337-2b3b-4c5f-9b64-fe365d9161dd",
+        "title": "Products (SE) Pipe Line Corporation",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324609/1?filename=products-20241231.xbrl",
+        "published_parsed": "2025-04-15 21:24:15+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Rattler Midstream Operating LLCQ4": [
+    {
+      "filename": "Rattler_Midstream_Operating_LLC_form6_Q4_1745255364.xbrl",
+      "rss_metadata": {
+        "entry_id": "ce8c4e1d-802e-4564-ac33-d549b1edc339",
+        "title": "Rattler Midstream Operating LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/336422/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-21 17:09:24+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Razorback L.L.C.Q4": [
+    {
+      "filename": "Razorback_L.L.C._form6_Q4_1744816568.xbrl",
+      "rss_metadata": {
+        "entry_id": "78a66f65-ac0a-4bb5-b38f-4e653e05d24f",
+        "title": "Razorback L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324842/1?filename=filing.xbrl",
+        "published_parsed": "2025-04-16 15:16:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Red Butte Pipe Line LLCQ4": [
+    {
+      "filename": "Red_Butte_Pipe_Line_LLC_form6_Q4_1744924243.xbrl",
+      "rss_metadata": {
+        "entry_id": "f471e111-29cf-443e-a9f1-52e626085bae",
+        "title": "Red Butte Pipe Line LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325802/1?filename=Red_Butte_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-17 21:10:43+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Red River Pipeline Company LlcQ4": [
+    {
+      "filename": "Red_River_Pipeline_Company_Llc_form6_Q4_1744656793.xbrl",
+      "rss_metadata": {
+        "entry_id": "60ffe6fa-1269-4f66-9962-3135f5066ab6",
+        "title": "Red River Pipeline Company Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324060/1?filename=rrpc%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-14 18:53:13+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Rio Grande Pipeline Company LLCQ4": [
+    {
+      "filename": "Rio_Grande_Pipeline_Company_LLC_form6_Q4_1744893010.xbrl",
+      "rss_metadata": {
+        "entry_id": "93567a79-ca1c-4387-a84d-b76df9d96fc8",
+        "title": "Rio Grande Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325256/1?filename=XBRL_8_939_20250417051818.xbrl",
+        "published_parsed": "2025-04-17 12:30:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Rocky Mountain Pipeline Montana LLCQ4": [
+    {
+      "filename": "Rocky_Mountain_Pipeline_Montana_LLC_form6_Q4_1744724936.xbrl",
+      "rss_metadata": {
+        "entry_id": "f83d0eeb-1c73-45c6-9a72-3b2ad6ecea1a",
+        "title": "Rocky Mountain Pipeline Montana LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324348/1?filename=rmpm-20241231.xbrl",
+        "published_parsed": "2025-04-15 13:48:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SALA Gathering Systems, LLCQ4": [
+    {
+      "filename": "SALA_Gathering_Systems,_LLC_form6_Q4_1747429356.xbrl",
+      "rss_metadata": {
+        "entry_id": "f1e93b65-b766-47fc-804f-2db1245d3e71",
+        "title": "SALA Gathering Systems, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337859/1?filename=249494-C003252-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-16 21:02:36+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SCT Pipeline LLCQ4": [
+    {
+      "filename": "SCT_Pipeline_LLC_form6_Q4_1739308712.xbrl",
+      "rss_metadata": {
+        "entry_id": "ac51c4aa-a246-49b5-ad55-c03fbff2351f",
+        "title": "SCT Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/300599/1?filename=SCT_2024_Form_6_Final.xbrl",
+        "published_parsed": "2025-02-11 21:18:32+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SFPP, L.P.Q4": [
+    {
+      "filename": "SFPP,_L.P._form6_Q4_1744660043.xbrl",
+      "rss_metadata": {
+        "entry_id": "3a00bb8d-93da-4be3-803a-d0c1dd503328",
+        "title": "SFPP, L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324086/1?filename=sfpp-20241231.xbrl",
+        "published_parsed": "2025-04-14 19:47:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SLC Pipeline LLCQ4": [
+    {
+      "filename": "SLC_Pipeline_LLC_form6_Q4_1744831997.xbrl",
+      "rss_metadata": {
+        "entry_id": "0668d923-559f-48af-a5b9-c1d0cfc41cf5",
+        "title": "SLC Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325007/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 19:33:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SP 49 Pipeline LLCQ4": [
+    {
+      "filename": "SP_49_Pipeline_LLC_form6_Q4_1744388967.xbrl",
+      "rss_metadata": {
+        "entry_id": "822fa842-e110-4657-a248-57c8e89e9310",
+        "title": "SP 49 Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323689/1?filename=SP49_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-11 16:29:27+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Sacagawea Pipeline Company, LLCQ4": [
+    {
+      "filename": "Sacagawea_Pipeline_Company,_LLC_form6_Q4_1744844217.xbrl",
+      "rss_metadata": {
+        "entry_id": "19fbd912-4296-4a75-abbd-18004cfb3953",
+        "title": "Sacagawea Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325150/1?filename=C005287.xbrl",
+        "published_parsed": "2025-04-16 22:56:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Saddlehorn Pipeline Company, LLCQ4": [
+    {
+      "filename": "Saddlehorn_Pipeline_Company,_LLC_form6_Q4_1744811685.xbrl",
+      "rss_metadata": {
+        "entry_id": "0cae3ad5-fb85-4000-a4d3-958be35844db",
+        "title": "Saddlehorn Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324772/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 13:54:45+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "San Mateo Black River Oil Pipeline, LLCQ4": [
+    {
+      "filename": "San_Mateo_Black_River_Oil_Pipeline,_LLC_form6_Q4_1744905245.xbrl",
+      "rss_metadata": {
+        "entry_id": "6315372f-75a0-46dd-af5f-adefa94dc49d",
+        "title": "San Mateo Black River Oil Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325464/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 15:54:05+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "San Pedro Bay Pipeline CompanyQ4": [
+    {
+      "filename": "San_Pedro_Bay_Pipeline_Company_form6_Q4_1744814776.xbrl",
+      "rss_metadata": {
+        "entry_id": "ad4b2baa-c16e-4de3-a281-18a0be3eb4f8",
+        "title": "San Pedro Bay Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324804/1?filename=C001834.xbrl",
+        "published_parsed": "2025-04-16 14:46:16+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Sanders Pipeline CompanyQ4": [
+    {
+      "filename": "Sanders_Pipeline_Company_form6_Q4_1742310233.xbrl",
+      "rss_metadata": {
+        "entry_id": "90502abb-fe9f-4144-85b1-e9cfd1e2eaff",
+        "title": "Sanders Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321086/1?filename=Sanders_2024_Form_6.xbrl",
+        "published_parsed": "2025-03-18 15:03:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Savage Bakken Connector, Inc.Q4": [
+    {
+      "filename": "Savage_Bakken_Connector,_Inc._form6_Q4_1742569695.xbrl",
+      "rss_metadata": {
+        "entry_id": "9327f9b0-2dd6-432c-b222-4deecdf311ea",
+        "title": "Savage Bakken Connector, Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321399/1?filename=C007656-Form6-2024-12-31-69.xml",
+        "published_parsed": "2025-03-21 15:08:15+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Scm Crude, LlcQ4": [
+    {
+      "filename": "Scm_Crude,_Llc_form6_Q4_1744724883.xbrl",
+      "rss_metadata": {
+        "entry_id": "b2fea9c8-6ea2-47d1-ba67-4c42bc495936",
+        "title": "Scm Crude, Llc",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324346/1?filename=SCM_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-15 13:48:03+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Seahorse Pipeline, LLCQ4": [
+    {
+      "filename": "Seahorse_Pipeline,_LLC_form6_Q4_1744400790.xbrl",
+      "rss_metadata": {
+        "entry_id": "df2bc62a-43e1-4249-a373-a88455affb0f",
+        "title": "Seahorse Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323785/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-11 19:46:30+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Seaway Crude Pipeline Company LLCQ4": [
+    {
+      "filename": "Seaway_Crude_Pipeline_Company_LLC_form6_Q4_1744909819.xbrl",
+      "rss_metadata": {
+        "entry_id": "4d1c1a79-cf91-4f29-968a-66c87452f1f4",
+        "title": "Seaway Crude Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325579/1?filename=XBRL_8_938_20250417095453.xbrl",
+        "published_parsed": "2025-04-17 17:10:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Seminole Pipeline Company LLCQ4": [
+    {
+      "filename": "Seminole_Pipeline_Company_LLC_form6_Q4_1744836309.xbrl",
+      "rss_metadata": {
+        "entry_id": "cb136e11-c3cf-4bb3-a971-987452a1e373",
+        "title": "Seminole Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325106/1?filename=XBRL_8_932_20250416132251.xbrl",
+        "published_parsed": "2025-04-16 20:45:09+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Shell Pipeline Company LPQ4": [
+    {
+      "filename": "Shell_Pipeline_Company_LP_form6_Q4_1744315392.xbrl",
+      "rss_metadata": {
+        "entry_id": "3f03e543-4ef7-4c62-ab5c-167b393d12e9",
+        "title": "Shell Pipeline Company LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323432/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-10 20:03:12+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Ship Shoal Pipeline Company LLCQ4": [
+    {
+      "filename": "Ship_Shoal_Pipeline_Company_LLC_form6_Q4_1744223116.xbrl",
+      "rss_metadata": {
+        "entry_id": "c8be9b2d-913f-4bc6-a44c-59315ffe4809",
+        "title": "Ship Shoal Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323133/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-09 18:25:16+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Sorrento Pipeline Company, LLCQ4": [
+    {
+      "filename": "Sorrento_Pipeline_Company,_LLC_form6_Q4_1744897122.xbrl",
+      "rss_metadata": {
+        "entry_id": "784302a0-516f-4e99-95ef-021cce458f74",
+        "title": "Sorrento Pipeline Company, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325298/1?filename=XBRL_8_937_20250417062816.xbrl",
+        "published_parsed": "2025-04-17 13:38:42+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "South Bow (USA) LPQ4": [
+    {
+      "filename": "South_Bow_(USA)_LP_form6_Q4_1742915658.xbrl",
+      "rss_metadata": {
+        "entry_id": "6d12f8f2-2f04-46b7-8c33-00188025544d",
+        "title": "South Bow (USA) LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321529/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-03-25 15:14:18+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "SouthTex 66 Pipeline Company, Ltd.Q4": [
+    {
+      "filename": "SouthTex_66_Pipeline_Company,_Ltd._form6_Q4_1745015231.xbrl",
+      "rss_metadata": {
+        "entry_id": "b0ad2388-e03b-4ec3-beef-487f6199404a",
+        "title": "SouthTex 66 Pipeline Company, Ltd.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326359/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:27:11+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Spire NGL Inc.Q4": [
+    {
+      "filename": "Spire_NGL_Inc._form6_Q4_1744659402.xbrl",
+      "rss_metadata": {
+        "entry_id": "a57592ea-a227-4014-a388-f947f2301c76",
+        "title": "Spire NGL Inc.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324074/1?filename=C001905.xbrl",
+        "published_parsed": "2025-04-14 19:36:42+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Stakeholder Midstream Crude Oil Pipeline, LLCQ4": [
+    {
+      "filename": "Stakeholder_Midstream_Crude_Oil_Pipeline,_LLC_form6_Q4_1740521940.xbrl",
+      "rss_metadata": {
+        "entry_id": "81e3c1ed-f9b1-444d-ac51-22b69a7e6418",
+        "title": "Stakeholder Midstream Crude Oil Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/310780/1?filename=XBRL_8_620_20250225151412.xbrl",
+        "published_parsed": "2025-02-25 22:19:00+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Stateline Crude, LLCQ4": [
+    {
+      "filename": "Stateline_Crude,_LLC_form6_Q4_1744924338.xbrl",
+      "rss_metadata": {
+        "entry_id": "874e3c41-0eed-45e3-8e9f-a881c84809be",
+        "title": "Stateline Crude, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325805/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 21:12:18+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Suncor Energy (U.S.A.) Pipeline CompanyQ4": [
+    {
+      "filename": "Suncor_Energy_(U.S.A.)_Pipeline_Company_form6_Q4_1744820051.xbrl",
+      "rss_metadata": {
+        "entry_id": "e1714f6f-438b-4b49-9848-b0d102a83121",
+        "title": "Suncor Energy (U.S.A.) Pipeline Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324892/1?filename=C001253_Form%206_20250416160839.xbrl",
+        "published_parsed": "2025-04-16 16:14:11+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Sunoco Pipeline L.P.Q4": [
+    {
+      "filename": "Sunoco_Pipeline_L.P._form6_Q4_1744911837.xbrl",
+      "rss_metadata": {
+        "entry_id": "f9748483-2a06-4fe1-b54a-d337d8bf0919",
+        "title": "Sunoco Pipeline L.P.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325601/1?filename=XBRL_8_1555_20250417101616.xbrl",
+        "published_parsed": "2025-04-17 17:43:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Sunrise Pipeline LLCQ4": [
+    {
+      "filename": "Sunrise_Pipeline_LLC_form6_Q4_1744660076.xbrl",
+      "rss_metadata": {
+        "entry_id": "a2c3ffb1-e458-44f1-bae7-a7bf5b7dcf57",
+        "title": "Sunrise Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324087/1?filename=sp%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-14 19:47:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "TOTAL PETROCHEMICALS PIPELINE USA, INC.Q4": [
+    {
+      "filename": "TOTAL_PETROCHEMICALS_PIPELINE_USA,_INC._form6_Q4_1738264565.xbrl",
+      "rss_metadata": {
+        "entry_id": "a0a20b14-2a8b-4ec1-9ac6-c54fea05136a",
+        "title": "TOTAL PETROCHEMICALS PIPELINE USA, INC.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/300431/1?filename=FercFiling-C002299-F6-2024Q4.xbrl",
+        "published_parsed": "2025-01-30 19:16:05+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Tallgrass Pony Express Pipeline, LLCQ4": [
+    {
+      "filename": "Tallgrass_Pony_Express_Pipeline,_LLC_form6_Q4_1744399886.xbrl",
+      "rss_metadata": {
+        "entry_id": "67e224b7-41c9-409c-9787-64806cfb58d1",
+        "title": "Tallgrass Pony Express Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323768/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-11 19:31:26+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Targa Gulf Coast NGL Pipeline LLCQ4": [
+    {
+      "filename": "Targa_Gulf_Coast_NGL_Pipeline_LLC_form6_Q4_1744905863.xbrl",
+      "rss_metadata": {
+        "entry_id": "03276cd6-19bf-46c5-9310-9f8c7aaabc8a",
+        "title": "Targa Gulf Coast NGL Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325484/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 16:04:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Targa NGL Pipeline Company LLCQ4": [
+    {
+      "filename": "Targa_NGL_Pipeline_Company_LLC_form6_Q4_1744907281.xbrl",
+      "rss_metadata": {
+        "entry_id": "cae5751f-3fa9-4579-a571-18a05c4226d8",
+        "title": "Targa NGL Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325537/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-17 16:28:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Tesoro High Plains Pipeline Company LLCQ4": [
+    {
+      "filename": "Tesoro_High_Plains_Pipeline_Company_LLC_form6_Q4_1744902128.xbrl",
+      "rss_metadata": {
+        "entry_id": "543c8a67-7c70-46ea-960e-a8a4b598d50c",
+        "title": "Tesoro High Plains Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325394/1?filename=thpc-20241231.xbrl",
+        "published_parsed": "2025-04-17 15:02:08+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Tesoro Logistics Northwest Pipeline LLCQ4": [
+    {
+      "filename": "Tesoro_Logistics_Northwest_Pipeline_LLC_form6_Q4_1744903703.xbrl",
+      "rss_metadata": {
+        "entry_id": "26516dfa-c041-46cf-885c-c59016f23636",
+        "title": "Tesoro Logistics Northwest Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325419/1?filename=tlnp-20241231.xbrl",
+        "published_parsed": "2025-04-17 15:28:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Texas Express Pipeline LLCQ4": [
+    {
+      "filename": "Texas_Express_Pipeline_LLC_form6_Q4_1744901037.xbrl",
+      "rss_metadata": {
+        "entry_id": "49e9f0e5-8b3a-4e5f-965e-b901e5111f82",
+        "title": "Texas Express Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325380/1?filename=XBRL_8_933_20250417072635.xbrl",
+        "published_parsed": "2025-04-17 14:43:57+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Texoma Crude Oil Pipeline Company LLCQ4": [
+    {
+      "filename": "Texoma_Crude_Oil_Pipeline_Company_LLC_form6_Q4_1744235218.xbrl",
+      "rss_metadata": {
+        "entry_id": "dd9b01c9-9ca1-45fb-bd1b-d60e85ae50b3",
+        "title": "Texoma Crude Oil Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323226/1?filename=tcopc,%20llc-20241231.xbrl",
+        "published_parsed": "2025-04-09 21:46:58+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Thunder Creek NGL Pipeline LLCQ4": [
+    {
+      "filename": "Thunder_Creek_NGL_Pipeline_LLC_form6_Q4_1743451021.xbrl",
+      "rss_metadata": {
+        "entry_id": "28abdd19-4e19-4e21-9e9d-c6becf200f9c",
+        "title": "Thunder Creek NGL Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322082/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-03-31 19:57:01+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Tivoli Services, LLCQ4": [
+    {
+      "filename": "Tivoli_Services,_LLC_form6_Q4_1742330872.xbrl",
+      "rss_metadata": {
+        "entry_id": "a81888c5-1984-45c7-bff6-ca3ba21d95cd",
+        "title": "Tivoli Services, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/321137/1?filename=XBRL_8_964_20250318133733.xbrl",
+        "published_parsed": "2025-03-18 20:47:52+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Toro Pipeline, LLCQ4": [
+    {
+      "filename": "Toro_Pipeline,_LLC_form6_Q4_1744921720.xbrl",
+      "rss_metadata": {
+        "entry_id": "b00ebb1d-c4cb-4612-835e-18aeb2ccf19c",
+        "title": "Toro Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325757/1?filename=Toro_2024_Form_6.xbrl",
+        "published_parsed": "2025-04-17 20:28:40+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Trans Mountain Pipeline (Puget Sound) LLCQ4": [
+    {
+      "filename": "Trans_Mountain_Pipeline_(Puget_Sound)_LLC_form6_Q4_1744924243.xbrl",
+      "rss_metadata": {
+        "entry_id": "6f64a1d8-11d1-45bc-8d54-9a1b95dc11ec",
+        "title": "Trans Mountain Pipeline (Puget Sound) LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325803/1?filename=C000842.xbrl",
+        "published_parsed": "2025-04-17 21:10:43+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Tri-States NGL Pipeline, LLCQ4": [
+    {
+      "filename": "Tri-States_NGL_Pipeline,_LLC_form6_Q4_1744904636.xbrl",
+      "rss_metadata": {
+        "entry_id": "17f0d648-7525-438d-83fd-e0ced31bc654",
+        "title": "Tri-States NGL Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325450/1?filename=XBRL_8_936_20250417083600.xbrl",
+        "published_parsed": "2025-04-17 15:43:56+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "UEOM NGL Pipelines LLCQ4": [
+    {
+      "filename": "UEOM_NGL_Pipelines_LLC_form6_Q4_1744817195.xbrl",
+      "rss_metadata": {
+        "entry_id": "766dcf55-f0ee-466f-937c-d29558b1b7b9",
+        "title": "UEOM NGL Pipelines LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324854/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:26:35+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "UNEV Pipeline, LLCQ4": [
+    {
+      "filename": "UNEV_Pipeline,_LLC_form6_Q4_1744832063.xbrl",
+      "rss_metadata": {
+        "entry_id": "60389ab0-38d1-4437-8f24-c60203f0e370",
+        "title": "UNEV Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325009/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 19:34:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Valero Partners Lucas, LLCQ4": [
+    {
+      "filename": "Valero_Partners_Lucas,_LLC_form6_Q4_1747172565.xbrl",
+      "rss_metadata": {
+        "entry_id": "d484f56f-f604-4266-b0c2-481df02797e9",
+        "title": "Valero Partners Lucas, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337542/1?filename=249350-C003911-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 21:42:45+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Valero_Partners_Lucas,_LLC_form6_Q4_1744833879.xbrl",
+      "rss_metadata": {
+        "entry_id": "658ecf3d-59a4-4e54-bf93-02a0e0637214",
+        "title": "Valero Partners Lucas, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325053/1?filename=vpll-20241231.xbrl",
+        "published_parsed": "2025-04-16 20:04:39+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Valero Partners PAPS, LLCQ4": [
+    {
+      "filename": "Valero_Partners_PAPS,_LLC_form6_Q4_1744834343.xbrl",
+      "rss_metadata": {
+        "entry_id": "ddc33d74-8def-46b7-b3d4-4b911378f625",
+        "title": "Valero Partners PAPS, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325059/1?filename=vppl-20241231.xbrl",
+        "published_parsed": "2025-04-16 20:12:23+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Valero_Partners_PAPS,_LLC_form6_Q4_1747173070.xbrl",
+      "rss_metadata": {
+        "entry_id": "ff902ef2-a004-4059-881b-73728e378302",
+        "title": "Valero Partners PAPS, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337549/1?filename=249354-C003910-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 21:51:10+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Valero Partners Wynnewood, LLCQ4": [
+    {
+      "filename": "Valero_Partners_Wynnewood,_LLC_form6_Q4_1744834610.xbrl",
+      "rss_metadata": {
+        "entry_id": "3af73787-9d54-4f32-81b2-876d45164c0a",
+        "title": "Valero Partners Wynnewood, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325062/1?filename=vpwl-20241231.xbrl",
+        "published_parsed": "2025-04-16 20:16:50+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Valero_Partners_Wynnewood,_LLC_form6_Q4_1747173676.xbrl",
+      "rss_metadata": {
+        "entry_id": "1cf4ad59-ef14-4f06-8c10-ee0a206e0fb2",
+        "title": "Valero Partners Wynnewood, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337556/1?filename=249357-C004466-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 22:01:16+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Valero Skellytown Pipeline, LLCQ4": [
+    {
+      "filename": "Valero_Skellytown_Pipeline,_LLC_form6_Q4_1747171522.xbrl",
+      "rss_metadata": {
+        "entry_id": "08999a48-4e8e-4f6e-9f11-347eb7bc5e41",
+        "title": "Valero Skellytown Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/337534/1?filename=249346-C005147-Form_6-2024-Q4.xbrl",
+        "published_parsed": "2025-05-13 21:25:22+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    },
+    {
+      "filename": "Valero_Skellytown_Pipeline,_LLC_form6_Q4_1744833319.xbrl",
+      "rss_metadata": {
+        "entry_id": "b9291055-4e9c-4ee1-8bcb-256dc73a2b52",
+        "title": "Valero Skellytown Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325033/1?filename=vspl-20241231.xbrl",
+        "published_parsed": "2025-04-16 19:55:19+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Vantage Pipeline US LPQ4": [
+    {
+      "filename": "Vantage_Pipeline_US_LP_form6_Q4_1744649043.xbrl",
+      "rss_metadata": {
+        "entry_id": "231f307c-0284-4af6-b925-6055afae6ef8",
+        "title": "Vantage Pipeline US LP",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323966/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-14 16:44:03+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "WILLIAMS OHIO VALLEY PIPELINE LLCQ4": [
+    {
+      "filename": "WILLIAMS_OHIO_VALLEY_PIPELINE_LLC_form6_Q4_1744818814.xbrl",
+      "rss_metadata": {
+        "entry_id": "29ddd198-a804-4cf0-af35-4a562ce786c5",
+        "title": "WILLIAMS OHIO VALLEY PIPELINE LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324880/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-16 15:53:34+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "WILPRISE Pipeline Company, L.L.C.Q4": [
+    {
+      "filename": "WILPRISE_Pipeline_Company,_L.L.C._form6_Q4_1744835789.xbrl",
+      "rss_metadata": {
+        "entry_id": "b8efab6f-44bb-46e7-868c-ba35254617e9",
+        "title": "WILPRISE Pipeline Company, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325093/1?filename=XBRL_8_935_20250416132657.xbrl",
+        "published_parsed": "2025-04-16 20:36:29+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "WesTTex 66 Pipeline LLCQ4": [
+    {
+      "filename": "WesTTex_66_Pipeline_LLC_form6_Q4_1745015293.xbrl",
+      "rss_metadata": {
+        "entry_id": "14284677-20b0-440c-a2b6-6ee380c6e313",
+        "title": "WesTTex 66 Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326360/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:28:13+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Wesco Pipeline LLCQ4": [
+    {
+      "filename": "Wesco_Pipeline_LLC_form6_Q4_1744065727.xbrl",
+      "rss_metadata": {
+        "entry_id": "cb8812e9-1e42-42c0-8f44-1486f34e9fff",
+        "title": "Wesco Pipeline LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/322762/1?filename=C002482.xbrl",
+        "published_parsed": "2025-04-07 22:42:07+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "West Shore Pipe Line CompanyQ4": [
+    {
+      "filename": "West_Shore_Pipe_Line_Company_form6_Q4_1744988342.xbrl",
+      "rss_metadata": {
+        "entry_id": "06c3f94c-8e2f-413f-8866-f4a44eb3c69e",
+        "title": "West Shore Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326130/1?filename=West_Shore_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-18 14:59:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "West Texas Gulf Pipe Line Company LLCQ4": [
+    {
+      "filename": "West_Texas_Gulf_Pipe_Line_Company_LLC_form6_Q4_1744807790.xbrl",
+      "rss_metadata": {
+        "entry_id": "87de10bd-7e09-4b6a-9147-249dfd1152e2",
+        "title": "West Texas Gulf Pipe Line Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324731/1?filename=XBRL_8_1540_20250416054356.xbrl",
+        "published_parsed": "2025-04-16 12:49:50+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Western Refining Conan Gathering, LLCQ4": [
+    {
+      "filename": "Western_Refining_Conan_Gathering,_LLC_form6_Q4_1744897074.xbrl",
+      "rss_metadata": {
+        "entry_id": "a066b3a4-fba9-41fe-a4bb-cde221cd359c",
+        "title": "Western Refining Conan Gathering, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325297/1?filename=wrcg-20241231.xbrl",
+        "published_parsed": "2025-04-17 13:37:54+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Western Refining Pipeline, LLCQ4": [
+    {
+      "filename": "Western_Refining_Pipeline,_LLC_form6_Q4_1744897010.xbrl",
+      "rss_metadata": {
+        "entry_id": "011809fb-58ca-448a-b665-b39a8a3a0895",
+        "title": "Western Refining Pipeline, LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/325296/1?filename=wrpl-20241231.xbrl",
+        "published_parsed": "2025-04-17 13:36:50+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "White Cliffs Pipeline, L.L.C.Q4": [
+    {
+      "filename": "White_Cliffs_Pipeline,_L.L.C._form6_Q4_1744652402.xbrl",
+      "rss_metadata": {
+        "entry_id": "2c97642f-93a1-411e-b92b-d50e85a19e3a",
+        "title": "White Cliffs Pipeline, L.L.C.",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323999/1?filename=XBRL_8_1539_20250414103503.xbrl",
+        "published_parsed": "2025-04-14 17:40:02+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Wildrose Pipeline Company LLCQ4": [
+    {
+      "filename": "Wildrose_Pipeline_Company_LLC_form6_Q4_1744664000.xbrl",
+      "rss_metadata": {
+        "entry_id": "255cde8c-948d-4bbc-9af2-b80f1b157ef2",
+        "title": "Wildrose Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/324150/1?filename=wldrs20250409_ferc6.xbrl",
+        "published_parsed": "2025-04-14 20:53:20+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Wolverine Pipe Line CompanyQ4": [
+    {
+      "filename": "Wolverine_Pipe_Line_Company_form6_Q4_1744298837.xbrl",
+      "rss_metadata": {
+        "entry_id": "9def1878-9bf8-4a79-85c6-e6479857d5a7",
+        "title": "Wolverine Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323329/1?filename=XBRL_8_687_20250410082035.xbrl",
+        "published_parsed": "2025-04-10 15:27:17+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Wood River Pipe Lines LLCQ4": [
+    {
+      "filename": "Wood_River_Pipe_Lines_LLC_form6_Q4_1744990864.xbrl",
+      "rss_metadata": {
+        "entry_id": "a40860a5-471c-4ca9-9461-c8d8c995c827",
+        "title": "Wood River Pipe Lines LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326153/1?filename=Wood_River_Form_6_-_Q4_2024.xbrl",
+        "published_parsed": "2025-04-18 15:41:04+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Yellowstone Pipe Line CompanyQ4": [
+    {
+      "filename": "Yellowstone_Pipe_Line_Company_form6_Q4_1745016653.xbrl",
+      "rss_metadata": {
+        "entry_id": "eea3f7b6-478f-4ca5-ad8c-9dc74fc3bbdc",
+        "title": "Yellowstone Pipe Line Company",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/326363/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-18 22:50:53+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ],
+  "Zydeco Pipeline Company LLCQ4": [
+    {
+      "filename": "Zydeco_Pipeline_Company_LLC_form6_Q4_1744308102.xbrl",
+      "rss_metadata": {
+        "entry_id": "c5df0ef3-6f12-483f-98b7-05a0bf5ae363",
+        "title": "Zydeco Pipeline Company LLC",
+        "download_url": "https://ecollection.ferc.gov/api/DownloadDocument/323391/1?filename=wk-20241231.xml",
+        "published_parsed": "2025-04-10 18:01:42+00:00",
+        "ferc_formname": "FercForm.FORM_6",
+        "ferc_year": 2024,
+        "ferc_period": "Q4"
+      },
+      "taxonomy_url": "https://ecollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd",
+      "taxonomy_zip_name": "form-6-2024-04-01.zip"
+    }
+  ]
+}

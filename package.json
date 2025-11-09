@@ -1,0 +1,17 @@
+{
+  "name": "pipeline-valuation-webapp",
+  "version": "0.1.0",
+  "description": "FERC Pipeline Valuation Web App with XBRL data",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "xml2js": "^0.6.2"
+  }
+}
