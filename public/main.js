@@ -231,6 +231,7 @@ async function viewPipelineDetails(pipelineId, companyName) {
           <button class="valuation-tab" onclick="switchValuationTab('income', '${pipelineId}', event)">📈 Income Approach</button>
           <button class="valuation-tab" onclick="switchValuationTab('market', '${pipelineId}', event)">🏢 Market Approach</button>
           <button class="valuation-tab" onclick="switchValuationTab('summary', '${pipelineId}', event)">📊 Summary</button>
+          <button class="valuation-tab" onclick="switchValuationTab('details', '${pipelineId}', event)">📋 Company Details</button>
         </div>
         
         <!-- Tab Contents -->
@@ -370,7 +371,14 @@ async function viewPipelineDetails(pipelineId, companyName) {
             <div id="summaryCalculation"></div>
           </div>
           
-          <button onclick="saveCalculatedValuation(${pipelineId})" class="btn-success" style="margin-top: 20px;">💾 Save This Valuation</button>
+          <button onclick="saveCalculatedValuation('${pipelineId}')" class="btn-success" style="margin-top: 20px;">💾 Save This Valuation</button>
+        </div>
+        
+        <div id="detailsTab" class="tab-content">
+          <h3>Company Details from XBRL Filing</h3>
+          <div id="companyDetailsContent">
+            <p style="color: #586069;">Loading detailed information...</p>
+          </div>
         </div>
       </div>
       
@@ -672,7 +680,16 @@ function switchValuationTab(tabName, pipelineId, event) {
   document.querySelectorAll('.tab-content').forEach(content => {
     content.classList.remove('active');
   });
-  document.getElementById(tabName + 'Tab').classList.add('active');
+  
+  const tabElement = document.getElementById(tabName + 'Tab');
+  if (tabElement) {
+    tabElement.classList.add('active');
+  }
+  
+  // Load details if switching to details tab
+  if (tabName === 'details' && pipelineId) {
+    loadCompanyDetails(pipelineId);
+  }
 }
 
 // Cost Approach Calculation
@@ -947,3 +964,160 @@ Weighting: Cost ${weightCost}%, Income ${weightIncome}%, Market ${weightMarket}%
     alert('❌ Error saving valuation: ' + err.message);
   }
 }
+
+// Load detailed company information from XBRL
+async function loadCompanyDetails(pipelineId) {
+  const contentDiv = document.getElementById('companyDetailsContent');
+  if (!contentDiv) return;
+  
+  contentDiv.innerHTML = '<p style="color: #586069;">⏳ Loading comprehensive XBRL data...</p>';
+  
+  try {
+    const details = await $fetch(`/api/pipeline/${encodeURIComponent(pipelineId)}/details`);
+    
+    let html = '<div style="display: grid; gap: 20px;">';
+    
+    // Company Overview & Contact Info
+    let companyOverview = `<div class="metric-card"><h4>📋 Company Overview</h4><dl>`;
+    companyOverview += `<dt>Company Name</dt><dd><strong>${details.company_name}</strong></dd>`;
+    companyOverview += `<dt>File</dt><dd style="font-size: 11px; word-break: break-all;">${details.file_name || 'N/A'}</dd>`;
+    
+    if (details.company_info && Object.keys(details.company_info).length > 0) {
+      Object.entries(details.company_info).forEach(([key, value]) => {
+        companyOverview += `<dt>${key}</dt><dd>${value}</dd>`;
+      });
+    }
+    companyOverview += `<dt>Total Miles</dt><dd><strong>${details.total_miles > 0 ? details.total_miles.toLocaleString(undefined, {maximumFractionDigits: 2}) + ' miles' : 'Not specified'}</strong></dd>`;
+    companyOverview += `<dt>Gathering Miles</dt><dd><strong>${details.total_gathering_miles > 0 ? details.total_gathering_miles.toLocaleString() : '0'}</strong></dd>`;
+    companyOverview += `<dt>Trunk Crude Miles</dt><dd><strong>${details.total_trunk_crude_miles > 0 ? details.total_trunk_crude_miles.toLocaleString() : '0'}</strong></dd>`;
+    companyOverview += `<dt>Trunk Products Miles</dt><dd><strong>${details.total_trunk_products_miles > 0 ? details.total_trunk_products_miles.toLocaleString() : '0'}</strong></dd>`;
+    companyOverview += `<dt>States</dt><dd>${details.states && details.states.length > 0 ? '<strong>' + details.states.join(', ') + '</strong>' : 'Not specified'}</dd>`;
+    companyOverview += `</dl></div>`;
+    html += companyOverview;
+    
+    // Pipeline Segments with Start/End Points
+    if (details.pipeline_segments && details.pipeline_segments.length > 0) {
+      html += `<div class="metric-card"><h4>�️ Pipeline Segments (${details.pipeline_segments.length})</h4>`;
+      html += `<table style="width: 100%; font-size: 13px; margin-top: 10px;">
+        <thead><tr style="background: #f6f8fa;">
+          <th style="padding: 6px; text-align: left; border-bottom: 2px solid #e1e4e8;">Start</th>
+          <th style="padding: 6px; text-align: left; border-bottom: 2px solid #e1e4e8;">End</th>
+          <th style="padding: 6px; text-align: right; border-bottom: 2px solid #e1e4e8;">Gathering Mi</th>
+          <th style="padding: 6px; text-align: center; border-bottom: 2px solid #e1e4e8;">Dia</th>
+          <th style="padding: 6px; text-align: right; border-bottom: 2px solid #e1e4e8;">Trunk Crude Mi</th>
+          <th style="padding: 6px; text-align: center; border-bottom: 2px solid #e1e4e8;">Dia</th>
+          <th style="padding: 6px; text-align: right; border-bottom: 2px solid #e1e4e8;">Trunk Prod Mi</th>
+          <th style="padding: 6px; text-align: center; border-bottom: 2px solid #e1e4e8;">Dia</th>
+        </tr></thead><tbody>`;
+      details.pipeline_segments.forEach(seg => {
+        html += `<tr style="border-bottom: 1px solid #e1e4e8;">
+          <td style="padding: 6px;"><strong>${seg.start_point}</strong></td>
+          <td style="padding: 6px;">${seg.end_point}</td>
+          <td style="padding: 6px; text-align: right;">${seg.gathering_miles || '—'}</td>
+          <td style="padding: 6px; text-align: center;">${seg.gathering_diameter ? seg.gathering_diameter + '"' : '—'}</td>
+          <td style="padding: 6px; text-align: right;">${seg.trunk_crude_miles || '—'}</td>
+          <td style="padding: 6px; text-align: center;">${seg.trunk_crude_diameter ? seg.trunk_crude_diameter + '"' : '—'}</td>
+          <td style="padding: 6px; text-align: right;">${seg.trunk_product_miles || '—'}</td>
+          <td style="padding: 6px; text-align: center;">${seg.trunk_product_diameter ? seg.trunk_product_diameter + '"' : '—'}</td>
+        </tr>`;
+      });
+      html += `</tbody></table></div>`;
+    }
+    
+    // Revenues
+    if (details.revenues && Object.keys(details.revenues).length > 0) {
+      html += `<div class="metric-card"><h4>💵 Revenue Breakdown</h4><dl>`;
+      Object.entries(details.revenues).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Operating Expenses
+    if (details.operating_expenses && Object.keys(details.operating_expenses).length > 0) {
+      html += `<div class="metric-card"><h4>🔧 Operating Expenses</h4><dl>`;
+      Object.entries(details.operating_expenses).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // General Expenses
+    if (details.general_expenses && Object.keys(details.general_expenses).length > 0) {
+      html += `<div class="metric-card"><h4>📊 General & Administrative Expenses</h4><dl>`;
+      Object.entries(details.general_expenses).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Financial Data (Income Statement)
+    if (details.financial_data && Object.keys(details.financial_data).length > 0) {
+      html += `<div class="metric-card"><h4>💰 Income Statement Items</h4><dl>`;
+      Object.entries(details.financial_data).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Assets
+    if (details.asset_data && Object.keys(details.asset_data).length > 0) {
+      html += `<div class="metric-card"><h4>🏭 Assets</h4><dl>`;
+      Object.entries(details.asset_data).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Liabilities & Equity
+    if (details.liabilities_equity && Object.keys(details.liabilities_equity).length > 0) {
+      html += `<div class="metric-card"><h4>📉 Liabilities & Equity</h4><dl>`;
+      Object.entries(details.liabilities_equity).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Cash Flow
+    if (details.cash_flow && Object.keys(details.cash_flow).length > 0) {
+      html += `<div class="metric-card"><h4>💸 Cash Flow Statement</h4><dl>`;
+      Object.entries(details.cash_flow).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Rate Base & Return
+    if (details.rate_base && Object.keys(details.rate_base).length > 0) {
+      html += `<div class="metric-card"><h4>📈 Rate Base & Return on Investment</h4><dl>`;
+      Object.entries(details.rate_base).forEach(([key, value]) => {
+        const isPercentage = key.toLowerCase().includes('rate') || key.toLowerCase().includes('ratio') || key.toLowerCase().includes('wacc') || key.toLowerCase().includes('cost');
+        if (isPercentage && value > 0 && value < 1) {
+          html += `<dt>${key}</dt><dd><strong>${(value * 100).toFixed(2)}%</strong></dd>`;
+        } else if (isPercentage && value >= 1 && value <= 100) {
+          html += `<dt>${key}</dt><dd><strong>${Number(value).toFixed(2)}%</strong></dd>`;
+        } else {
+          html += `<dt>${key}</dt><dd><strong>$${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+        }
+      });
+      html += `</dl></div>`;
+    }
+    
+    // Operational Metrics
+    if (details.operational_data && Object.keys(details.operational_data).length > 0) {
+      html += `<div class="metric-card"><h4>📊 Operational Metrics</h4><dl>`;
+      Object.entries(details.operational_data).forEach(([key, value]) => {
+        html += `<dt>${key}</dt><dd><strong>${Number(value).toLocaleString(undefined, {maximumFractionDigits: 0})}</strong></dd>`;
+      });
+      html += `</dl></div>`;
+    }
+    
+    html += '</div>';
+    contentDiv.innerHTML = html;
+    
+  } catch (err) {
+    console.error('Error loading company details:', err);
+    contentDiv.innerHTML = `<div class="error"><strong>Error:</strong> ${err.message}</div>`;
+  }
+}
+

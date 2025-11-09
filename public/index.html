@@ -330,7 +330,6 @@
   <div class="nav">
     <div class="nav-container">
       <div class="nav-item active" onclick="showPage('search')">Search Pipelines</div>
-      <div class="nav-item" onclick="showPage('explorer')">Data Explorer</div>
       <div class="nav-item" onclick="showPage('about')">About</div>
     </div>
   </div>
@@ -353,27 +352,6 @@
       </div>
     </div>
 
-    <!-- Data Explorer Page -->
-    <div id="explorerPage" class="page">
-      <div class="card">
-        <h2>FERC Database Explorer</h2>
-        <p style="color: #586069; margin-bottom: 20px;">Browse raw data from the FERC Form 6 database tables.</p>
-        
-        <div class="form-group">
-          <label for="tables">Select Table:</label>
-          <select id="tables" style="width: 100%; max-width: 500px;"></select>
-        </div>
-        
-        <div class="form-group">
-          <label for="limit">Number of Rows:</label>
-          <input id="limit" type="number" value="50" min="1" max="500" style="width: 150px" />
-          <button id="load" style="margin-left: 10px;">Load Data</button>
-        </div>
-        
-        <div id="result"></div>
-      </div>
-    </div>
-
     <!-- About Page -->
     <div id="aboutPage" class="page">
       <div class="card">
@@ -384,9 +362,9 @@
         
         <h3>Features</h3>
         <ul>
-          <li><strong>FERC Database Search:</strong> Search through thousands of pipeline company filings</li>
+          <li><strong>FERC Database Search:</strong> Search through 250+ pipeline companies (2024 Q4 XBRL filings)</li>
           <li><strong>Tri-Approach Valuation:</strong> Cost, Income, and Market approaches</li>
-          <li><strong>Data Explorer:</strong> Direct access to FERC Form 6 tables</li>
+          <li><strong>Company Details:</strong> Comprehensive XBRL data extraction with financial and operational metrics</li>
           <li><strong>Evaluation History:</strong> Track and compare valuations over time</li>
         </ul>
         

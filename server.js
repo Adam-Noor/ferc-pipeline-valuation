@@ -202,6 +202,27 @@ app.get('/api/pipeline/:id/overview', async (req, res) => {
   }
 });
 
+// Detailed company information from XBRL
+app.get('/api/pipeline/:id/details', async (req, res) => {
+  const fileId = req.params.id;
+  console.log(`[DETAILS] Request for file: ${fileId}`);
+  
+  try {
+    const details = await xbrlParser.getDetailedInfo(fileId);
+    
+    if (!details) {
+      console.error(`[DETAILS] Parser returned null for ${fileId}`);
+      return res.status(404).json({ error: 'Details not found' });
+    }
+    
+    console.log(`[DETAILS] Successfully parsed ${fileId}`);
+    res.json(details);
+  } catch (err) {
+    console.error(`[DETAILS] Error for ${fileId}:`, err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // Financial Metrics API
 app.get('/api/pipeline/:id/financials', async (req, res) => {
   const id = parseInt(req.params.id, 10);
